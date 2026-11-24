@@ -1,0 +1,10 @@
+save,fixture,home,away,our_team,opponent,builds,matches_per_build,total_matches,win_pct_all,win_pct_lowest_build,win_pct_highest_build,win_pct_spread
+Leicester City (FM27 England),leicester-v-walsall,Leicester City,Walsall,Leicester City,Walsall,10,200,2000,79.0,72.5,88.0,15.5
+Leicester City (FM27 England),leicester-v-middlesbrough,Leicester City,Middlesbrough,Leicester City,Middlesbrough,10,200,2000,27.9,18.0,32.5,14.5
+Leicester City (FM27 England),leicester-v-coventry,Leicester City,Coventry City,Leicester City,Coventry City,10,200,2000,19.9,13.5,23.0,9.5
+KuPS (FM27 Finland),kups-v-gnistan,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura,IF Gnistan,10,200,2000,46.2,37.0,52.0,15.0
+KuPS (FM27 Finland),kups-v-sjk,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura,Seinäjoen Jalkapallokerho,10,200,2000,28.4,22.5,38.0,15.5
+KuPS (FM27 Finland),kups-v-ac-oulu,Kuopion Palloseura,AC Oulu,Kuopion Palloseura,AC Oulu,10,200,2000,25.6,20.0,34.0,14.0
+Barcelona (FM27 Spain),barcelona-v-sevilla,Barcelona,Sevilla,Barcelona,Sevilla,10,200,2000,82.8,79.0,87.0,8.0
+Barcelona (FM27 Spain),barcelona-v-real-madrid,Barcelona,R. Madrid,Barcelona,R. Madrid,10,200,2000,47.5,40.5,55.5,15.0
+Barcelona (FM27 Spain),barcelona-v-atletico-madrid,Barcelona,A. Madrid,Barcelona,A. Madrid,10,200,2000,67.0,59.5,76.0,16.5

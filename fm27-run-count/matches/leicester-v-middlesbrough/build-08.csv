@@ -1,0 +1,201 @@
+Run,Home,Away,Result,Home Goals,Away Goals,Home xG,Away xG,Home Possession (%),Away Possession (%),Home Clear-cut chances,Away Clear-cut chances,Home Shots,Away Shots,Home On target,Away On target,Home Passes,Away Passes,Home Passes completed,Away Passes completed,Home Corners,Away Corners,Home Free kicks,Away Free kicks,Home Penalties,Away Penalties,Home Offsides,Away Offsides,Home Fouls,Away Fouls,Home Yellow cards,Away Yellow cards,Home Red cards,Away Red cards,Home Substitutions,Away Substitutions,Home Injuries,Away Injuries
+1,Leicester City,Middlesbrough,Leicester City loss,1,2,0.84,1.08,35,65,2,1,10,11,5,6,383,732,303,653,8,3,8,13,0,0,3,1,13,8,0,3,0,0,3,4,1,0
+2,Leicester City,Middlesbrough,Leicester City win,1,0,0.51,1.61,37,63,1,0,8,14,2,7,414,694,350,627,6,9,14,11,0,0,1,5,11,14,1,2,0,0,3,4,0,2
+3,Leicester City,Middlesbrough,Leicester City loss,0,1,0.28,1.15,35,65,0,2,6,11,2,5,375,783,303,700,4,4,4,8,0,0,1,1,9,4,0,0,0,0,3,4,0,0
+4,Leicester City,Middlesbrough,Draw,1,1,1.45,1.25,37,63,1,1,8,10,5,3,370,652,300,576,5,9,7,16,0,0,3,1,16,8,0,2,0,0,3,5,0,0
+5,Leicester City,Middlesbrough,Draw,2,2,1.23,2.8,37,63,1,3,13,14,5,5,411,672,343,590,3,6,4,10,0,0,2,0,10,4,0,0,0,0,3,5,0,0
+6,Leicester City,Middlesbrough,Leicester City win,1,0,1.21,0.46,36,64,2,0,11,7,4,1,332,678,272,600,10,5,9,9,0,0,2,3,9,9,0,2,0,0,2,5,0,0
+7,Leicester City,Middlesbrough,Leicester City loss,2,3,1.44,1.88,40,60,1,2,20,17,9,9,456,696,385,622,10,12,6,6,0,0,3,1,6,6,1,0,0,0,3,5,0,1
+8,Leicester City,Middlesbrough,Leicester City win,1,0,1.45,0.37,34,66,2,0,9,5,8,1,390,826,329,756,8,3,6,12,0,0,3,5,12,7,2,1,0,0,2,5,0,0
+9,Leicester City,Middlesbrough,Leicester City loss,0,1,1.31,1.56,36,64,2,1,13,13,4,3,361,643,305,581,10,9,3,10,0,0,1,1,10,3,0,0,0,0,3,4,0,0
+10,Leicester City,Middlesbrough,Leicester City win,1,0,1.23,0.28,36,64,1,0,11,8,7,4,420,698,353,602,7,8,7,8,0,0,2,4,8,7,1,1,0,0,2,5,0,0
+11,Leicester City,Middlesbrough,Leicester City win,3,2,1.83,1.42,35,65,2,2,9,13,3,7,414,750,348,665,4,11,4,6,0,1,1,3,7,5,1,1,0,0,3,4,0,0
+12,Leicester City,Middlesbrough,Draw,1,1,1.27,0.91,35,65,1,1,13,12,7,5,398,766,326,698,5,8,6,8,0,0,2,2,8,6,0,1,0,0,3,5,0,0
+13,Leicester City,Middlesbrough,Leicester City loss,0,1,0.72,1.83,37,63,1,1,7,13,3,6,365,568,290,498,9,9,6,7,0,0,2,0,7,6,0,0,0,0,3,5,0,1
+14,Leicester City,Middlesbrough,Leicester City win,4,3,1.21,1.2,39,61,2,1,12,13,9,7,408,641,336,557,10,1,10,12,0,0,4,1,12,10,0,1,0,0,3,5,0,0
+15,Leicester City,Middlesbrough,Draw,1,1,1.55,0.85,40,60,2,0,12,12,5,5,428,725,359,639,5,5,5,9,0,0,0,1,9,5,1,1,0,0,3,5,0,0
+16,Leicester City,Middlesbrough,Draw,2,2,1.74,1.4,36,64,2,2,10,11,7,6,394,721,332,654,7,6,11,11,0,0,3,4,11,11,1,1,0,0,3,4,0,0
+17,Leicester City,Middlesbrough,Leicester City loss,1,3,1.62,1.58,38,62,2,1,12,13,3,8,436,708,375,622,7,5,8,15,0,0,1,1,15,8,1,0,0,0,3,5,0,0
+18,Leicester City,Middlesbrough,Leicester City win,2,0,2.67,1.16,38,62,4,1,20,11,10,5,426,720,356,652,8,8,6,9,0,0,2,3,9,6,1,0,0,0,3,5,0,0
+19,Leicester City,Middlesbrough,Draw,1,1,2.11,1.93,39,61,1,1,16,20,9,6,415,693,345,627,7,13,11,7,0,0,1,1,7,11,1,0,0,0,3,3,0,2
+20,Leicester City,Middlesbrough,Draw,2,2,0.4,1.18,39,61,0,1,10,8,5,2,432,682,359,602,7,4,7,7,0,0,1,2,7,7,1,0,0,0,3,5,0,0
+21,Leicester City,Middlesbrough,Leicester City loss,1,3,0.4,1.95,39,61,1,4,7,17,4,11,428,640,366,564,4,11,5,8,0,0,4,2,8,5,1,1,0,0,3,4,0,0
+22,Leicester City,Middlesbrough,Draw,0,0,0.66,0.49,38,62,0,0,8,7,4,4,403,620,328,543,5,6,6,13,0,0,5,0,13,6,2,1,0,0,3,5,0,0
+23,Leicester City,Middlesbrough,Draw,2,2,1.31,0.83,34,66,0,1,14,13,4,5,407,769,337,692,7,10,6,8,0,0,1,4,8,6,0,0,0,0,3,5,0,0
+24,Leicester City,Middlesbrough,Draw,0,0,0.54,0.41,35,65,0,0,9,8,3,4,359,715,296,636,4,10,7,10,0,0,0,1,10,7,0,2,0,0,3,5,0,0
+25,Leicester City,Middlesbrough,Draw,0,0,0.28,0.34,37,63,0,0,5,7,2,2,429,776,362,697,6,5,8,17,0,0,4,3,17,8,1,0,0,0,3,5,0,0
+26,Leicester City,Middlesbrough,Leicester City loss,0,1,1.4,0.69,38,62,2,2,9,8,2,3,375,633,305,567,10,5,5,15,0,0,4,0,16,5,1,0,0,0,3,4,0,0
+27,Leicester City,Middlesbrough,Leicester City loss,0,2,0.84,1.4,38,62,0,2,11,7,6,6,358,592,299,521,8,5,7,14,0,0,2,1,14,7,0,2,0,0,3,5,0,0
+28,Leicester City,Middlesbrough,Draw,0,0,1.57,1.67,33,67,2,1,9,9,5,1,343,685,284,601,6,3,10,11,0,1,6,1,12,10,0,1,0,0,3,5,0,0
+29,Leicester City,Middlesbrough,Leicester City loss,2,3,2.61,1.62,35,65,5,1,11,14,8,9,339,703,284,635,7,5,8,10,0,1,1,0,11,8,0,0,0,0,3,4,0,0
+30,Leicester City,Middlesbrough,Leicester City win,2,1,2.08,1.77,36,64,1,1,14,13,5,3,369,646,295,576,9,11,13,11,0,0,2,5,11,13,3,0,0,0,3,5,0,0
+31,Leicester City,Middlesbrough,Leicester City loss,1,2,1.32,2.41,35,65,1,2,11,12,5,6,399,793,344,718,6,4,10,10,0,0,0,2,10,10,0,0,0,0,3,5,0,0
+32,Leicester City,Middlesbrough,Leicester City win,1,0,2.1,1.51,35,65,1,1,16,19,10,6,352,676,291,620,11,9,11,9,0,0,0,2,9,11,0,0,0,0,3,4,0,0
+33,Leicester City,Middlesbrough,Leicester City win,2,1,1.61,2.16,37,63,3,1,10,16,5,3,386,656,319,588,7,12,8,9,0,0,3,2,9,8,0,2,0,0,3,5,0,0
+34,Leicester City,Middlesbrough,Leicester City win,1,0,1.01,1.12,36,64,0,0,12,17,7,6,391,644,326,585,5,8,11,10,0,0,3,2,10,11,0,1,0,0,2,5,0,1
+35,Leicester City,Middlesbrough,Draw,1,1,0.58,0.88,39,61,0,1,12,9,4,5,417,643,355,579,11,6,7,8,0,0,1,1,8,7,0,1,0,0,3,5,0,1
+36,Leicester City,Middlesbrough,Leicester City loss,1,3,1.13,2.2,32,68,1,1,5,13,3,6,334,713,269,654,4,7,9,7,0,1,1,1,8,9,1,1,0,0,3,4,0,0
+37,Leicester City,Middlesbrough,Leicester City loss,0,1,1.4,0.36,37,63,2,0,9,7,2,3,382,700,321,625,4,6,5,13,0,0,2,1,13,5,0,1,0,0,3,5,0,0
+38,Leicester City,Middlesbrough,Draw,3,3,1.6,1.05,38,62,0,0,15,11,8,4,417,663,341,592,4,3,10,14,0,0,3,2,15,11,0,0,0,0,3,5,0,0
+39,Leicester City,Middlesbrough,Draw,0,0,0.75,0.14,38,62,0,0,13,3,7,1,419,751,344,661,12,2,5,4,0,0,0,1,4,5,0,0,0,0,3,5,2,0
+40,Leicester City,Middlesbrough,Leicester City loss,0,1,0.79,2.39,35,65,0,3,8,12,1,6,375,736,304,656,2,9,5,9,0,1,4,1,10,5,0,0,0,0,3,4,0,0
+41,Leicester City,Middlesbrough,Leicester City loss,0,3,0.37,1.97,37,63,0,3,9,21,5,10,417,714,337,624,4,9,4,12,0,0,0,1,12,4,0,1,0,0,3,4,0,0
+42,Leicester City,Middlesbrough,Leicester City loss,2,4,1.7,1.67,40,60,3,2,9,11,6,7,432,637,367,565,9,7,4,9,0,0,1,0,9,4,1,0,0,0,3,4,0,3
+43,Leicester City,Middlesbrough,Draw,3,3,1.28,2.02,42,58,2,2,11,16,8,7,411,607,355,538,8,10,7,8,0,0,3,2,8,7,1,0,0,0,3,5,0,2
+44,Leicester City,Middlesbrough,Draw,2,2,2.15,1.67,40,60,3,2,13,6,4,5,427,609,361,537,6,4,12,10,0,0,4,2,11,12,0,0,0,0,3,5,0,0
+45,Leicester City,Middlesbrough,Leicester City win,3,1,2.08,1.17,38,62,3,1,13,16,5,8,389,627,319,545,5,13,9,11,0,0,3,3,11,9,1,0,0,0,3,4,2,1
+46,Leicester City,Middlesbrough,Leicester City loss,0,1,1.12,1.31,38,62,0,1,15,12,5,5,439,682,376,607,9,6,11,11,0,0,5,3,11,11,0,1,0,0,3,5,0,0
+47,Leicester City,Middlesbrough,Leicester City win,1,0,0.78,0.92,33,67,1,0,6,14,4,3,345,715,288,644,5,8,3,17,0,0,2,0,17,3,1,0,0,0,3,5,1,0
+48,Leicester City,Middlesbrough,Leicester City loss,1,2,1.1,2.35,35,65,2,4,12,14,5,5,356,699,297,628,8,6,6,11,0,0,0,1,11,6,0,0,1,0,4,5,1,2
+49,Leicester City,Middlesbrough,Draw,1,1,0.58,1.11,35,65,1,2,8,10,4,4,394,791,317,710,1,3,8,7,0,0,0,3,7,9,0,0,0,0,3,5,0,0
+50,Leicester City,Middlesbrough,Leicester City loss,1,2,0.88,1.58,40,60,1,2,13,11,6,5,469,663,401,598,8,6,7,10,0,0,1,3,10,7,1,0,0,0,2,4,0,0
+51,Leicester City,Middlesbrough,Leicester City loss,1,2,1.43,2.41,36,64,2,0,8,20,4,10,373,725,308,657,5,13,5,14,0,0,2,1,14,5,1,1,0,0,3,5,0,0
+52,Leicester City,Middlesbrough,Draw,0,0,1.12,1.54,35,65,1,2,8,12,6,7,369,689,299,619,14,7,6,8,0,0,2,3,8,7,0,0,0,0,3,5,2,0
+53,Leicester City,Middlesbrough,Leicester City loss,1,3,1.21,1.82,36,64,1,2,9,14,5,7,408,665,351,605,3,9,12,15,0,0,2,2,15,12,1,1,0,0,3,3,0,0
+54,Leicester City,Middlesbrough,Leicester City win,3,1,1.13,1.13,41,59,1,1,13,11,6,4,430,613,372,551,7,6,9,6,0,0,1,2,6,9,2,0,0,0,3,4,0,0
+55,Leicester City,Middlesbrough,Leicester City loss,0,1,1.04,0.72,40,60,0,1,13,8,5,5,423,646,366,565,6,4,5,11,0,0,3,1,11,6,0,1,0,0,3,5,0,0
+56,Leicester City,Middlesbrough,Draw,2,2,1.68,1.72,40,60,3,2,9,12,6,6,390,634,329,565,9,2,8,18,0,0,7,3,18,9,0,0,0,0,3,4,0,0
+57,Leicester City,Middlesbrough,Leicester City loss,0,1,0.28,1.98,39,61,0,2,3,10,1,6,427,679,350,599,4,3,7,14,0,1,2,3,15,7,0,0,0,0,3,5,0,0
+58,Leicester City,Middlesbrough,Leicester City loss,1,2,1.63,1.89,37,63,1,1,12,19,7,9,381,672,307,596,9,9,10,8,0,0,4,2,8,11,1,0,0,0,3,5,0,0
+59,Leicester City,Middlesbrough,Draw,0,0,0.51,1.71,29,71,1,1,5,14,3,7,296,773,233,696,4,8,11,11,0,0,4,3,11,11,0,2,0,0,3,4,0,0
+60,Leicester City,Middlesbrough,Leicester City loss,1,2,0.74,1.26,36,64,0,1,7,14,6,11,401,721,331,652,5,7,4,7,0,0,1,0,7,4,1,0,0,0,3,5,0,0
+61,Leicester City,Middlesbrough,Leicester City loss,0,1,0.58,0.78,40,60,0,1,12,7,4,4,417,638,346,560,10,5,9,13,0,0,4,2,13,9,0,1,0,0,3,4,0,0
+62,Leicester City,Middlesbrough,Leicester City win,2,0,2.19,0.96,44,56,4,0,12,13,5,6,475,584,416,507,2,9,7,9,0,0,2,2,9,7,1,1,0,0,3,4,0,2
+63,Leicester City,Middlesbrough,Leicester City loss,0,1,0.78,2.49,36,64,1,3,11,16,0,8,376,704,323,645,6,10,11,9,0,0,5,4,9,11,0,0,0,0,3,5,0,0
+64,Leicester City,Middlesbrough,Draw,0,0,0.75,0.8,35,65,1,0,8,9,2,1,397,731,328,664,4,6,7,7,0,0,1,2,7,7,0,0,0,0,3,5,0,0
+65,Leicester City,Middlesbrough,Leicester City win,4,3,2.38,2.25,42,58,3,3,19,13,9,6,468,633,402,572,9,6,10,8,0,0,2,4,8,10,0,0,0,0,3,5,0,0
+66,Leicester City,Middlesbrough,Leicester City win,3,1,2.36,0.86,36,64,2,1,18,9,5,5,373,708,312,632,6,4,4,4,0,0,0,1,4,4,0,0,0,0,3,4,0,0
+67,Leicester City,Middlesbrough,Leicester City loss,1,3,1.72,0.84,38,62,2,1,12,8,3,5,394,666,339,604,4,1,9,12,0,0,4,1,12,9,0,1,0,0,3,3,0,0
+68,Leicester City,Middlesbrough,Leicester City loss,0,1,0.7,0.98,38,62,0,0,13,11,8,3,400,687,352,621,9,8,3,11,0,0,2,1,11,3,0,1,0,0,3,3,1,2
+69,Leicester City,Middlesbrough,Leicester City loss,0,1,0.57,2.19,37,63,0,2,6,18,3,6,388,637,318,561,6,10,10,16,0,0,3,4,16,10,3,0,0,0,3,4,0,0
+70,Leicester City,Middlesbrough,Leicester City loss,0,4,0.98,2.16,34,66,0,3,12,12,6,7,395,747,336,672,9,7,7,8,0,0,2,1,8,7,0,0,0,0,3,4,0,0
+71,Leicester City,Middlesbrough,Leicester City win,2,0,0.76,0.67,35,65,0,0,14,10,8,6,365,663,305,597,10,6,9,5,0,0,0,3,5,9,0,1,0,0,3,4,0,0
+72,Leicester City,Middlesbrough,Leicester City loss,1,2,1.78,0.8,37,63,2,0,14,12,8,5,428,663,352,590,9,7,3,9,0,0,2,0,9,4,0,0,0,0,3,4,0,0
+73,Leicester City,Middlesbrough,Leicester City loss,1,2,0.6,1.14,37,63,1,0,5,16,2,6,410,706,333,625,5,4,4,13,0,0,1,1,13,5,0,0,0,0,3,3,2,0
+74,Leicester City,Middlesbrough,Leicester City win,4,2,2.23,1.84,39,61,2,1,15,10,12,7,429,624,368,556,5,10,10,9,0,0,1,2,9,10,0,1,0,0,3,5,0,0
+75,Leicester City,Middlesbrough,Leicester City loss,0,2,0.44,0.7,38,62,0,1,9,5,5,3,422,718,359,635,8,2,3,8,0,0,3,0,9,3,0,0,0,0,3,4,1,1
+76,Leicester City,Middlesbrough,Leicester City loss,0,1,0.59,1.17,36,64,0,1,7,8,2,3,385,705,323,633,7,7,4,10,0,0,3,2,10,4,0,0,0,0,4,4,2,0
+77,Leicester City,Middlesbrough,Leicester City loss,1,2,1.1,1.22,35,65,2,1,9,12,2,5,366,791,302,722,3,12,6,6,0,0,2,2,7,8,0,0,0,0,3,3,0,0
+78,Leicester City,Middlesbrough,Leicester City loss,0,2,0.83,0.89,37,63,0,0,12,15,5,8,364,635,311,566,7,8,4,15,0,0,1,3,15,4,1,0,0,0,3,4,0,1
+79,Leicester City,Middlesbrough,Leicester City win,3,2,2.52,2.19,41,59,4,3,10,18,6,9,454,678,388,599,5,7,8,8,0,0,1,1,8,9,0,0,0,0,3,5,0,2
+80,Leicester City,Middlesbrough,Leicester City loss,1,2,1.0,1.82,35,65,1,1,12,13,3,7,376,698,299,616,8,6,8,4,0,0,1,4,4,8,0,1,0,0,2,5,0,0
+81,Leicester City,Middlesbrough,Leicester City win,3,0,1.38,0.95,38,62,2,0,7,15,6,3,407,652,334,585,6,9,9,9,0,0,1,4,9,9,0,1,0,0,3,4,0,0
+82,Leicester City,Middlesbrough,Leicester City win,3,0,1.64,0.53,38,62,3,0,11,11,8,4,427,665,360,593,7,6,10,8,0,0,2,1,8,10,0,2,0,0,3,4,0,0
+83,Leicester City,Middlesbrough,Draw,1,1,1.6,0.3,39,61,1,0,14,3,7,1,406,639,352,575,10,3,4,9,1,0,1,2,9,5,0,1,0,0,3,5,0,0
+84,Leicester City,Middlesbrough,Leicester City win,2,0,1.24,0.55,37,63,3,1,7,9,4,5,391,685,336,614,7,4,6,7,0,0,2,3,7,6,0,0,0,0,3,5,0,0
+85,Leicester City,Middlesbrough,Draw,1,1,1.24,1.44,35,65,0,2,20,10,7,5,354,701,303,620,11,4,6,10,0,1,3,3,11,8,0,2,0,0,3,5,0,2
+86,Leicester City,Middlesbrough,Leicester City win,3,1,2.46,1.55,37,63,2,0,13,18,5,8,377,666,308,595,10,7,10,11,0,0,3,3,11,10,2,1,0,0,3,5,1,0
+87,Leicester City,Middlesbrough,Draw,1,1,0.87,2.01,35,65,0,1,8,16,2,5,362,692,312,630,8,7,5,18,0,1,5,0,19,5,0,0,0,0,3,5,2,0
+88,Leicester City,Middlesbrough,Leicester City win,1,0,0.62,0.71,34,66,1,1,10,11,4,7,358,747,307,681,4,7,6,14,0,0,0,3,14,6,0,1,0,0,3,5,0,0
+89,Leicester City,Middlesbrough,Leicester City loss,0,3,1.27,2.17,37,63,1,2,11,15,5,10,399,690,343,619,5,9,4,12,0,0,2,1,12,4,0,0,0,0,3,3,0,2
+90,Leicester City,Middlesbrough,Leicester City loss,0,4,0.33,2.19,33,67,0,2,7,14,4,8,368,688,299,625,4,11,6,11,0,1,1,2,13,7,0,0,0,0,3,4,2,0
+91,Leicester City,Middlesbrough,Leicester City loss,1,2,1.27,2.15,38,62,2,2,12,13,6,8,383,624,309,548,9,7,6,12,0,1,2,0,14,6,0,0,0,0,3,4,0,0
+92,Leicester City,Middlesbrough,Leicester City loss,0,5,0.88,2.98,38,62,0,3,12,21,6,10,358,596,300,535,11,12,2,13,0,1,2,0,14,2,1,1,0,0,3,4,0,0
+93,Leicester City,Middlesbrough,Leicester City loss,0,3,1.75,0.82,37,63,1,1,12,5,5,4,388,664,324,575,11,3,5,15,0,0,2,0,15,5,2,2,0,0,3,5,0,0
+94,Leicester City,Middlesbrough,Leicester City loss,2,3,0.66,2.32,36,64,1,2,10,13,5,11,419,780,357,695,10,8,7,6,0,0,2,4,7,8,1,0,0,0,3,5,0,0
+95,Leicester City,Middlesbrough,Draw,1,1,1.33,0.45,32,68,2,0,9,8,4,4,335,726,278,663,4,5,5,11,0,0,1,1,11,5,0,1,0,0,3,5,0,0
+96,Leicester City,Middlesbrough,Draw,4,4,1.36,1.77,40,60,2,2,13,7,6,4,448,640,377,563,3,2,7,10,0,0,0,2,10,7,1,1,0,0,2,5,0,0
+97,Leicester City,Middlesbrough,Leicester City loss,1,3,0.83,1.67,37,63,0,2,10,11,6,6,401,658,342,592,5,5,2,13,0,0,3,0,13,3,0,0,0,0,4,5,2,0
+98,Leicester City,Middlesbrough,Draw,0,0,1.07,0.96,37,63,1,2,14,12,6,6,435,669,369,603,7,6,5,12,0,0,3,2,13,5,0,1,0,0,3,5,0,0
+99,Leicester City,Middlesbrough,Leicester City win,3,2,2.09,1.48,37,63,4,2,13,12,8,6,403,714,341,635,8,7,9,12,0,0,1,3,12,9,1,1,0,0,3,5,0,0
+100,Leicester City,Middlesbrough,Draw,1,1,0.51,1.56,37,63,0,1,10,20,5,10,409,637,338,569,8,17,5,8,0,0,4,1,8,5,0,0,0,0,3,5,0,0
+101,Leicester City,Middlesbrough,Leicester City win,2,0,1.23,1.66,38,62,1,0,12,16,5,4,378,678,309,593,4,5,6,10,0,0,1,0,10,6,2,0,0,0,3,4,0,0
+102,Leicester City,Middlesbrough,Draw,0,0,0.9,0.78,38,62,1,1,8,10,4,4,390,615,324,539,3,7,13,10,0,0,2,4,10,13,0,0,0,0,3,5,0,0
+103,Leicester City,Middlesbrough,Leicester City win,2,1,1.12,0.76,36,64,1,2,12,7,6,5,397,685,335,605,6,8,11,5,0,0,0,5,5,11,1,1,0,0,3,5,2,3
+104,Leicester City,Middlesbrough,Leicester City loss,1,2,1.57,1.08,40,60,2,1,16,10,7,4,452,652,393,582,9,5,5,10,0,0,2,1,10,5,0,1,0,0,3,4,0,0
+105,Leicester City,Middlesbrough,Draw,1,1,1.08,0.55,38,62,1,0,8,8,3,6,438,708,360,622,2,5,8,12,0,0,2,3,12,9,0,1,0,0,3,5,0,0
+106,Leicester City,Middlesbrough,Leicester City win,3,1,1.36,0.55,42,58,1,0,19,10,11,2,451,612,385,534,8,3,7,10,0,0,3,0,10,7,0,0,0,0,3,5,0,1
+107,Leicester City,Middlesbrough,Draw,0,0,0.57,0.98,37,63,0,1,10,12,5,5,436,689,365,612,1,10,16,5,0,0,0,3,6,16,1,1,0,0,3,4,0,4
+108,Leicester City,Middlesbrough,Draw,1,1,2.4,1.5,32,68,2,1,16,15,6,8,334,809,280,733,10,9,5,11,0,0,2,5,11,6,2,0,0,0,3,4,0,2
+109,Leicester City,Middlesbrough,Draw,0,0,0.17,0.29,35,65,0,0,7,6,4,1,368,774,303,700,4,5,8,10,0,0,3,3,10,9,1,2,1,0,3,4,0,0
+110,Leicester City,Middlesbrough,Leicester City win,1,0,1.03,0.51,36,64,0,0,12,10,7,3,396,725,338,663,7,8,7,13,0,0,1,1,13,7,1,0,0,0,3,5,0,0
+111,Leicester City,Middlesbrough,Leicester City win,4,0,1.42,0.55,37,63,3,0,6,13,5,6,406,647,331,572,1,7,9,9,0,0,2,2,9,9,0,0,0,0,3,5,0,0
+112,Leicester City,Middlesbrough,Leicester City loss,1,2,1.04,1.45,43,57,2,1,14,12,7,4,442,599,386,522,6,6,7,15,0,0,3,0,16,7,1,1,0,0,3,3,0,0
+113,Leicester City,Middlesbrough,Draw,1,1,1.58,0.77,38,62,2,0,12,10,5,4,437,625,367,565,6,3,6,11,0,0,4,2,12,6,1,0,0,0,3,5,1,0
+114,Leicester City,Middlesbrough,Leicester City win,2,1,1.0,2.62,31,69,1,3,9,17,6,8,317,788,247,718,5,12,5,12,0,1,0,2,13,6,0,0,0,0,3,5,0,0
+115,Leicester City,Middlesbrough,Leicester City win,2,0,1.56,1.26,34,66,2,2,12,11,4,4,383,739,311,656,6,7,5,6,0,0,2,2,6,5,0,0,0,0,2,4,0,0
+116,Leicester City,Middlesbrough,Draw,0,0,0.18,1.65,35,65,1,1,6,19,2,3,394,750,325,682,3,9,12,10,0,0,4,5,10,13,0,1,0,0,3,5,0,0
+117,Leicester City,Middlesbrough,Draw,0,0,0.73,1.25,35,65,0,0,14,15,8,5,361,671,296,603,8,9,7,8,0,0,1,3,8,7,0,1,0,0,3,5,0,0
+118,Leicester City,Middlesbrough,Leicester City loss,0,2,0.62,1.26,37,63,0,3,6,14,2,7,405,709,346,650,2,4,8,14,0,0,6,5,14,8,0,0,0,0,3,3,0,0
+119,Leicester City,Middlesbrough,Draw,1,1,0.93,1.94,37,63,1,2,12,17,4,6,386,659,327,607,7,10,8,9,0,0,3,1,10,8,1,0,0,0,3,5,0,0
+120,Leicester City,Middlesbrough,Draw,1,1,1.48,1.62,40,60,2,1,14,9,8,2,439,619,384,550,10,5,7,11,0,1,2,2,12,7,1,0,0,0,3,5,0,0
+121,Leicester City,Middlesbrough,Draw,0,0,0.57,0.19,37,63,1,0,12,5,7,1,384,647,322,577,6,6,9,11,0,0,2,2,11,9,0,1,0,0,3,5,0,0
+122,Leicester City,Middlesbrough,Draw,1,1,1.2,1.65,37,63,0,2,12,12,6,2,424,770,369,706,6,10,9,6,0,0,1,2,6,9,1,1,0,0,3,5,0,0
+123,Leicester City,Middlesbrough,Leicester City win,3,1,1.1,1.85,40,60,0,1,10,12,8,4,395,604,330,525,3,6,8,17,0,0,2,2,17,9,2,0,0,0,3,5,0,0
+124,Leicester City,Middlesbrough,Draw,1,1,1.89,0.64,36,64,3,0,9,8,7,4,361,677,301,607,7,5,9,12,0,0,3,1,12,9,1,0,0,0,3,4,0,2
+125,Leicester City,Middlesbrough,Leicester City loss,1,3,0.99,2.66,39,61,1,2,11,22,6,17,434,692,350,602,5,13,4,11,0,0,4,0,11,4,0,0,0,0,3,4,0,2
+126,Leicester City,Middlesbrough,Leicester City win,2,0,1.94,0.2,41,59,2,0,13,6,4,3,460,682,390,615,7,5,8,8,0,0,2,2,8,8,1,0,0,0,3,4,0,0
+127,Leicester City,Middlesbrough,Leicester City win,2,1,1.0,1.8,36,64,0,1,14,12,6,6,392,825,335,749,5,8,9,4,0,0,2,3,4,10,0,0,0,0,3,5,0,0
+128,Leicester City,Middlesbrough,Leicester City win,1,0,0.4,0.91,37,63,0,0,8,10,2,4,377,741,313,668,7,5,12,8,0,0,0,1,8,12,0,1,0,0,3,5,0,1
+129,Leicester City,Middlesbrough,Leicester City loss,0,1,0.13,0.76,33,67,0,1,5,7,3,3,353,679,285,615,7,6,8,11,0,0,3,2,12,8,0,0,0,0,3,4,0,0
+130,Leicester City,Middlesbrough,Leicester City loss,1,2,1.26,1.79,39,61,1,2,12,15,5,4,385,602,322,550,5,7,7,13,0,1,4,0,14,7,0,0,0,0,3,5,0,0
+131,Leicester City,Middlesbrough,Leicester City loss,0,1,0.55,1.46,36,64,0,2,7,9,2,3,417,741,357,661,2,4,5,9,0,0,1,1,9,5,1,1,0,0,3,5,0,0
+132,Leicester City,Middlesbrough,Leicester City loss,0,1,0.56,0.69,37,63,0,2,9,4,5,3,417,702,358,625,6,2,10,7,0,0,1,3,7,10,0,0,0,0,3,4,0,0
+133,Leicester City,Middlesbrough,Draw,1,1,1.12,1.2,37,63,1,2,10,12,6,6,391,683,330,612,4,5,9,17,0,0,6,5,17,9,1,0,0,0,3,5,0,0
+134,Leicester City,Middlesbrough,Draw,1,1,1.41,1.58,35,65,2,1,11,10,5,4,380,703,310,636,9,9,10,6,0,0,1,2,6,10,1,1,0,0,3,5,0,1
+135,Leicester City,Middlesbrough,Leicester City loss,1,2,0.7,1.01,36,64,0,0,10,9,4,7,373,659,305,589,8,4,6,12,0,0,3,0,12,6,1,1,0,0,3,3,0,0
+136,Leicester City,Middlesbrough,Draw,1,1,1.68,0.52,33,67,3,1,10,10,5,5,314,733,252,666,4,11,11,12,0,0,0,4,12,12,0,0,0,0,3,3,0,0
+137,Leicester City,Middlesbrough,Leicester City win,1,0,1.38,1.67,41,59,2,1,12,11,7,4,443,672,376,606,7,4,4,9,0,0,2,1,9,4,1,1,0,0,3,5,1,0
+138,Leicester City,Middlesbrough,Leicester City loss,0,1,1.93,0.72,37,63,3,2,12,4,4,3,354,655,287,586,13,2,10,8,0,0,2,5,9,10,0,1,0,0,3,4,0,0
+139,Leicester City,Middlesbrough,Leicester City win,3,0,1.06,1.24,34,66,1,1,12,16,7,7,376,738,317,678,8,11,9,8,0,0,2,2,8,9,0,0,0,0,3,5,0,0
+140,Leicester City,Middlesbrough,Draw,1,1,1.68,1.24,37,63,2,1,15,14,5,6,362,687,309,611,7,8,3,17,0,0,1,1,17,3,3,0,0,0,3,5,0,0
+141,Leicester City,Middlesbrough,Leicester City win,4,2,2.01,0.92,44,56,2,1,15,11,9,6,447,618,392,549,7,3,8,14,0,0,2,3,14,8,1,0,0,0,3,5,0,0
+142,Leicester City,Middlesbrough,Draw,0,0,1.37,0.8,32,68,1,0,11,7,3,2,368,766,312,700,6,7,5,5,0,0,1,2,5,5,0,0,0,0,3,5,0,0
+143,Leicester City,Middlesbrough,Draw,1,1,1.19,0.61,36,64,1,0,15,7,5,5,386,709,331,632,9,6,11,8,0,0,3,3,8,11,1,2,0,0,3,3,0,0
+144,Leicester City,Middlesbrough,Leicester City loss,0,2,0.39,1.84,37,63,0,2,9,15,5,6,395,685,327,614,10,6,5,3,0,1,0,2,4,5,0,0,0,0,3,4,0,0
+145,Leicester City,Middlesbrough,Leicester City win,2,0,3.07,0.38,39,61,4,0,19,7,11,2,374,627,326,554,14,6,4,9,0,0,2,2,9,4,0,1,0,0,3,4,0,0
+146,Leicester City,Middlesbrough,Leicester City loss,0,1,0.59,0.7,33,67,0,1,12,7,2,1,389,739,328,668,2,2,6,11,0,0,1,1,11,6,0,1,0,0,3,4,0,0
+147,Leicester City,Middlesbrough,Leicester City loss,1,2,0.49,0.95,39,61,0,1,8,8,4,4,394,613,327,544,6,3,14,13,0,0,3,4,14,14,0,1,0,0,3,5,0,0
+148,Leicester City,Middlesbrough,Draw,0,0,0.72,0.78,33,67,0,0,12,13,6,9,325,778,266,709,5,6,4,10,0,0,5,0,10,5,0,1,0,0,2,2,0,0
+149,Leicester City,Middlesbrough,Leicester City win,1,0,1.05,1.06,32,68,2,0,6,10,2,3,341,768,283,708,5,6,5,11,0,0,3,1,11,5,1,0,0,0,2,4,0,0
+150,Leicester City,Middlesbrough,Leicester City win,2,0,1.24,1.01,37,63,1,2,14,8,7,1,364,632,312,569,11,5,11,13,0,0,2,5,13,11,0,1,0,0,3,5,0,0
+151,Leicester City,Middlesbrough,Draw,0,0,0.59,1.59,38,62,0,2,13,16,4,7,417,685,340,613,8,6,8,10,0,0,1,1,11,8,0,1,0,0,3,5,0,0
+152,Leicester City,Middlesbrough,Leicester City loss,0,1,1.74,0.45,36,64,1,0,14,7,6,5,396,665,323,591,8,3,9,10,0,0,3,2,10,9,1,0,0,0,3,4,0,0
+153,Leicester City,Middlesbrough,Leicester City win,2,0,1.69,0.87,38,62,2,0,13,9,7,6,391,577,324,509,6,11,12,11,0,0,0,1,11,12,0,3,0,0,3,3,0,4
+154,Leicester City,Middlesbrough,Leicester City win,1,0,0.5,0.92,37,63,1,0,7,18,4,9,437,714,350,632,3,12,3,7,0,0,1,2,7,3,0,1,0,0,3,4,0,0
+155,Leicester City,Middlesbrough,Leicester City win,3,1,2.39,0.75,37,63,3,0,18,15,10,6,403,680,341,616,10,7,9,5,0,0,0,3,5,9,0,1,0,0,2,5,0,0
+156,Leicester City,Middlesbrough,Draw,1,1,0.45,0.79,35,65,1,1,6,5,2,4,346,727,281,647,5,8,4,12,0,0,2,1,12,5,0,0,0,0,3,3,0,0
+157,Leicester City,Middlesbrough,Leicester City win,2,1,1.16,0.83,35,65,2,0,8,10,3,7,352,779,290,707,5,10,4,12,0,0,1,1,12,4,0,1,0,0,2,4,0,0
+158,Leicester City,Middlesbrough,Leicester City loss,0,1,0.3,0.5,38,62,0,0,6,9,2,4,390,658,332,589,4,2,9,14,0,0,3,1,14,9,1,1,0,0,3,3,0,0
+159,Leicester City,Middlesbrough,Leicester City loss,0,1,1.46,0.52,34,66,1,0,9,10,4,4,380,775,305,688,4,9,8,10,0,0,3,2,10,9,1,2,0,0,3,5,0,0
+160,Leicester City,Middlesbrough,Draw,1,1,0.42,0.93,37,63,0,1,7,11,2,4,386,679,321,613,8,5,7,9,0,0,0,3,9,7,0,0,0,0,3,5,2,0
+161,Leicester City,Middlesbrough,Leicester City loss,1,2,1.0,0.97,35,65,2,1,12,11,6,7,394,828,311,735,8,4,6,8,0,0,2,2,8,6,1,1,0,0,3,3,0,0
+162,Leicester City,Middlesbrough,Leicester City loss,1,2,1.42,0.92,34,66,2,0,8,11,3,5,385,789,320,718,3,6,16,11,0,0,2,3,11,17,1,0,0,0,3,4,1,0
+163,Leicester City,Middlesbrough,Leicester City loss,0,4,1.28,1.6,36,64,1,1,12,14,5,8,410,698,344,632,8,8,7,9,0,0,0,2,9,7,0,1,0,0,3,4,0,0
+164,Leicester City,Middlesbrough,Leicester City win,2,1,1.76,1.33,33,67,3,0,12,15,4,7,328,688,257,611,11,13,6,11,0,0,1,2,12,7,0,0,0,0,3,4,0,1
+165,Leicester City,Middlesbrough,Leicester City loss,0,1,1.97,0.48,39,61,3,0,20,10,10,6,379,570,325,508,15,8,3,7,0,0,0,3,7,3,0,0,0,0,3,4,0,0
+166,Leicester City,Middlesbrough,Draw,2,2,2.04,3.3,35,65,2,3,12,15,6,7,353,682,289,607,4,9,9,10,0,0,2,3,10,9,0,1,0,0,3,4,0,2
+167,Leicester City,Middlesbrough,Leicester City win,1,0,1.13,1.77,38,62,1,1,17,19,6,6,367,629,301,561,11,10,7,8,0,0,1,4,8,7,0,0,0,0,2,4,0,0
+168,Leicester City,Middlesbrough,Draw,0,0,0.7,0.25,38,62,0,0,10,5,3,5,394,586,315,506,7,7,8,13,0,0,3,2,13,8,1,2,0,0,3,5,0,0
+169,Leicester City,Middlesbrough,Leicester City loss,0,1,0.68,1.41,36,64,0,1,13,10,3,2,447,743,376,673,7,5,8,9,0,0,1,3,9,8,0,0,0,0,3,5,0,0
+170,Leicester City,Middlesbrough,Draw,1,1,1.45,1.27,38,62,1,0,11,15,6,6,427,688,359,615,10,16,5,8,0,0,3,2,8,5,0,0,0,0,2,5,1,0
+171,Leicester City,Middlesbrough,Draw,1,1,2.03,1.21,31,69,3,1,14,17,5,8,348,800,281,723,5,11,7,10,0,0,1,3,10,7,1,0,0,0,3,3,0,1
+172,Leicester City,Middlesbrough,Leicester City win,3,2,2.91,1.39,41,59,5,2,15,10,4,5,370,600,317,526,11,6,11,16,1,0,3,3,16,13,2,2,0,0,3,5,0,0
+173,Leicester City,Middlesbrough,Leicester City loss,0,1,0.55,1.17,33,67,0,1,8,14,7,5,395,767,324,688,4,9,5,9,0,0,1,2,9,5,0,1,0,0,3,5,0,0
+174,Leicester City,Middlesbrough,Leicester City win,2,0,3.47,1.08,39,61,6,0,18,14,9,8,385,651,324,572,8,11,7,12,0,0,5,0,12,7,0,1,0,0,3,5,0,0
+175,Leicester City,Middlesbrough,Leicester City loss,2,3,1.38,1.53,38,62,1,0,14,12,7,5,427,662,367,594,5,5,5,9,0,0,1,1,9,6,0,0,0,0,3,4,0,0
+176,Leicester City,Middlesbrough,Leicester City loss,1,2,0.9,1.34,36,64,1,2,9,10,7,4,429,763,355,683,6,1,6,11,0,0,3,2,11,6,0,0,0,0,3,3,0,0
+177,Leicester City,Middlesbrough,Leicester City loss,0,2,0.91,1.01,39,61,3,1,12,10,6,4,431,661,370,589,6,2,5,16,0,0,4,1,16,5,0,1,0,0,4,5,2,0
+178,Leicester City,Middlesbrough,Leicester City loss,0,2,1.08,1.5,40,60,1,2,10,8,4,3,443,648,387,582,10,7,5,7,0,1,1,2,8,5,0,0,0,0,3,5,0,0
+179,Leicester City,Middlesbrough,Leicester City loss,0,1,0.79,1.55,37,63,2,1,12,10,6,5,372,669,313,593,10,7,6,11,0,1,5,0,12,6,2,0,0,0,3,4,0,0
+180,Leicester City,Middlesbrough,Draw,1,1,0.67,0.53,33,67,1,1,6,6,4,3,359,773,306,696,6,3,9,9,0,0,2,3,9,10,0,0,0,0,3,5,0,0
+181,Leicester City,Middlesbrough,Leicester City win,2,0,2.08,0.18,41,59,2,0,15,4,6,4,405,631,344,550,13,4,7,7,0,0,1,3,7,7,0,0,0,0,3,4,3,0
+182,Leicester City,Middlesbrough,Leicester City loss,1,2,0.58,1.18,37,63,1,1,7,16,3,7,350,631,288,561,9,9,6,17,0,0,4,1,17,6,0,1,0,0,3,4,1,0
+183,Leicester City,Middlesbrough,Draw,1,1,0.34,1.64,40,60,0,1,8,13,5,4,447,690,376,622,4,11,4,6,0,0,0,1,6,4,0,0,0,0,3,5,0,0
+184,Leicester City,Middlesbrough,Draw,2,2,1.88,1.91,40,60,1,2,16,13,10,5,394,575,333,494,12,9,9,9,0,1,1,0,10,9,1,0,0,0,3,5,0,0
+185,Leicester City,Middlesbrough,Leicester City loss,1,2,0.5,0.47,37,63,0,0,9,4,3,3,432,780,375,693,6,0,3,11,0,0,3,1,11,3,0,1,0,0,3,5,0,0
+186,Leicester City,Middlesbrough,Leicester City loss,1,3,0.73,1.93,34,66,0,2,10,10,6,5,347,677,279,608,8,7,4,11,0,0,1,2,11,4,0,0,0,0,3,4,0,1
+187,Leicester City,Middlesbrough,Leicester City win,1,0,0.69,0.83,38,62,1,0,11,13,7,6,371,630,304,558,11,8,12,10,0,0,4,2,10,12,1,1,0,0,3,5,0,0
+188,Leicester City,Middlesbrough,Draw,1,1,0.88,0.67,36,64,0,0,10,10,3,3,403,695,343,619,6,3,5,11,0,0,2,1,11,5,1,0,0,0,3,5,0,0
+189,Leicester City,Middlesbrough,Leicester City win,3,1,1.52,1.53,35,65,1,1,16,11,6,4,330,715,276,647,8,8,10,11,0,0,4,2,11,10,0,2,0,0,3,4,0,0
+190,Leicester City,Middlesbrough,Leicester City win,2,1,1.44,1.67,36,64,2,2,10,14,5,7,368,683,279,611,3,8,12,9,0,0,0,0,9,12,0,0,0,0,3,4,0,0
+191,Leicester City,Middlesbrough,Leicester City loss,0,1,0.74,1.58,36,64,0,2,9,13,7,6,369,662,315,596,8,4,5,11,0,0,2,0,11,6,0,0,0,0,3,5,0,0
+192,Leicester City,Middlesbrough,Leicester City win,3,1,0.73,1.89,39,61,0,2,10,15,6,6,464,722,400,645,6,6,7,7,0,0,2,1,7,8,0,0,0,0,3,5,0,0
+193,Leicester City,Middlesbrough,Leicester City loss,0,1,1.5,1.61,39,61,1,1,11,12,7,6,369,619,302,548,11,4,7,7,0,0,2,2,7,7,1,1,0,0,3,4,0,0
+194,Leicester City,Middlesbrough,Leicester City loss,0,1,0.23,0.69,34,66,0,1,8,12,4,6,378,728,305,655,4,7,5,12,0,0,1,1,12,5,1,1,0,0,3,4,0,0
+195,Leicester City,Middlesbrough,Leicester City win,2,0,1.4,1.04,39,61,1,1,13,9,4,4,414,672,354,598,6,9,5,15,0,0,3,1,15,5,0,0,0,0,3,5,0,0
+196,Leicester City,Middlesbrough,Leicester City loss,0,1,0.92,1.2,41,59,1,1,7,15,1,8,445,609,378,549,4,4,6,10,0,0,3,1,10,6,1,0,0,0,3,5,0,0
+197,Leicester City,Middlesbrough,Leicester City loss,0,1,0.88,0.77,39,61,1,1,7,12,3,5,480,677,409,609,5,3,9,7,0,0,2,2,8,9,0,1,0,0,3,5,0,0
+198,Leicester City,Middlesbrough,Leicester City loss,1,2,0.44,1.57,39,61,0,1,5,9,2,6,421,703,354,634,3,6,5,9,0,1,3,1,10,5,1,0,0,0,3,4,0,0
+199,Leicester City,Middlesbrough,Leicester City win,1,0,0.6,1.42,34,66,0,3,12,11,5,4,393,758,339,677,5,9,11,9,0,0,3,4,9,12,0,0,0,0,3,5,0,0
+200,Leicester City,Middlesbrough,Draw,1,1,1.01,1.08,37,63,1,1,10,9,6,4,400,747,334,664,7,4,6,12,0,0,4,1,12,6,2,1,0,0,3,5,0,0

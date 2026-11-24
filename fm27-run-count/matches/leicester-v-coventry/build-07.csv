@@ -1,0 +1,201 @@
+Run,Home,Away,Result,Home Goals,Away Goals,Home xG,Away xG,Home Possession (%),Away Possession (%),Home Clear-cut chances,Away Clear-cut chances,Home Shots,Away Shots,Home On target,Away On target,Home Passes,Away Passes,Home Passes completed,Away Passes completed,Home Corners,Away Corners,Home Free kicks,Away Free kicks,Home Penalties,Away Penalties,Home Offsides,Away Offsides,Home Fouls,Away Fouls,Home Yellow cards,Away Yellow cards,Home Red cards,Away Red cards,Home Substitutions,Away Substitutions,Home Injuries,Away Injuries
+1,Leicester City,Coventry City,Leicester City loss,1,2,1.27,1.26,37,63,1,1,9,10,5,4,427,853,362,778,3,4,4,14,0,0,3,1,14,4,4,1,0,0,3,4,2,0
+2,Leicester City,Coventry City,Leicester City loss,0,2,0.8,1.71,42,58,0,2,13,10,5,4,433,669,383,599,9,7,5,12,0,1,3,2,13,6,4,1,0,0,3,4,0,0
+3,Leicester City,Coventry City,Draw,1,1,0.71,1.89,40,60,0,3,12,10,3,4,428,738,365,666,5,6,4,9,0,0,2,2,9,5,1,2,0,0,3,4,0,0
+4,Leicester City,Coventry City,Draw,1,1,1.53,1.19,39,61,2,0,12,11,6,4,382,677,324,611,6,8,5,7,0,0,1,2,7,5,1,2,0,0,3,3,0,0
+5,Leicester City,Coventry City,Leicester City loss,0,2,0.91,0.85,43,57,1,1,12,6,5,3,465,667,406,601,6,2,6,11,0,0,4,2,11,6,4,0,0,0,3,3,1,0
+6,Leicester City,Coventry City,Draw,1,1,0.61,2.48,38,62,0,2,9,10,6,6,392,771,325,685,7,6,9,8,0,0,2,2,8,9,2,4,0,0,3,3,0,0
+7,Leicester City,Coventry City,Leicester City loss,1,2,0.42,1.32,38,62,0,2,6,9,4,4,442,776,376,708,4,4,8,6,0,0,0,3,7,8,3,1,0,0,3,3,0,0
+8,Leicester City,Coventry City,Leicester City loss,1,3,0.71,0.84,39,61,0,1,9,10,5,5,394,711,338,639,5,8,6,11,0,0,0,2,11,6,3,2,0,0,3,4,0,1
+9,Leicester City,Coventry City,Draw,0,0,0.49,0.55,38,62,0,0,9,6,3,3,396,773,350,702,4,8,9,8,0,0,1,3,8,10,2,3,0,0,3,3,0,2
+10,Leicester City,Coventry City,Draw,1,1,0.83,1.74,43,57,1,1,7,16,3,6,448,626,388,559,5,12,9,8,0,0,3,3,9,9,2,2,0,0,3,3,0,0
+11,Leicester City,Coventry City,Leicester City loss,2,3,1.72,1.92,46,54,3,2,10,10,3,5,488,638,439,564,7,7,3,6,0,0,1,2,6,3,4,0,0,0,3,3,0,0
+12,Leicester City,Coventry City,Leicester City win,1,0,1.52,1.42,46,54,1,2,9,11,6,2,507,625,441,552,6,10,4,7,0,0,1,2,7,4,2,2,0,0,3,4,0,0
+13,Leicester City,Coventry City,Draw,1,1,1.53,1.0,41,59,2,0,13,11,9,5,468,748,407,676,5,7,5,4,0,0,2,2,4,5,1,1,0,0,3,3,0,0
+14,Leicester City,Coventry City,Leicester City loss,0,1,0.95,0.7,38,62,1,0,15,8,7,2,424,780,366,719,5,8,4,8,0,0,1,1,8,4,1,0,0,0,3,3,0,0
+15,Leicester City,Coventry City,Leicester City win,1,0,0.26,0.63,41,59,0,0,8,9,3,7,450,758,396,693,5,7,6,8,0,0,2,0,8,6,2,4,0,0,2,4,1,1
+16,Leicester City,Coventry City,Leicester City win,1,0,0.84,0.58,39,61,1,0,10,7,3,2,383,748,319,673,3,6,6,13,0,0,2,3,13,7,4,2,0,0,3,4,0,0
+17,Leicester City,Coventry City,Leicester City win,1,0,0.54,0.59,44,56,0,0,4,5,2,5,447,648,385,576,5,8,8,8,0,0,2,1,8,8,3,2,0,0,3,4,2,0
+18,Leicester City,Coventry City,Leicester City loss,0,1,0.78,0.57,40,60,1,0,8,6,3,2,394,690,330,613,6,3,6,8,0,0,1,2,8,6,3,2,0,0,3,3,0,0
+19,Leicester City,Coventry City,Leicester City loss,0,1,1.55,0.48,40,60,2,0,11,6,6,4,405,724,345,655,12,4,4,9,0,0,2,0,9,4,2,1,0,0,3,3,0,1
+20,Leicester City,Coventry City,Leicester City loss,0,1,0.76,0.89,44,56,0,1,10,8,5,5,489,676,429,618,8,7,5,9,0,0,0,2,10,5,3,1,0,0,3,3,1,0
+21,Leicester City,Coventry City,Leicester City loss,0,1,0.24,1.86,35,65,0,2,4,11,2,3,396,858,337,789,5,8,3,7,0,0,1,0,7,3,2,2,0,0,3,3,0,0
+22,Leicester City,Coventry City,Leicester City loss,0,1,0.24,1.62,40,60,0,3,6,10,3,5,416,758,355,674,4,8,5,8,0,0,1,3,8,5,2,1,0,0,3,3,0,1
+23,Leicester City,Coventry City,Leicester City loss,0,2,0.42,2.68,40,60,0,3,8,11,2,6,410,715,338,631,6,6,3,8,0,0,1,1,9,3,4,0,0,0,3,3,0,0
+24,Leicester City,Coventry City,Leicester City win,3,1,1.7,0.81,39,61,1,0,11,9,6,3,427,729,356,658,10,6,8,4,0,0,0,4,4,8,3,3,0,0,3,3,0,0
+25,Leicester City,Coventry City,Leicester City win,2,1,1.03,1.46,47,53,1,0,8,12,6,8,484,629,416,563,5,9,11,5,0,0,2,6,5,11,0,4,0,0,3,4,0,1
+26,Leicester City,Coventry City,Draw,2,2,1.45,1.31,39,61,1,1,10,10,7,6,395,784,341,712,4,7,7,7,1,0,1,2,7,8,2,3,0,0,3,3,1,0
+27,Leicester City,Coventry City,Leicester City loss,0,2,0.28,0.88,43,57,0,0,7,9,4,6,469,676,408,602,3,7,4,8,0,0,2,2,8,4,2,1,0,0,3,4,0,0
+28,Leicester City,Coventry City,Leicester City loss,2,4,0.37,3.26,39,61,0,3,7,13,5,8,423,794,368,727,5,9,9,9,0,0,3,1,10,9,3,1,0,0,3,4,0,0
+29,Leicester City,Coventry City,Leicester City win,1,0,1.55,0.45,42,58,1,0,10,6,5,2,436,676,376,607,5,6,7,7,0,0,2,4,7,7,1,1,0,0,3,4,0,0
+30,Leicester City,Coventry City,Leicester City loss,0,2,0.66,1.84,43,57,0,3,9,12,0,6,469,695,413,634,8,6,4,9,0,0,2,0,9,4,4,1,0,0,3,4,0,0
+31,Leicester City,Coventry City,Leicester City loss,1,3,1.22,1.34,45,55,1,1,17,9,9,3,538,709,487,642,9,5,6,3,0,0,1,2,3,6,1,1,0,0,3,4,0,0
+32,Leicester City,Coventry City,Leicester City win,2,1,1.75,1.08,39,61,2,1,14,11,7,6,383,709,318,631,12,9,5,6,0,0,1,2,6,5,1,0,0,0,3,4,0,0
+33,Leicester City,Coventry City,Leicester City loss,1,3,0.35,2.21,39,61,0,1,8,16,1,6,423,736,367,663,5,7,2,9,0,0,1,1,9,2,4,0,0,0,3,4,0,0
+34,Leicester City,Coventry City,Draw,1,1,0.15,1.85,35,65,0,1,4,11,2,4,372,761,311,695,3,11,8,10,0,1,0,5,11,8,3,1,1,0,3,3,0,2
+35,Leicester City,Coventry City,Draw,3,3,2.54,1.08,48,52,3,1,15,9,6,6,486,607,422,531,7,7,8,8,0,0,1,3,8,9,2,2,0,0,3,5,0,0
+36,Leicester City,Coventry City,Leicester City loss,0,1,0.84,0.91,40,60,1,1,9,9,3,5,441,715,383,643,4,5,7,9,0,0,1,1,9,7,2,2,0,0,3,3,0,0
+37,Leicester City,Coventry City,Draw,0,0,0.61,1.51,38,62,0,1,6,15,2,7,373,703,319,629,6,13,6,9,0,0,0,0,9,6,4,3,0,0,3,3,0,0
+38,Leicester City,Coventry City,Draw,1,1,0.72,1.59,37,63,1,1,4,16,2,7,378,723,321,658,3,12,11,13,0,0,1,2,13,11,6,4,0,0,3,4,0,0
+39,Leicester City,Coventry City,Leicester City win,2,1,1.21,1.12,42,58,1,2,13,8,5,3,480,755,420,679,8,5,1,11,0,0,3,1,11,1,3,0,0,0,3,4,0,1
+40,Leicester City,Coventry City,Leicester City loss,1,4,1.68,1.11,41,59,1,1,16,12,6,6,471,745,415,676,8,7,5,7,0,0,0,2,7,5,2,0,0,0,3,4,0,0
+41,Leicester City,Coventry City,Leicester City loss,0,1,0.24,2.05,45,55,0,2,7,15,2,6,443,620,386,550,7,11,7,7,0,1,4,4,10,7,4,1,0,0,3,3,0,0
+42,Leicester City,Coventry City,Leicester City loss,0,1,0.66,2.06,36,64,0,3,6,13,1,5,380,763,318,687,6,13,4,3,0,0,0,1,3,4,2,2,0,0,3,3,0,1
+43,Leicester City,Coventry City,Draw,1,1,0.71,0.91,42,58,0,1,10,7,3,3,430,665,384,598,4,6,6,6,0,0,0,0,6,6,1,1,0,0,3,3,0,0
+44,Leicester City,Coventry City,Draw,0,0,0.44,0.55,39,61,0,1,11,5,4,3,420,776,361,689,11,7,2,7,0,0,2,1,7,2,2,1,0,0,3,3,0,0
+45,Leicester City,Coventry City,Leicester City loss,1,2,0.83,1.04,43,57,0,1,9,8,3,4,475,725,420,660,6,6,6,13,0,0,3,3,13,6,5,1,0,0,3,3,0,0
+46,Leicester City,Coventry City,Leicester City loss,0,2,0.56,0.87,42,58,0,0,13,6,5,2,419,682,364,616,5,6,3,6,0,0,3,1,8,4,3,1,0,0,3,4,0,0
+47,Leicester City,Coventry City,Leicester City win,3,1,1.77,1.82,41,59,1,0,8,19,3,9,397,664,331,594,2,12,9,10,0,0,1,3,10,9,4,2,1,0,2,4,0,0
+48,Leicester City,Coventry City,Leicester City loss,2,3,0.97,1.56,42,58,0,2,9,8,3,4,424,722,358,644,10,4,6,13,0,0,1,2,13,6,5,2,0,0,3,3,0,0
+49,Leicester City,Coventry City,Leicester City win,2,1,1.44,1.34,38,62,3,1,8,14,2,7,392,710,329,647,4,10,4,9,0,0,2,1,9,4,2,1,0,0,3,4,0,0
+50,Leicester City,Coventry City,Leicester City loss,0,1,0.64,0.8,46,54,0,1,12,4,6,2,461,624,405,550,14,2,5,9,0,0,2,1,9,5,3,1,0,0,3,3,0,0
+51,Leicester City,Coventry City,Leicester City win,3,0,1.48,0.75,43,57,2,0,13,8,6,1,437,660,381,598,4,12,8,6,0,0,1,2,6,9,1,3,0,0,3,3,0,0
+52,Leicester City,Coventry City,Leicester City loss,1,4,1.18,1.55,45,55,1,1,15,15,5,10,484,666,423,597,8,8,6,11,0,0,3,3,11,6,3,1,0,0,3,4,0,0
+53,Leicester City,Coventry City,Leicester City loss,0,4,0.9,0.96,50,50,1,1,10,5,5,4,581,646,515,580,7,2,5,6,0,0,0,2,6,5,1,2,0,0,3,4,0,2
+54,Leicester City,Coventry City,Leicester City loss,2,3,1.94,1.74,49,51,2,2,14,7,7,5,484,585,428,521,7,3,4,8,0,0,2,0,8,4,2,1,0,0,3,3,0,2
+55,Leicester City,Coventry City,Leicester City win,3,2,1.21,0.71,46,54,2,0,11,7,8,4,480,647,437,580,14,4,7,9,0,0,3,1,9,7,3,2,0,0,3,5,0,0
+56,Leicester City,Coventry City,Draw,1,1,1.45,2.31,39,61,1,1,14,19,4,5,418,729,355,655,6,10,5,5,0,0,2,1,5,5,3,1,0,0,3,3,0,1
+57,Leicester City,Coventry City,Leicester City win,3,1,2.33,1.0,46,54,4,1,10,6,7,3,480,648,430,570,5,5,7,7,0,0,2,0,7,7,2,3,0,0,3,3,0,0
+58,Leicester City,Coventry City,Leicester City win,1,0,0.83,1.11,40,60,1,1,7,7,2,3,405,678,348,605,5,7,8,8,0,0,1,3,8,8,3,2,0,0,2,4,0,0
+59,Leicester City,Coventry City,Leicester City win,3,2,1.35,2.04,39,61,1,3,11,12,7,7,399,708,346,638,1,7,7,8,0,0,0,3,8,7,0,2,0,0,3,3,0,2
+60,Leicester City,Coventry City,Draw,2,2,1.74,1.88,45,55,1,2,19,12,7,9,471,615,415,556,7,11,5,7,0,1,2,1,8,5,2,1,0,0,3,5,0,3
+61,Leicester City,Coventry City,Leicester City loss,1,2,0.2,1.36,34,66,0,0,3,15,3,10,377,835,314,776,1,11,6,8,0,0,0,4,8,6,4,1,1,0,2,4,0,0
+62,Leicester City,Coventry City,Leicester City win,1,0,0.3,1.39,39,61,0,2,10,9,7,4,424,740,357,668,6,8,8,4,0,0,0,3,4,8,2,2,0,0,3,4,0,0
+63,Leicester City,Coventry City,Draw,1,1,0.41,1.63,40,60,0,1,4,15,1,7,425,687,372,613,3,13,8,7,0,0,1,1,7,8,2,2,0,0,3,4,0,2
+64,Leicester City,Coventry City,Leicester City loss,2,3,0.51,1.75,38,62,0,3,11,13,5,6,420,841,358,764,7,6,6,7,0,0,1,1,7,6,3,2,0,0,3,4,0,0
+65,Leicester City,Coventry City,Leicester City loss,1,2,0.47,2.33,39,61,1,2,5,13,3,5,426,777,373,717,3,5,6,9,0,0,1,1,9,6,3,1,0,0,3,5,0,2
+66,Leicester City,Coventry City,Draw,1,1,0.48,0.79,45,55,1,2,5,5,1,3,538,731,473,658,8,4,2,6,0,0,2,0,6,2,2,1,0,0,3,3,0,0
+67,Leicester City,Coventry City,Leicester City win,2,0,1.05,0.42,43,57,1,0,14,8,6,3,518,752,438,670,9,2,4,3,0,0,0,3,3,5,1,1,0,0,3,3,0,0
+68,Leicester City,Coventry City,Leicester City loss,0,1,0.09,0.33,42,58,0,1,3,4,2,4,426,742,369,657,7,2,5,8,0,0,0,2,8,6,2,0,0,0,3,2,0,0
+69,Leicester City,Coventry City,Leicester City loss,0,3,0.75,1.06,45,55,1,0,10,12,2,5,526,698,463,630,5,4,3,7,0,0,0,0,7,3,1,1,0,0,3,4,0,0
+70,Leicester City,Coventry City,Draw,0,0,0.59,1.1,41,59,0,1,6,10,0,4,459,710,394,647,8,9,9,4,0,0,0,3,4,9,4,2,0,0,3,3,0,0
+71,Leicester City,Coventry City,Leicester City loss,1,2,1.78,2.27,36,64,3,2,9,15,4,7,406,823,352,752,5,6,9,7,0,0,2,1,7,9,1,5,0,0,3,4,0,0
+72,Leicester City,Coventry City,Leicester City loss,0,1,0.63,0.97,45,55,0,1,9,11,4,5,457,636,406,568,9,12,4,9,0,0,1,2,9,4,3,1,0,0,3,3,0,0
+73,Leicester City,Coventry City,Draw,2,2,2.56,1.6,49,51,3,2,12,10,4,8,500,614,439,542,5,5,6,7,1,1,0,1,8,7,1,1,0,0,3,3,0,0
+74,Leicester City,Coventry City,Draw,1,1,1.36,1.21,42,58,2,2,8,8,5,3,459,689,409,624,6,10,4,9,0,0,3,2,9,4,3,1,0,0,3,3,0,0
+75,Leicester City,Coventry City,Draw,1,1,0.65,0.83,45,55,1,0,7,7,4,4,497,722,435,663,6,5,3,7,0,0,2,0,7,3,3,1,0,0,3,3,0,0
+76,Leicester City,Coventry City,Leicester City loss,0,2,0.59,1.78,43,57,1,2,8,7,3,4,442,628,383,557,2,7,5,12,0,0,2,3,13,5,4,2,0,0,3,3,0,0
+77,Leicester City,Coventry City,Leicester City loss,1,3,0.4,1.1,49,51,0,2,5,6,2,3,535,582,471,505,8,4,3,9,0,0,1,0,9,3,3,1,0,0,3,4,0,0
+78,Leicester City,Coventry City,Draw,1,1,0.44,0.71,40,60,0,1,8,11,2,6,433,735,374,668,5,10,7,6,0,0,1,2,6,7,1,1,0,0,3,4,0,0
+79,Leicester City,Coventry City,Leicester City win,1,0,0.59,1.6,42,58,0,2,11,13,7,6,443,664,386,605,6,5,6,6,0,0,1,1,6,6,3,3,0,0,3,4,0,0
+80,Leicester City,Coventry City,Leicester City win,1,0,0.75,0.71,47,53,1,1,8,6,3,2,546,690,479,622,3,5,6,4,0,0,0,2,4,6,2,1,0,0,3,4,0,0
+81,Leicester City,Coventry City,Leicester City loss,0,1,0.1,0.57,41,59,0,0,4,9,1,8,435,750,372,677,3,7,6,3,0,0,0,2,3,6,1,2,1,0,2,3,0,0
+82,Leicester City,Coventry City,Leicester City loss,1,2,0.9,1.28,41,59,1,0,6,14,3,7,369,626,311,555,3,13,6,12,0,0,3,2,12,7,1,1,0,0,3,3,0,0
+83,Leicester City,Coventry City,Leicester City loss,0,3,0.67,1.21,41,59,1,1,8,11,3,7,418,693,357,625,4,6,2,14,0,0,1,0,14,3,4,1,0,0,3,4,0,0
+84,Leicester City,Coventry City,Leicester City loss,2,3,1.32,1.72,40,60,2,2,8,8,4,4,453,771,402,703,4,5,7,9,0,1,2,1,10,7,4,3,0,0,3,3,0,0
+85,Leicester City,Coventry City,Draw,1,1,1.05,2.1,43,57,2,3,7,13,2,5,462,672,399,611,6,8,4,11,0,0,2,2,11,4,1,1,0,0,3,3,0,0
+86,Leicester City,Coventry City,Leicester City loss,1,2,0.73,1.45,43,57,0,3,8,10,3,4,487,727,432,663,5,7,2,8,0,0,2,1,8,2,3,0,0,0,3,3,0,0
+87,Leicester City,Coventry City,Leicester City loss,0,4,0.14,1.55,40,60,0,2,5,8,1,4,410,751,360,688,2,7,6,15,0,0,5,1,15,6,2,0,0,0,3,4,0,0
+88,Leicester City,Coventry City,Leicester City win,1,0,1.1,0.83,45,55,1,1,14,7,6,1,496,711,439,636,10,4,4,5,0,0,3,0,5,4,1,2,0,0,3,4,1,0
+89,Leicester City,Coventry City,Leicester City win,1,0,1.48,0.53,44,56,2,0,12,6,6,1,488,711,418,636,9,3,5,5,0,0,0,3,5,5,1,1,0,0,3,4,0,1
+90,Leicester City,Coventry City,Leicester City win,2,0,1.18,0.37,43,57,1,0,10,3,6,1,483,701,408,610,7,3,8,4,0,0,0,0,4,8,1,1,0,0,3,3,0,1
+91,Leicester City,Coventry City,Leicester City loss,0,2,0.73,1.59,39,61,1,2,5,12,2,5,448,800,392,734,5,7,6,4,0,0,0,1,4,6,1,4,0,0,3,4,0,0
+92,Leicester City,Coventry City,Leicester City loss,0,3,0.9,1.88,42,58,1,3,11,11,4,5,482,729,411,649,12,6,7,5,0,0,2,1,5,7,0,3,0,0,3,4,0,0
+93,Leicester City,Coventry City,Draw,2,2,1.93,1.27,36,64,4,1,15,8,6,4,367,835,307,758,7,8,3,6,0,1,0,0,7,3,3,1,0,0,3,4,0,0
+94,Leicester City,Coventry City,Leicester City win,2,0,0.7,0.61,44,56,1,0,10,7,7,2,488,756,429,684,8,5,8,5,0,0,1,2,5,8,0,2,0,0,3,5,0,0
+95,Leicester City,Coventry City,Leicester City win,2,0,1.31,1.11,45,55,1,0,12,12,6,5,435,608,383,527,6,10,11,7,0,0,5,1,8,11,1,3,0,1,3,4,1,1
+96,Leicester City,Coventry City,Draw,2,2,1.74,0.7,40,60,2,1,10,5,5,3,435,779,370,690,6,4,4,4,0,0,1,1,4,4,1,1,0,0,3,4,0,3
+97,Leicester City,Coventry City,Leicester City loss,0,3,0.23,1.29,43,57,0,2,8,10,1,5,451,678,389,595,7,9,4,3,0,0,0,2,3,4,0,1,0,0,3,4,0,0
+98,Leicester City,Coventry City,Leicester City loss,1,2,0.8,1.07,41,59,1,1,9,7,5,2,426,708,371,636,2,4,9,9,0,0,0,1,9,9,3,2,0,0,3,4,0,0
+99,Leicester City,Coventry City,Leicester City win,1,0,0.79,1.2,40,60,1,0,8,10,1,4,379,760,325,693,5,11,4,6,0,0,2,2,6,4,3,0,0,0,2,4,0,0
+100,Leicester City,Coventry City,Draw,1,1,1.27,1.47,42,58,2,2,10,9,4,2,438,726,368,645,7,5,5,6,0,0,1,0,6,5,4,0,0,0,3,3,0,0
+101,Leicester City,Coventry City,Leicester City loss,1,2,1.15,1.4,40,60,1,0,10,14,6,7,400,707,356,647,7,12,5,8,0,0,2,1,8,5,2,1,0,0,3,3,0,0
+102,Leicester City,Coventry City,Leicester City loss,0,2,1.06,3.06,45,55,2,3,16,14,6,4,464,653,407,577,15,8,2,8,0,1,1,1,9,2,2,0,0,0,3,3,0,0
+103,Leicester City,Coventry City,Draw,0,0,1.05,0.42,44,56,0,0,10,4,4,2,445,671,401,604,6,3,7,5,0,0,0,1,5,7,2,3,0,0,3,3,0,0
+104,Leicester City,Coventry City,Leicester City loss,0,2,0.57,2.57,41,59,0,4,8,13,1,4,478,763,424,700,3,6,2,10,0,0,2,1,10,2,4,0,0,0,3,3,0,0
+105,Leicester City,Coventry City,Draw,1,1,0.9,0.54,38,62,1,0,9,8,1,3,400,739,337,669,4,8,5,6,0,0,3,2,6,5,1,1,0,0,3,3,2,1
+106,Leicester City,Coventry City,Leicester City win,1,0,1.01,1.46,38,62,1,2,6,7,4,4,417,777,357,702,8,9,10,3,0,0,0,4,3,11,0,2,0,0,3,4,0,1
+107,Leicester City,Coventry City,Leicester City loss,0,1,1.19,0.82,44,56,1,1,9,7,6,1,455,645,395,582,8,5,6,6,0,0,1,3,6,7,2,2,0,0,3,3,0,0
+108,Leicester City,Coventry City,Draw,0,0,0.6,1.13,42,58,0,2,11,10,5,4,421,676,364,595,5,8,7,9,0,0,1,3,9,8,2,4,0,0,3,3,0,0
+109,Leicester City,Coventry City,Leicester City loss,0,1,1.09,0.57,42,58,1,0,7,5,2,2,442,702,377,626,3,6,6,10,0,0,3,1,10,6,0,2,0,0,3,3,0,0
+110,Leicester City,Coventry City,Draw,2,2,0.74,1.14,48,52,0,1,15,10,5,4,481,584,421,504,6,7,4,8,0,0,0,1,8,4,2,1,0,0,3,4,0,0
+111,Leicester City,Coventry City,Draw,0,0,0.86,0.86,44,56,0,1,17,8,3,6,462,700,404,628,9,12,11,4,0,0,1,2,4,11,2,2,0,0,3,3,0,0
+112,Leicester City,Coventry City,Leicester City loss,0,2,0.46,1.94,38,62,0,2,9,11,4,8,410,771,346,713,2,6,11,7,0,0,0,4,7,11,2,1,0,0,3,4,0,0
+113,Leicester City,Coventry City,Leicester City loss,0,1,0.73,1.78,43,57,1,3,6,11,0,5,451,712,396,650,9,6,6,9,0,0,1,2,9,6,2,2,0,0,3,3,0,0
+114,Leicester City,Coventry City,Draw,0,0,0.49,0.54,43,57,1,1,7,4,3,1,474,679,405,604,3,5,7,7,0,0,4,1,7,7,0,3,0,0,3,3,0,0
+115,Leicester City,Coventry City,Leicester City loss,1,2,1.34,0.56,45,55,2,0,16,5,8,3,472,661,416,597,7,4,6,10,0,0,2,1,10,6,1,1,0,0,3,3,0,0
+116,Leicester City,Coventry City,Draw,0,0,0.18,1.17,41,59,1,1,11,7,1,4,472,750,411,677,6,10,6,7,0,0,3,2,7,6,0,2,0,0,3,3,1,0
+117,Leicester City,Coventry City,Leicester City loss,2,4,1.93,1.4,40,60,4,0,12,13,6,7,430,772,376,696,7,7,3,9,0,0,3,1,9,3,2,1,0,0,3,4,0,0
+118,Leicester City,Coventry City,Draw,0,0,0.75,0.66,40,60,1,1,9,6,4,3,403,781,350,709,5,5,4,8,0,0,2,2,8,4,2,2,0,0,3,3,0,0
+119,Leicester City,Coventry City,Leicester City loss,0,1,0.5,0.19,35,65,0,0,7,4,1,1,340,772,286,703,9,3,7,7,0,0,0,1,7,7,2,3,0,0,3,4,1,0
+120,Leicester City,Coventry City,Leicester City loss,0,2,1.06,0.94,43,57,1,1,8,8,3,5,496,709,438,642,10,5,7,6,0,0,1,3,6,7,1,1,0,0,3,4,0,0
+121,Leicester City,Coventry City,Leicester City loss,0,1,0.56,0.96,44,56,1,1,7,10,5,5,487,708,405,623,3,6,4,6,0,0,0,0,6,5,3,1,0,0,3,3,0,2
+122,Leicester City,Coventry City,Draw,0,0,0.74,0.3,43,57,3,0,5,6,2,2,443,665,393,589,7,7,3,10,0,0,4,1,10,4,4,2,0,0,3,3,0,0
+123,Leicester City,Coventry City,Leicester City loss,0,4,1.1,1.9,44,56,1,1,12,13,4,7,475,687,408,608,9,5,2,5,0,0,0,1,5,2,2,0,0,0,3,4,0,0
+124,Leicester City,Coventry City,Draw,2,2,1.73,0.46,43,57,2,0,8,10,5,5,476,676,405,597,5,9,9,8,1,0,1,2,8,10,3,4,0,0,3,4,0,0
+125,Leicester City,Coventry City,Leicester City loss,0,1,1.15,0.66,40,60,1,1,13,5,4,1,436,698,381,635,8,4,7,9,0,0,1,2,9,7,2,2,0,0,3,3,1,0
+126,Leicester City,Coventry City,Leicester City loss,0,1,1.53,3.03,41,59,2,3,10,20,4,10,440,749,389,684,4,13,4,6,0,0,0,2,6,4,3,1,0,0,3,3,0,0
+127,Leicester City,Coventry City,Draw,2,2,1.79,2.16,41,59,3,3,17,14,9,6,468,788,410,715,5,8,5,9,0,0,3,2,9,5,2,1,0,0,3,3,0,0
+128,Leicester City,Coventry City,Leicester City loss,0,2,0.48,1.94,41,59,1,2,6,12,3,4,436,739,366,673,3,11,5,11,0,0,3,2,11,5,1,2,0,0,3,4,0,0
+129,Leicester City,Coventry City,Draw,1,1,1.34,2.26,42,58,2,1,10,13,3,4,454,715,396,641,3,6,8,5,0,0,0,2,5,9,3,4,0,0,3,4,0,0
+130,Leicester City,Coventry City,Leicester City loss,0,1,0.33,1.75,44,56,0,3,9,7,5,3,487,734,430,649,8,2,3,6,0,1,2,0,7,3,1,2,0,0,3,3,0,0
+131,Leicester City,Coventry City,Leicester City loss,1,3,1.43,4.42,43,57,2,6,10,14,2,9,407,617,358,560,7,13,4,4,0,0,2,1,4,4,1,1,0,0,3,4,1,1
+132,Leicester City,Coventry City,Leicester City win,2,1,1.63,1.9,38,62,1,0,12,16,5,10,423,852,363,776,3,11,7,5,0,0,0,3,5,7,2,1,0,0,3,4,0,0
+133,Leicester City,Coventry City,Leicester City loss,0,1,0.39,1.03,37,63,0,1,6,6,0,5,435,803,380,730,7,8,3,7,0,0,0,2,7,3,3,1,0,0,3,3,0,0
+134,Leicester City,Coventry City,Leicester City win,2,1,1.1,1.01,44,56,1,0,12,12,6,8,441,667,382,598,4,10,4,7,0,0,2,0,7,4,1,2,0,0,3,4,0,0
+135,Leicester City,Coventry City,Leicester City loss,0,3,0.32,2.31,40,60,0,3,9,19,4,11,423,705,364,630,3,11,6,6,0,0,1,2,6,6,1,1,0,0,3,4,0,0
+136,Leicester City,Coventry City,Leicester City loss,1,3,1.05,2.33,42,58,0,2,8,16,7,8,403,639,343,576,8,8,9,12,0,0,0,0,12,9,4,3,0,0,5,3,2,0
+137,Leicester City,Coventry City,Leicester City win,1,0,0.37,1.01,44,56,0,0,5,12,4,6,508,708,453,642,4,11,6,4,0,0,0,2,4,6,1,2,0,0,2,5,0,2
+138,Leicester City,Coventry City,Leicester City loss,1,4,1.06,2.63,46,54,0,4,9,15,5,6,502,658,450,591,8,7,4,10,0,0,2,0,10,4,3,2,0,0,3,3,0,2
+139,Leicester City,Coventry City,Draw,0,0,0.93,2.27,42,58,1,2,16,15,3,8,416,682,361,613,7,14,5,9,0,0,2,2,10,5,5,2,0,0,3,3,0,0
+140,Leicester City,Coventry City,Leicester City loss,1,2,0.23,0.62,42,58,0,1,7,9,4,7,437,668,375,603,6,4,6,5,0,0,2,3,5,6,2,0,0,0,3,3,0,0
+141,Leicester City,Coventry City,Draw,1,1,1.06,1.1,39,61,1,0,6,10,2,5,465,754,406,690,4,5,8,6,0,0,1,2,6,8,2,1,0,0,3,3,0,2
+142,Leicester City,Coventry City,Leicester City win,1,0,0.17,0.77,43,57,0,1,4,9,0,1,425,615,369,551,9,7,7,5,0,0,1,1,6,7,1,3,0,0,3,4,2,0
+143,Leicester City,Coventry City,Leicester City loss,0,2,0.31,1.42,44,56,0,2,6,11,5,8,486,658,427,589,6,9,7,6,0,0,1,5,6,7,3,2,0,0,3,4,0,0
+144,Leicester City,Coventry City,Draw,0,0,0.77,0.75,43,57,0,0,11,11,2,5,479,706,416,639,7,7,4,5,0,0,0,2,5,4,2,1,0,0,3,3,0,0
+145,Leicester City,Coventry City,Leicester City loss,1,2,0.97,0.65,43,57,1,0,13,8,6,4,433,681,383,603,8,7,5,12,0,0,2,3,12,5,5,1,0,0,3,3,0,0
+146,Leicester City,Coventry City,Leicester City loss,0,1,0.49,0.94,41,59,0,1,8,8,2,3,467,735,407,671,3,5,7,7,0,0,2,0,7,7,2,4,0,0,3,3,0,0
+147,Leicester City,Coventry City,Draw,3,3,1.22,1.44,43,57,1,2,9,11,4,9,430,661,369,594,8,10,5,6,0,0,2,2,6,5,3,1,0,0,3,3,2,0
+148,Leicester City,Coventry City,Draw,1,1,0.81,1.63,34,66,1,2,6,21,1,14,304,690,257,625,2,18,9,5,0,0,1,4,5,9,0,3,1,0,4,5,0,2
+149,Leicester City,Coventry City,Leicester City loss,0,2,0.36,0.77,39,61,1,0,4,10,0,4,416,739,359,678,2,8,5,7,0,0,1,1,7,5,1,1,0,0,3,4,0,0
+150,Leicester City,Coventry City,Draw,0,0,0.32,0.92,42,58,0,0,6,12,2,7,422,702,366,633,3,9,6,12,0,0,3,2,12,6,5,1,1,0,3,3,0,0
+151,Leicester City,Coventry City,Leicester City loss,0,2,0.46,1.14,44,56,0,0,10,11,4,7,503,755,433,681,8,2,5,5,0,0,1,1,5,5,3,1,0,0,3,3,0,0
+152,Leicester City,Coventry City,Leicester City win,2,1,1.21,1.82,41,59,2,2,11,7,4,5,429,735,371,665,8,9,4,8,0,1,2,1,9,4,2,0,0,0,3,3,0,0
+153,Leicester City,Coventry City,Leicester City loss,1,2,0.5,1.46,38,62,0,2,13,13,10,10,396,759,347,705,8,7,3,10,0,0,3,0,10,3,3,2,0,0,3,3,0,0
+154,Leicester City,Coventry City,Leicester City loss,0,1,0.3,1.17,44,56,0,0,5,12,3,6,432,648,379,577,6,10,5,7,0,0,1,2,7,5,0,1,1,0,3,3,0,1
+155,Leicester City,Coventry City,Leicester City loss,0,2,0.18,2.36,42,58,0,4,5,16,2,8,429,683,379,624,6,9,3,13,0,0,2,2,13,4,4,0,0,0,3,4,0,0
+156,Leicester City,Coventry City,Leicester City win,1,0,1.08,0.42,39,61,1,0,11,7,6,5,419,732,371,661,5,6,8,6,0,0,0,3,6,9,2,5,0,0,3,4,1,0
+157,Leicester City,Coventry City,Draw,0,0,0.84,1.6,40,60,0,1,7,11,2,3,414,625,352,555,6,6,8,6,0,0,1,3,6,9,3,2,0,0,3,3,2,0
+158,Leicester City,Coventry City,Leicester City win,2,1,1.34,1.16,38,62,1,2,13,11,5,5,405,751,336,687,8,7,9,10,0,0,0,2,10,9,2,2,0,0,3,4,0,0
+159,Leicester City,Coventry City,Leicester City win,1,0,1.41,0.81,41,59,1,0,14,8,9,1,420,682,353,609,8,10,8,6,0,0,1,2,6,8,1,2,0,0,3,4,0,0
+160,Leicester City,Coventry City,Leicester City win,3,2,2.87,1.1,44,56,4,1,15,11,8,4,482,685,425,623,6,8,8,5,0,0,0,4,5,8,2,2,0,0,3,5,0,0
+161,Leicester City,Coventry City,Draw,1,1,0.73,1.28,40,60,1,2,10,5,6,4,422,728,367,653,5,4,2,4,0,0,1,0,4,2,2,0,0,0,3,4,0,0
+162,Leicester City,Coventry City,Draw,1,1,0.95,1.37,39,61,2,0,7,9,4,5,424,732,370,669,5,7,5,9,0,0,0,2,10,5,5,0,0,0,3,3,0,1
+163,Leicester City,Coventry City,Draw,1,1,0.8,0.95,43,57,1,0,10,11,2,5,437,671,372,603,6,10,6,7,0,0,0,2,7,6,4,1,0,0,2,3,0,0
+164,Leicester City,Coventry City,Leicester City win,2,0,1.03,1.37,43,57,1,1,11,14,4,7,449,660,393,596,5,10,9,7,0,0,0,3,8,9,4,2,0,0,3,4,1,0
+165,Leicester City,Coventry City,Leicester City loss,0,1,0.12,1.26,41,59,0,1,4,9,2,2,454,680,403,619,5,7,2,10,0,0,4,2,10,3,5,0,0,0,3,3,0,0
+166,Leicester City,Coventry City,Leicester City loss,1,2,0.45,0.72,43,57,0,0,8,10,2,5,483,733,411,654,5,10,6,3,0,0,1,2,3,6,1,2,0,0,3,4,0,0
+167,Leicester City,Coventry City,Draw,2,2,1.67,2.69,40,60,3,1,9,15,2,4,406,740,352,677,5,7,10,9,0,0,0,2,9,10,3,0,0,0,3,3,0,0
+168,Leicester City,Coventry City,Leicester City loss,3,4,1.4,1.93,41,59,2,2,13,12,7,9,502,766,441,710,5,6,9,7,0,0,2,1,7,10,3,3,0,0,3,3,0,0
+169,Leicester City,Coventry City,Draw,1,1,1.21,1.84,45,55,3,1,12,16,6,7,425,623,371,543,9,13,5,9,0,0,5,1,10,5,3,2,0,0,3,4,0,0
+170,Leicester City,Coventry City,Leicester City loss,1,2,1.36,0.92,44,56,2,1,12,12,6,5,462,645,405,587,4,9,5,8,0,0,0,2,8,5,6,1,1,0,3,3,0,0
+171,Leicester City,Coventry City,Leicester City loss,0,2,1.04,1.98,45,55,1,2,10,14,3,9,489,692,434,623,4,12,6,7,0,0,1,3,7,6,2,2,0,0,3,4,0,0
+172,Leicester City,Coventry City,Leicester City win,1,0,0.63,0.27,45,55,0,0,10,6,6,4,530,686,458,607,10,2,4,2,0,0,0,0,2,4,1,1,0,0,3,4,0,0
+173,Leicester City,Coventry City,Leicester City loss,0,3,0.34,0.46,40,60,0,0,7,9,2,6,416,741,351,673,6,6,3,9,0,0,2,0,9,3,3,2,0,0,3,4,0,0
+174,Leicester City,Coventry City,Leicester City win,2,1,1.51,0.26,48,52,2,0,16,4,4,1,536,635,475,564,9,2,6,5,0,0,2,1,5,6,1,1,0,0,2,4,0,2
+175,Leicester City,Coventry City,Leicester City loss,0,1,1.02,1.29,41,59,1,2,14,8,5,5,440,712,387,640,4,2,6,9,0,0,0,2,9,6,5,1,0,0,3,3,0,0
+176,Leicester City,Coventry City,Leicester City loss,1,2,0.83,1.39,43,57,1,2,8,5,4,4,436,644,369,575,6,4,5,7,0,0,1,2,7,5,3,0,0,0,3,3,0,0
+177,Leicester City,Coventry City,Leicester City loss,0,2,0.38,1.11,42,58,0,0,8,12,3,6,460,710,399,644,5,7,4,7,0,0,3,1,7,4,3,3,0,0,3,4,1,0
+178,Leicester City,Coventry City,Leicester City win,1,0,1.05,0.9,46,54,1,1,8,5,5,1,499,623,434,548,7,1,10,12,0,0,3,2,12,10,3,2,0,0,2,4,0,0
+179,Leicester City,Coventry City,Leicester City loss,0,1,0.07,0.45,40,60,0,0,2,5,0,3,438,766,368,680,2,3,7,4,0,0,1,5,4,7,0,1,0,0,3,3,0,2
+180,Leicester City,Coventry City,Leicester City win,3,0,1.77,0.6,38,62,2,1,13,14,6,0,370,714,316,656,8,6,5,6,0,0,1,3,6,5,2,0,0,0,3,3,0,0
+181,Leicester City,Coventry City,Draw,2,2,0.58,1.68,41,59,0,2,10,13,4,8,453,769,382,691,3,6,7,3,0,0,0,3,4,7,1,0,0,0,3,3,0,0
+182,Leicester City,Coventry City,Leicester City loss,0,1,0.7,1.23,42,58,1,1,7,16,3,5,442,717,393,642,4,13,7,8,0,0,2,1,8,7,1,2,0,0,3,3,0,0
+183,Leicester City,Coventry City,Draw,0,0,1.5,0.37,44,56,2,0,13,5,6,2,440,632,390,569,10,6,7,11,0,0,3,3,11,7,2,1,0,0,3,3,0,0
+184,Leicester City,Coventry City,Leicester City loss,2,3,1.24,1.44,43,57,2,2,7,10,2,7,400,653,345,574,4,12,6,9,0,0,4,1,9,6,0,1,0,0,3,3,0,1
+185,Leicester City,Coventry City,Leicester City loss,1,2,0.21,1.76,35,65,0,1,3,16,2,12,344,715,291,644,5,11,6,10,0,0,4,3,10,6,3,1,0,0,3,3,0,0
+186,Leicester City,Coventry City,Leicester City loss,0,4,0.68,4.11,41,59,1,6,8,13,3,8,407,682,363,626,5,9,4,8,0,1,1,1,9,4,1,1,0,0,3,3,0,0
+187,Leicester City,Coventry City,Leicester City loss,0,2,0.72,1.92,38,62,1,2,6,12,2,6,388,777,329,699,3,7,8,4,0,0,1,0,5,8,1,2,0,0,3,4,0,2
+188,Leicester City,Coventry City,Draw,1,1,1.64,0.66,49,51,3,2,13,7,2,5,537,629,465,560,5,4,6,8,0,0,4,2,8,6,2,2,0,0,3,3,0,0
+189,Leicester City,Coventry City,Draw,0,0,0.76,0.42,40,60,0,0,10,3,4,0,410,720,351,655,9,0,9,8,0,0,3,5,9,11,0,4,0,0,3,3,1,0
+190,Leicester City,Coventry City,Draw,2,2,1.03,1.05,44,56,1,3,13,5,6,3,488,678,426,613,8,4,6,4,0,0,1,1,4,6,1,2,0,0,2,3,0,0
+191,Leicester City,Coventry City,Draw,0,0,0.15,0.76,39,61,0,0,6,11,2,7,382,755,318,668,6,6,6,11,0,0,2,2,11,6,4,1,0,0,3,4,0,0
+192,Leicester City,Coventry City,Leicester City loss,0,1,1.07,1.55,42,58,1,1,14,9,3,7,419,744,359,674,8,8,7,7,0,0,1,2,7,7,2,0,0,0,3,3,0,0
+193,Leicester City,Coventry City,Draw,0,0,0.69,1.24,37,63,0,1,11,11,2,4,392,857,331,782,5,9,5,9,0,0,2,1,9,5,1,1,0,0,3,4,0,0
+194,Leicester City,Coventry City,Leicester City loss,0,2,0.41,1.2,42,58,0,1,10,8,5,7,436,680,377,619,11,5,7,5,0,0,1,0,5,7,2,2,0,0,3,4,0,0
+195,Leicester City,Coventry City,Leicester City win,3,1,1.84,2.55,36,64,2,3,8,15,4,7,395,819,329,750,3,7,10,4,0,0,1,5,4,11,1,3,0,0,3,4,0,0
+196,Leicester City,Coventry City,Leicester City win,1,0,1.15,1.28,41,59,3,3,8,8,6,5,455,729,390,658,5,8,5,9,1,0,3,3,9,7,2,0,0,0,2,4,1,0
+197,Leicester City,Coventry City,Draw,1,1,1.07,1.54,44,56,1,1,8,16,3,7,455,676,396,604,7,8,5,7,0,0,3,1,8,5,1,1,1,0,3,4,0,0
+198,Leicester City,Coventry City,Leicester City loss,0,1,0.86,0.88,45,55,0,1,12,7,4,3,471,642,412,558,1,4,11,9,0,0,2,4,10,11,2,0,0,0,3,3,0,0
+199,Leicester City,Coventry City,Leicester City loss,0,1,0.57,1.93,42,58,0,1,10,18,4,13,456,692,400,622,7,10,1,10,0,0,3,0,10,1,2,0,0,0,3,3,0,0
+200,Leicester City,Coventry City,Leicester City win,2,1,2.41,0.79,48,52,4,0,14,10,5,5,507,671,445,593,6,5,3,8,0,0,2,3,8,3,1,0,0,0,3,4,0,0

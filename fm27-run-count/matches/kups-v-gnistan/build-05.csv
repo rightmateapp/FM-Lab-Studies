@@ -1,0 +1,201 @@
+Run,Home,Away,Result,Home Goals,Away Goals,Home xG,Away xG,Home Possession (%),Away Possession (%),Home Clear-cut chances,Away Clear-cut chances,Home Shots,Away Shots,Home On target,Away On target,Home Passes,Away Passes,Home Passes completed,Away Passes completed,Home Corners,Away Corners,Home Free kicks,Away Free kicks,Home Penalties,Away Penalties,Home Offsides,Away Offsides,Home Fouls,Away Fouls,Home Yellow cards,Away Yellow cards,Home Red cards,Away Red cards,Home Substitutions,Away Substitutions,Home Injuries,Away Injuries
+1,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.08,0.4,59,41,1,0,12,7,8,3,683,429,625,364,7,6,16,11,0,0,2,1,12,16,1,2,0,0,5,5,0,0
+2,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,1.33,0.22,62,38,0,0,14,4,8,1,766,417,695,355,5,5,17,4,0,0,1,2,4,17,1,3,0,0,5,5,2,0
+3,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.07,0.28,56,44,0,0,8,8,2,3,576,391,517,342,5,7,20,15,0,0,1,5,15,20,3,9,0,0,5,5,0,2
+4,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.44,0.03,58,42,0,0,10,3,5,0,718,474,647,404,4,5,11,10,0,0,2,4,10,11,2,1,0,0,5,5,0,0
+5,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,1.44,0.35,69,31,1,0,10,7,4,5,849,347,774,290,7,2,8,13,0,0,2,2,14,8,4,2,1,0,5,5,0,1
+6,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.46,0.94,63,37,2,1,12,10,5,6,831,427,764,364,8,6,10,8,0,0,2,0,8,10,1,2,0,0,5,5,0,0
+7,Kuopion Palloseura,IF Gnistan,Draw,2,2,0.92,1.32,61,39,0,1,10,11,5,9,628,368,568,315,7,5,13,9,0,1,0,4,10,14,3,4,0,0,5,5,0,0
+8,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.53,1.01,62,38,0,1,8,12,3,5,750,403,678,343,5,7,11,9,0,0,1,1,9,11,2,0,0,0,5,5,0,0
+9,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.23,1.18,64,36,1,1,15,6,6,5,745,385,672,312,9,5,12,9,0,1,2,1,10,12,3,5,0,0,5,5,0,0
+10,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.08,0.86,66,34,1,1,6,5,3,2,791,369,730,302,4,2,12,3,0,0,0,1,3,12,0,1,0,0,5,5,2,0
+11,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.77,0.88,63,37,0,1,11,9,4,3,751,408,677,359,5,2,16,7,0,0,1,1,7,16,1,3,0,0,5,5,0,0
+12,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,1.57,1.11,59,41,2,2,11,9,6,4,693,424,627,366,4,5,14,13,0,0,4,3,14,14,4,3,0,0,5,5,0,2
+13,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.47,0.19,63,37,0,0,6,4,5,1,729,407,672,348,6,3,16,12,0,0,3,2,13,16,4,4,0,0,5,5,0,0
+14,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.96,0.71,62,38,0,1,11,10,4,5,792,429,706,361,4,1,14,6,0,0,2,0,7,15,1,3,0,0,5,5,0,0
+15,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.67,0.45,62,38,1,0,15,8,9,2,738,365,665,310,5,4,14,13,1,0,2,2,13,15,3,4,0,0,5,5,0,2
+16,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.92,0.93,61,39,1,1,7,9,4,3,699,410,622,347,3,4,14,9,0,0,2,2,9,16,1,4,0,0,5,5,0,0
+17,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.76,0.51,56,44,2,0,14,7,6,2,640,498,570,426,3,2,9,12,0,0,3,0,12,9,0,5,0,1,5,5,0,0
+18,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.05,0.18,62,38,2,1,16,6,4,1,691,423,626,362,8,7,11,10,0,0,2,2,10,11,1,3,0,0,5,5,1,0
+19,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.32,1.25,63,37,2,1,12,8,5,3,758,409,702,354,6,4,13,5,0,0,0,3,5,13,3,4,0,0,5,5,0,0
+20,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.95,0.86,62,38,1,2,15,8,6,4,762,430,688,363,6,2,13,11,0,0,5,4,12,13,2,2,0,0,5,5,0,0
+21,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,0.92,0.81,64,36,1,0,11,8,4,4,783,396,709,332,3,4,12,5,0,0,1,0,5,12,2,3,0,0,5,5,0,0
+22,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.41,0.9,62,38,0,1,6,8,2,7,785,408,712,349,3,4,11,10,0,0,2,2,10,11,1,1,0,0,5,5,0,0
+23,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,1.73,1.89,62,38,1,2,11,12,5,7,736,421,665,357,7,2,13,10,1,0,2,1,10,14,2,3,0,0,5,5,0,0
+24,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,0.91,0.15,68,32,1,0,7,3,4,1,910,392,832,332,5,3,12,6,0,0,2,1,7,12,0,4,0,0,5,5,0,0
+25,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,3,0.92,3.17,62,38,0,5,10,11,3,5,755,392,687,340,5,2,12,9,0,1,1,2,10,12,2,4,0,0,5,5,0,0
+26,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,2.85,0.92,60,40,3,0,12,14,8,8,749,428,679,367,5,6,9,7,1,0,1,2,7,10,2,3,0,0,5,5,0,2
+27,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.88,0.96,62,38,2,1,21,6,11,2,695,387,625,328,11,7,13,10,0,0,1,0,10,13,2,2,0,0,5,5,0,0
+28,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.59,0.52,60,40,0,0,9,8,3,5,674,417,601,359,7,2,13,12,0,0,4,1,14,14,3,3,0,0,5,5,0,0
+29,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.81,0.12,58,42,0,0,9,5,3,3,672,431,611,367,6,6,12,14,0,0,3,0,14,12,5,4,0,0,5,5,0,0
+30,Kuopion Palloseura,IF Gnistan,Draw,2,2,0.94,1.17,65,35,0,1,11,9,5,5,741,378,670,310,4,3,15,12,0,0,5,1,13,15,1,3,0,0,5,5,0,2
+31,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.72,0.17,60,40,0,0,9,4,4,2,716,434,647,375,4,3,14,15,0,0,5,1,15,14,1,4,0,0,5,5,0,0
+32,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,1.51,0.48,65,35,1,1,7,5,4,2,836,394,772,334,5,5,11,8,0,0,2,1,8,11,0,4,0,0,5,5,0,0
+33,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.78,0.62,62,38,0,0,11,10,7,4,744,380,668,318,6,5,10,12,0,0,2,1,13,10,3,5,0,0,5,5,0,0
+34,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.43,0.6,63,37,0,0,9,8,6,6,753,341,680,281,10,5,14,8,0,0,2,2,8,15,1,3,0,0,5,5,0,0
+35,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.28,0.69,62,38,1,0,13,11,4,8,766,392,687,342,6,4,10,11,0,0,3,1,12,10,2,4,0,0,5,5,0,0
+36,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.65,1.23,60,40,0,2,8,9,6,4,706,433,632,379,4,6,10,15,0,0,6,0,15,10,2,3,0,0,5,5,0,0
+37,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.44,1.32,63,37,1,1,12,8,5,4,761,404,686,353,7,5,9,6,0,1,2,2,7,10,1,3,0,0,5,5,0,0
+38,Kuopion Palloseura,IF Gnistan,Draw,2,2,1.15,1.56,63,37,1,1,9,14,5,8,807,419,740,368,5,7,9,10,0,0,4,2,10,9,2,2,0,0,5,5,1,0
+39,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,2,2.38,0.74,59,41,3,0,17,12,12,7,637,392,574,331,5,1,15,8,0,0,3,2,8,15,3,5,0,1,5,5,0,0
+40,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.58,0.27,67,33,0,0,9,6,4,1,767,343,694,280,9,5,10,9,0,0,1,2,9,10,1,1,0,0,5,5,0,0
+41,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.81,0.38,61,39,2,0,14,5,7,3,734,446,657,384,11,2,5,9,0,0,3,0,9,6,1,1,0,0,5,5,0,0
+42,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.29,0.44,65,35,0,0,6,5,0,4,855,374,787,317,3,5,9,12,0,0,2,0,12,9,3,3,0,0,5,5,0,0
+43,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.16,1.24,59,41,0,1,6,8,4,2,721,442,651,378,6,4,9,11,0,1,2,1,12,9,3,2,0,0,5,5,0,0
+44,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.71,1.86,65,35,0,3,11,12,6,5,775,398,709,335,4,6,10,11,0,0,3,0,11,10,3,4,0,0,5,5,0,0
+45,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.38,0.8,59,41,0,0,12,10,4,6,707,431,626,365,5,6,15,7,0,0,2,3,7,17,2,6,0,0,5,5,0,0
+46,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.17,0.23,63,37,3,0,12,10,4,5,748,353,681,295,7,8,8,5,0,0,2,0,6,8,1,1,0,0,5,5,4,0
+47,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,2.14,0.73,57,43,4,1,12,10,5,6,688,479,627,424,2,6,11,8,1,0,3,2,8,12,2,3,0,0,5,5,0,0
+48,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.85,1.26,62,38,1,2,8,10,1,4,693,391,631,327,9,3,9,14,0,0,3,4,15,10,1,1,0,0,5,5,0,0
+49,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.03,1.77,65,35,1,2,9,12,4,9,749,386,693,341,1,6,8,14,0,0,3,0,14,8,4,3,0,0,5,5,0,1
+50,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.88,0.04,67,33,3,0,15,3,8,2,822,354,746,277,5,6,10,8,0,0,1,2,8,10,2,3,0,0,5,5,0,0
+51,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.81,0.87,57,43,1,0,11,8,5,3,659,453,599,385,4,7,12,11,0,0,1,2,11,12,2,3,0,0,5,5,0,0
+52,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.72,0.55,55,45,1,1,6,7,4,5,725,504,651,435,2,2,13,9,0,0,3,0,9,13,1,1,0,0,4,4,1,0
+53,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.58,0.87,64,36,1,1,15,6,6,2,764,362,707,309,8,4,15,4,0,0,0,0,4,15,3,3,0,0,5,5,0,0
+54,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,4,0,2.75,0.67,68,32,4,0,16,8,7,3,825,385,768,331,5,3,15,8,1,0,1,3,8,16,1,3,0,0,5,5,0,0
+55,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,1.52,0.76,61,39,0,0,18,9,9,2,740,449,681,391,6,3,9,8,0,0,1,0,8,9,1,2,0,0,5,5,0,0
+56,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.82,0.56,58,42,3,0,11,10,4,4,638,433,572,384,4,4,12,10,0,0,2,2,10,13,2,1,0,0,5,5,0,0
+57,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.15,1.78,62,38,1,2,10,8,3,5,788,385,717,327,7,4,10,11,0,1,3,3,13,11,2,2,0,0,5,5,0,0
+58,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.85,1.26,62,38,3,1,20,9,10,2,716,354,657,298,8,2,14,8,0,1,2,2,9,14,2,3,0,0,3,5,2,2
+59,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,1.0,0.67,61,39,0,1,11,6,6,4,789,440,711,368,5,3,11,11,0,0,2,4,11,11,2,1,0,0,5,5,0,0
+60,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.9,0.07,67,33,1,0,10,3,3,1,857,371,798,320,2,2,9,7,0,0,0,0,7,9,0,3,0,0,5,5,0,0
+61,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,2.05,0.15,62,38,1,0,14,4,9,1,757,438,703,386,8,0,11,9,0,0,4,1,9,12,1,4,0,0,5,5,0,0
+62,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.6,1.86,58,42,1,2,8,8,3,4,655,443,576,382,8,7,9,9,0,1,2,2,10,9,2,0,0,0,5,5,0,0
+63,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.68,0.32,59,41,1,0,6,6,3,3,684,424,616,356,6,8,13,11,0,0,3,2,11,13,3,4,0,0,5,5,1,0
+64,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.67,0.37,60,40,1,0,7,7,4,3,753,417,676,347,2,4,14,14,0,0,5,3,14,14,1,1,0,0,5,5,0,0
+65,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.96,0.62,61,39,2,0,8,9,3,3,711,415,629,347,8,3,12,11,0,0,3,0,11,12,4,3,0,0,5,5,0,0
+66,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.25,0.91,60,40,1,0,11,8,4,6,711,402,651,347,2,6,16,12,0,0,4,4,12,16,0,5,0,0,5,5,0,0
+67,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.19,0.67,57,43,0,0,3,9,2,1,673,461,602,404,4,6,11,10,0,0,5,2,11,12,3,1,0,0,5,5,0,0
+68,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.6,0.88,61,39,0,1,8,6,4,3,693,420,635,362,1,4,16,11,0,0,2,2,12,16,3,2,0,0,5,5,0,0
+69,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,3,1.08,2.08,59,41,1,4,6,13,4,8,646,394,580,339,4,4,12,12,0,0,2,2,12,13,2,1,0,0,5,5,0,1
+70,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.84,1.48,63,37,1,1,7,8,4,5,807,441,743,372,0,5,8,16,0,1,4,1,17,8,1,2,0,0,5,5,1,0
+71,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.73,1.21,63,37,0,2,10,8,5,4,797,431,721,354,6,3,11,10,0,0,1,3,10,11,2,4,0,1,5,5,0,0
+72,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.33,1.39,57,43,0,1,12,7,4,3,684,482,605,413,6,5,16,10,0,0,2,3,10,16,3,7,0,0,5,5,0,0
+73,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.31,0.49,61,39,1,1,9,8,4,3,680,381,614,325,5,5,13,10,1,0,1,3,10,14,4,3,0,0,5,5,0,0
+74,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.1,0.16,59,41,0,1,11,5,3,2,742,463,672,392,3,4,11,14,0,0,5,1,14,11,2,3,0,0,5,5,0,0
+75,Kuopion Palloseura,IF Gnistan,Draw,2,2,2.11,0.48,60,40,2,0,15,7,7,4,739,429,662,361,5,3,13,7,1,0,5,1,8,15,2,5,0,0,5,5,0,0
+76,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.52,0.08,62,38,1,0,12,2,6,2,750,438,681,383,6,1,6,12,0,0,4,1,13,7,4,2,0,0,5,5,1,1
+77,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.94,0.83,62,38,0,1,11,7,4,4,764,410,703,357,5,4,15,8,0,0,3,0,10,15,3,5,0,0,5,5,0,0
+78,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.53,1.41,55,45,0,1,9,12,3,6,569,396,500,343,6,12,15,9,0,1,1,2,13,15,6,3,0,0,5,5,0,0
+79,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.46,0.11,57,43,0,0,6,6,3,3,734,469,661,409,6,6,9,12,0,0,6,2,12,11,2,1,0,0,5,5,0,0
+80,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,2.17,0.29,59,41,1,0,19,4,8,2,643,384,582,314,10,1,17,6,0,0,2,0,6,17,1,6,0,1,5,5,0,0
+81,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,1.87,1.02,60,40,2,1,11,7,5,3,757,419,679,350,6,3,15,7,1,0,1,4,7,16,1,5,0,0,5,5,0,0
+82,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.25,0.64,60,40,2,1,9,5,5,1,751,457,678,398,6,6,12,4,0,0,1,3,4,12,1,2,0,0,5,5,0,0
+83,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.6,0.84,66,34,0,0,9,7,3,4,809,377,743,313,3,4,16,11,0,0,5,1,11,16,1,5,0,0,5,5,0,0
+84,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.67,1.06,60,40,0,0,9,12,5,2,703,423,634,360,4,7,8,9,0,0,3,2,9,8,2,2,0,0,5,5,0,0
+85,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.21,0.58,63,37,1,1,10,5,4,3,689,379,626,324,6,8,13,10,0,0,2,3,10,13,2,3,0,0,5,5,0,0
+86,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.91,0.36,58,42,2,0,10,5,6,1,632,434,569,362,9,0,17,14,0,0,2,3,15,17,1,4,0,0,5,5,1,0
+87,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.68,0.93,63,37,1,1,6,7,2,2,713,388,640,318,5,4,16,8,0,0,0,4,8,16,3,2,0,0,5,5,1,0
+88,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.48,0.34,59,41,0,1,11,4,5,3,665,379,593,324,8,4,20,9,0,0,3,2,9,20,1,3,0,0,5,5,0,0
+89,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.94,1.17,57,43,1,1,9,7,7,3,641,476,579,423,5,7,8,10,0,1,4,2,12,8,1,3,0,0,5,5,0,0
+90,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.33,1.35,61,39,1,2,10,10,5,6,586,350,518,293,5,8,15,12,1,0,3,6,13,18,2,3,0,0,5,5,1,0
+91,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.06,0.12,64,36,1,0,6,2,4,1,770,364,710,304,2,2,19,10,0,0,4,5,10,19,3,6,0,0,5,5,0,0
+92,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.52,0.54,64,36,1,0,14,5,7,2,852,430,781,350,4,2,14,6,0,0,1,0,6,14,2,2,0,0,5,5,0,0
+93,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.69,1.6,60,40,0,1,7,9,5,6,671,414,600,353,4,8,14,15,0,0,5,3,15,14,2,5,0,0,5,5,0,0
+94,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.22,0.64,62,38,1,0,7,10,4,2,759,416,677,346,3,7,11,8,1,0,1,4,8,12,1,4,0,0,5,5,0,0
+95,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.86,0.28,62,38,0,0,15,3,6,3,754,405,685,340,12,3,18,5,0,0,2,2,5,18,1,4,0,0,5,5,0,0
+96,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.5,0.84,59,41,0,0,6,10,3,2,716,448,643,387,6,4,13,9,0,0,2,2,9,13,2,3,0,0,5,5,0,0
+97,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,0.69,1.12,65,35,1,0,10,9,6,3,781,393,710,330,4,5,9,9,0,0,2,1,9,9,2,3,0,0,5,5,0,0
+98,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.83,0.58,62,38,2,0,15,6,4,3,699,394,625,334,9,1,12,15,0,0,10,1,16,12,1,5,0,0,5,5,0,0
+99,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,2.5,1.25,60,40,3,1,13,10,8,4,717,402,651,338,9,9,14,8,0,0,1,2,8,14,2,3,0,0,5,5,0,0
+100,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.92,0.8,62,38,0,0,12,6,7,4,748,424,676,366,8,3,11,8,0,0,0,2,8,11,4,2,0,0,5,5,0,0
+101,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.21,0.65,60,40,1,0,8,8,4,2,710,433,631,375,7,3,13,13,0,0,3,1,13,13,3,5,0,0,5,5,0,0
+102,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,2.32,0.51,63,37,3,0,10,7,6,3,680,384,609,324,6,1,16,11,1,0,2,1,11,17,1,4,0,0,5,5,0,0
+103,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.55,0.26,63,37,0,0,12,2,5,1,781,403,697,333,10,2,12,7,0,0,2,3,7,12,1,2,0,0,5,5,0,0
+104,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.77,0.19,66,34,1,0,6,2,4,2,873,396,799,343,1,3,12,10,0,0,6,1,12,12,2,3,0,0,5,5,1,0
+105,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.63,0.58,64,36,0,0,10,8,5,5,786,370,711,312,6,4,15,9,0,0,1,1,11,15,2,4,0,0,5,5,0,0
+106,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.64,1.54,65,35,1,2,7,4,3,3,755,366,684,309,6,2,12,9,0,1,3,1,11,12,3,1,0,0,5,5,1,0
+107,Kuopion Palloseura,IF Gnistan,Draw,2,2,2.69,0.72,59,41,4,1,16,7,5,3,749,428,662,366,7,3,14,9,0,0,3,3,9,14,1,3,0,0,5,5,0,0
+108,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,4,1.37,2.87,60,40,2,5,12,11,3,5,748,469,685,401,4,4,8,12,0,0,2,0,12,8,1,2,0,0,5,5,0,0
+109,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.64,0.13,56,44,0,0,10,4,6,2,674,489,599,426,7,3,13,6,0,0,1,1,6,13,2,5,0,1,5,5,0,0
+110,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.67,2.04,59,41,1,2,11,11,4,6,638,441,570,377,5,7,11,9,1,0,1,3,9,13,1,4,0,0,5,5,0,0
+111,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.15,1.1,60,40,0,1,15,8,8,6,669,407,601,341,11,3,10,10,0,1,3,2,11,10,2,4,0,0,3,5,2,0
+112,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,2.06,0.61,64,36,3,2,15,5,7,4,702,363,640,299,6,1,16,10,1,0,4,3,11,17,1,6,0,0,5,5,0,0
+113,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,2.04,0.48,63,37,2,0,15,7,8,5,822,407,746,342,9,5,12,6,1,0,1,2,6,13,1,4,0,0,5,5,0,0
+114,Kuopion Palloseura,IF Gnistan,Draw,1,1,2.06,0.93,69,31,2,1,18,3,11,3,747,306,697,257,7,2,14,8,1,1,0,2,9,17,1,5,0,0,5,5,0,0
+115,Kuopion Palloseura,IF Gnistan,Draw,2,2,1.18,1.73,60,40,0,1,15,9,8,6,670,389,594,329,6,1,17,12,0,1,4,1,14,19,3,3,0,0,5,5,0,0
+116,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.26,1.89,58,42,0,2,4,12,3,9,620,413,560,355,1,9,18,11,0,0,5,4,12,18,2,4,0,0,5,5,0,0
+117,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,2.14,0.37,61,39,1,0,15,6,8,2,728,424,677,367,6,4,13,9,1,0,1,1,9,14,3,1,0,0,5,5,0,0
+118,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.3,1.13,58,42,2,0,12,10,4,7,623,394,554,319,9,5,14,12,0,0,4,2,13,14,3,6,0,0,5,5,0,0
+119,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,2.32,0.09,63,37,2,0,12,2,7,1,795,449,721,382,5,3,9,10,1,0,3,1,10,10,1,4,0,0,5,5,0,0
+120,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,3,1.48,1.22,67,33,1,2,17,6,10,3,789,311,725,247,12,3,9,9,0,0,3,1,10,9,3,3,0,0,5,5,0,0
+121,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.02,0.51,69,31,1,0,8,7,6,4,806,326,735,269,7,3,15,7,0,0,2,3,7,15,1,4,0,0,5,5,0,0
+122,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.91,1.14,61,39,0,2,11,12,5,5,694,397,630,334,6,4,18,11,0,0,4,3,12,19,3,5,0,0,5,5,0,0
+123,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,0.82,0.68,64,36,0,0,13,11,8,7,746,396,669,342,5,7,16,10,0,0,0,5,10,16,2,4,0,0,5,5,0,0
+124,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.4,1.93,66,34,0,2,8,8,4,4,812,355,748,297,2,2,10,14,0,0,5,2,15,10,3,4,0,0,5,5,0,0
+125,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.31,0.51,61,39,0,0,4,7,2,2,740,419,674,358,7,2,13,8,0,0,1,0,8,14,0,4,0,0,5,5,0,0
+126,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.53,0.96,60,40,0,1,5,12,2,5,746,443,667,375,2,7,13,8,0,0,5,2,9,13,1,6,0,0,5,5,0,0
+127,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.56,0.32,61,39,0,0,5,5,1,4,708,403,636,338,2,4,11,14,0,0,4,3,14,11,1,4,0,0,5,5,0,0
+128,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.08,0.25,64,36,2,1,18,5,4,2,831,407,753,344,4,3,18,7,0,0,2,2,7,18,0,4,0,0,5,5,0,2
+129,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,0.97,0.7,59,41,0,1,10,12,2,3,608,413,551,356,7,8,19,11,0,0,2,4,11,20,3,3,0,0,5,5,0,0
+130,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,1.29,0.89,66,34,1,1,12,9,11,4,826,343,760,286,4,6,15,12,0,0,3,0,12,15,2,3,0,0,5,5,0,0
+131,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.82,0.4,65,35,2,0,12,5,6,1,832,362,769,309,10,3,14,7,0,0,0,1,7,15,2,4,0,0,5,5,0,0
+132,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.04,0.5,61,39,3,1,8,7,3,3,700,364,629,320,3,4,19,13,0,0,3,5,13,19,3,4,0,0,5,5,0,0
+133,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.68,0.62,61,39,1,0,7,9,2,4,706,410,642,344,5,8,13,12,0,0,3,2,13,13,3,4,0,0,5,5,0,0
+134,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.85,0.57,64,36,0,0,10,4,4,2,759,360,680,293,7,6,10,10,0,0,2,2,10,10,1,6,0,0,5,5,1,0
+135,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.72,0.87,59,41,1,1,9,12,4,6,732,437,659,376,5,7,11,11,0,0,3,2,11,11,3,5,0,1,5,5,0,0
+136,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.03,0.48,59,41,2,0,7,5,5,3,753,453,678,375,4,4,10,8,0,0,3,4,8,10,1,2,0,0,5,5,0,0
+137,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.69,0.39,64,36,2,0,15,5,6,0,752,382,699,330,10,4,9,9,0,0,2,2,10,9,3,2,0,1,5,5,0,0
+138,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.13,1.07,58,42,1,1,8,11,5,7,666,441,588,375,7,8,10,12,0,0,2,2,12,10,3,3,0,0,5,5,0,0
+139,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.94,0.93,63,37,2,1,13,5,7,2,794,386,730,324,4,3,12,11,1,0,1,3,11,13,1,4,0,0,5,5,0,0
+140,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.03,0.32,63,37,1,0,12,7,8,5,715,345,632,283,7,4,17,15,0,0,4,3,15,17,1,3,0,0,5,5,0,0
+141,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.19,0.47,57,43,0,0,3,8,1,5,675,412,608,350,1,7,17,9,0,0,2,3,10,17,0,7,0,0,5,5,0,1
+142,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.33,0.55,60,40,1,1,10,9,5,1,677,394,610,332,6,6,15,13,0,0,2,3,13,15,3,4,0,0,5,5,0,0
+143,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.18,0.44,60,40,0,1,12,5,7,3,715,439,653,388,5,6,12,14,0,0,2,2,14,12,3,3,0,0,5,5,0,0
+144,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,1.39,1.29,62,38,2,1,14,9,8,6,694,362,620,294,8,3,12,13,0,0,2,2,13,12,3,1,0,0,5,5,0,1
+145,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.02,1.18,60,40,1,2,7,11,3,4,672,432,607,368,7,3,21,8,0,0,3,3,8,22,1,5,0,1,5,5,0,0
+146,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.92,1.83,61,39,1,3,9,10,3,3,672,377,601,316,4,7,16,8,0,0,1,3,8,16,1,6,0,0,5,5,0,0
+147,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.54,0.92,56,44,1,0,14,10,5,2,618,438,543,370,7,7,12,10,1,0,2,1,10,13,1,6,0,1,5,5,0,0
+148,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,1.13,0.89,66,34,0,1,10,6,6,3,811,382,734,317,6,4,14,4,0,0,2,1,5,14,0,3,0,0,5,5,0,0
+149,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.52,0.83,60,40,0,0,11,12,3,4,668,363,598,309,8,6,17,10,0,0,2,3,11,17,2,6,0,0,5,5,0,0
+150,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.75,1.16,63,37,3,0,11,10,4,4,703,386,640,324,12,4,7,7,0,0,3,1,7,7,1,2,0,0,5,5,0,0
+151,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.12,0.74,66,34,1,1,11,12,5,6,828,360,748,304,6,9,15,11,0,0,4,2,11,15,2,4,0,0,5,5,0,0
+152,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.59,0.92,66,34,0,0,5,10,3,4,805,364,729,301,2,4,13,10,0,0,2,1,10,14,0,2,0,0,5,5,0,0
+153,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.33,1.69,63,37,0,2,5,7,3,3,739,378,666,318,4,5,12,8,0,0,1,0,8,12,1,2,0,0,5,5,1,0
+154,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.34,0.84,62,38,2,0,17,11,8,6,681,372,614,304,8,6,15,9,1,0,0,2,10,16,0,5,0,0,5,5,0,0
+155,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,1,2.43,1.13,65,35,2,1,15,7,8,3,764,345,694,294,8,8,22,7,0,0,2,2,8,22,1,5,0,0,5,5,0,1
+156,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,1.5,0.37,66,34,2,0,11,3,5,0,914,419,838,358,4,2,9,5,0,0,0,0,5,9,0,3,0,0,5,5,0,0
+157,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.39,0.82,59,41,0,1,6,10,2,5,766,472,685,404,4,3,14,11,0,0,2,2,11,14,2,3,0,0,5,5,0,2
+158,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.6,1.46,59,41,0,1,8,11,4,5,719,422,647,358,3,6,10,10,0,0,2,5,10,10,1,2,0,0,5,5,0,0
+159,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.64,0.4,64,36,2,1,13,4,5,3,796,424,720,354,5,2,17,9,0,0,1,2,9,17,3,5,0,0,5,5,0,0
+160,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.36,0.67,60,40,3,0,13,8,5,4,670,399,601,339,3,4,8,13,0,0,3,1,13,8,4,3,0,0,5,5,0,0
+161,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.87,0.63,62,38,1,0,10,5,4,4,698,360,641,300,6,3,10,14,0,0,2,0,14,10,4,3,0,0,5,5,1,0
+162,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,3,0.9,1.92,62,38,1,2,10,8,5,4,738,395,678,330,5,3,10,10,0,1,5,1,11,10,0,4,0,0,5,5,2,0
+163,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.7,0.87,56,44,1,0,6,12,4,7,634,453,563,388,1,9,14,13,0,0,1,3,13,14,4,3,0,0,5,5,0,1
+164,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,4,1,3.36,0.45,61,39,3,0,16,8,9,6,749,438,689,374,5,7,13,4,1,0,1,2,5,15,1,2,0,0,5,5,0,0
+165,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,0,0.99,0.65,63,37,0,1,14,6,4,3,767,419,699,366,4,5,13,3,0,0,0,4,3,13,0,2,0,1,5,5,0,2
+166,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.47,0.16,64,36,1,0,10,4,7,2,714,392,648,329,10,2,18,6,0,0,0,0,6,18,3,4,0,0,5,5,2,0
+167,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.86,1.65,60,40,1,1,9,14,3,10,652,411,591,358,6,11,14,14,0,0,5,4,14,14,1,3,0,0,5,5,0,0
+168,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.03,0.87,60,40,1,2,7,4,4,1,807,456,730,394,3,4,15,10,0,0,4,4,10,15,0,2,0,0,5,5,0,1
+169,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.71,0.47,57,43,0,0,8,8,1,2,602,397,530,338,5,5,15,13,0,0,5,1,14,15,2,5,0,0,5,5,2,2
+170,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,1.19,1.22,66,34,0,1,12,7,4,4,821,365,739,298,6,1,12,7,0,0,0,0,7,12,0,2,0,0,5,5,0,0
+171,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.34,0.89,56,44,0,0,4,9,1,3,671,487,599,416,2,1,10,7,0,0,0,0,7,10,2,1,0,0,5,5,0,0
+172,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,0.63,1.55,62,38,0,2,9,10,7,3,641,336,573,274,8,3,15,12,0,0,3,3,13,15,2,3,0,0,5,5,2,0
+173,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.78,0.09,63,37,0,0,12,4,5,2,670,388,611,331,8,4,16,12,0,0,7,2,14,17,3,3,0,0,5,5,0,0
+174,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.36,1.11,59,41,0,2,10,6,2,4,706,428,638,366,8,6,14,7,0,0,1,2,7,14,3,2,0,0,5,5,0,0
+175,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.27,1.02,58,42,0,2,16,5,7,4,743,501,669,431,6,3,9,13,0,0,4,2,13,9,3,2,0,0,5,5,0,0
+176,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,0.56,0.88,65,35,1,0,5,10,2,5,849,382,797,318,2,3,15,10,0,0,1,3,10,15,1,3,1,0,5,5,1,0
+177,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.38,1.52,65,35,0,2,9,13,2,2,745,335,691,280,5,10,15,10,0,0,2,4,10,15,2,5,0,0,5,5,0,0
+178,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,4,0,2.23,0.18,65,35,2,0,13,4,8,3,808,398,745,340,6,3,11,7,1,0,2,2,7,14,1,1,0,0,5,5,0,0
+179,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.67,0.54,61,39,1,0,7,6,5,3,757,396,669,316,3,0,12,12,0,0,4,1,12,12,1,4,0,0,5,5,2,0
+180,Kuopion Palloseura,IF Gnistan,Draw,2,2,1.58,0.65,63,37,2,0,11,7,4,6,757,398,687,343,6,2,9,12,0,0,2,1,13,9,2,3,0,0,5,5,0,0
+181,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.77,0.18,61,39,0,0,10,3,6,0,730,429,648,351,7,3,11,14,0,0,5,3,15,11,1,4,0,1,5,5,0,0
+182,Kuopion Palloseura,IF Gnistan,Draw,1,1,1.43,1.3,57,43,1,1,9,10,5,5,624,419,555,361,3,5,19,12,1,0,1,4,12,20,4,6,0,0,5,5,0,0
+183,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.49,0.31,62,38,1,0,12,4,5,1,712,406,655,337,9,4,15,14,0,0,5,1,15,15,2,5,0,0,5,5,0,0
+184,Kuopion Palloseura,IF Gnistan,Draw,0,0,1.51,1.14,62,38,1,0,17,7,4,2,737,409,676,346,11,2,9,12,0,0,4,2,12,10,3,1,0,0,5,5,0,0
+185,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,2.91,0.38,66,34,3,0,11,9,5,4,820,361,749,304,2,7,11,10,2,0,4,3,10,14,1,7,0,1,5,5,0,0
+186,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,1.49,0.8,61,39,1,1,12,11,3,5,680,367,614,313,6,4,13,13,0,0,2,2,13,13,4,4,0,0,5,5,0,0
+187,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,0.94,1.26,60,40,1,0,11,14,4,10,635,416,568,352,9,7,12,9,0,0,4,1,9,12,3,3,0,0,5,5,0,0
+188,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,1,0,1.5,0.71,62,38,3,0,6,6,2,1,740,426,674,368,1,2,9,14,1,0,3,2,14,10,1,5,0,0,5,5,0,0
+189,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,2,1.34,0.66,66,34,2,0,15,8,3,6,745,316,671,262,6,5,15,7,0,0,1,1,8,15,2,4,0,0,5,5,0,0
+190,Kuopion Palloseura,IF Gnistan,Draw,2,2,1.0,2.42,62,38,0,2,13,9,7,5,749,391,680,335,4,8,16,9,0,1,2,1,10,16,1,6,0,0,5,5,0,0
+191,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,2,3,1.88,1.98,63,37,2,4,13,10,6,4,688,349,624,291,9,2,12,12,0,0,5,2,13,15,2,5,0,0,5,5,0,0
+192,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,1,2,1.66,1.99,60,40,3,3,14,4,10,3,732,435,641,365,6,0,12,9,1,1,4,0,11,13,0,4,0,1,5,5,0,0
+193,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,1.55,0.88,64,36,1,2,9,7,5,5,806,417,725,363,4,4,12,10,0,0,2,3,10,13,0,2,0,0,5,5,0,0
+194,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.97,0.9,56,44,1,0,11,11,3,3,668,483,597,416,7,9,13,7,0,0,2,4,7,13,0,3,0,0,5,5,0,0
+195,Kuopion Palloseura,IF Gnistan,Draw,0,0,0.66,1.03,59,41,1,3,8,6,2,3,669,436,605,378,3,7,12,13,0,0,2,2,14,12,1,3,0,1,5,5,0,0
+196,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura loss,0,1,1.17,0.36,67,33,0,0,13,5,5,4,837,367,762,311,10,0,12,17,0,0,3,2,17,12,3,3,0,0,5,5,0,0
+197,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,2,0,0.79,0.44,63,37,0,0,12,5,6,3,738,388,670,326,5,5,16,7,0,0,1,1,7,16,3,3,1,0,5,5,0,0
+198,Kuopion Palloseura,IF Gnistan,Draw,2,2,2.55,0.78,58,42,3,0,11,9,7,5,674,448,608,395,5,4,15,8,1,0,2,2,8,16,0,6,0,1,5,5,0,0
+199,Kuopion Palloseura,IF Gnistan,Kuopion Palloseura win,3,1,3.16,0.84,61,39,1,0,21,14,10,3,695,383,618,323,5,6,14,7,0,0,0,2,7,14,1,7,0,0,5,5,0,0
+200,Kuopion Palloseura,IF Gnistan,Draw,1,1,0.93,0.82,64,36,0,1,11,4,3,3,756,396,690,328,7,4,14,12,0,0,6,3,12,14,2,1,0,0,5,5,0,2

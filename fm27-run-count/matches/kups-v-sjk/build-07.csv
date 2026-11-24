@@ -1,0 +1,201 @@
+Run,Home,Away,Result,Home Goals,Away Goals,Home xG,Away xG,Home Possession (%),Away Possession (%),Home Clear-cut chances,Away Clear-cut chances,Home Shots,Away Shots,Home On target,Away On target,Home Passes,Away Passes,Home Passes completed,Away Passes completed,Home Corners,Away Corners,Home Free kicks,Away Free kicks,Home Penalties,Away Penalties,Home Offsides,Away Offsides,Home Fouls,Away Fouls,Home Yellow cards,Away Yellow cards,Home Red cards,Away Red cards,Home Substitutions,Away Substitutions,Home Injuries,Away Injuries
+1,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.34,0.24,58,42,1,0,15,5,9,3,740,446,659,389,5,3,6,13,1,0,1,3,13,7,0,0,0,0,5,5,0,0
+2,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.53,1.16,58,42,0,1,9,9,6,2,683,453,617,398,9,7,4,11,0,0,1,0,11,4,1,1,0,0,5,5,0,0
+3,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.84,2.39,49,51,0,2,8,15,6,3,560,493,492,430,3,13,8,10,0,0,1,1,10,8,0,0,0,0,5,5,0,0
+4,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.2,0.49,62,38,0,0,14,4,5,2,826,437,740,372,5,2,8,9,0,0,3,2,9,8,1,0,0,0,5,5,0,0
+5,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.37,1.63,54,46,0,3,18,10,7,7,709,497,635,425,6,7,10,8,0,0,1,3,8,10,1,2,0,0,5,5,0,0
+6,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.31,0.96,60,40,0,0,16,12,5,4,733,376,649,316,8,8,14,6,0,0,0,2,6,14,0,0,0,0,5,5,2,0
+7,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.66,0.46,55,45,0,0,16,6,6,3,714,481,613,411,7,5,7,12,0,0,2,2,12,7,2,0,0,0,5,5,0,0
+8,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.65,1.17,63,37,2,1,11,9,4,4,818,412,748,351,5,1,10,8,1,0,4,3,10,11,1,0,0,0,5,5,0,0
+9,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.1,1.67,54,46,1,2,9,10,6,4,666,457,588,384,4,6,6,6,0,0,1,0,6,6,1,0,0,0,5,5,0,0
+10,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.98,0.98,55,45,2,1,10,12,4,6,691,465,612,401,4,5,10,10,0,0,2,1,10,10,0,0,0,0,5,5,0,0
+11,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,0.49,1.46,55,45,1,2,9,10,5,4,682,482,614,411,8,3,9,14,0,1,3,0,15,9,0,1,0,0,5,5,0,0
+12,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.89,1.54,55,45,0,2,14,7,7,4,705,475,632,412,7,8,5,6,0,0,0,2,6,5,0,0,0,0,5,5,0,2
+13,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,1.19,1.36,58,42,3,2,12,11,6,5,767,452,691,381,1,4,6,15,0,0,5,1,15,6,1,1,0,0,5,5,0,0
+14,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.33,0.96,56,44,0,1,8,9,3,2,763,499,680,426,4,7,10,7,0,0,2,0,8,10,1,1,0,0,5,5,0,0
+15,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,4,1.25,3.21,56,44,1,2,8,17,4,9,722,462,630,398,4,6,2,11,0,1,0,0,12,2,1,0,0,0,5,5,0,0
+16,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.76,1.12,56,44,0,1,7,14,2,4,718,454,637,379,2,9,4,10,0,0,1,0,10,4,0,0,0,0,5,5,1,0
+17,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,1,2.3,1.7,59,41,2,1,16,13,6,8,759,402,688,343,5,9,10,5,1,1,1,1,6,11,0,1,0,0,5,5,0,0
+18,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.82,1.3,58,42,0,2,10,11,2,5,726,448,651,386,5,10,9,9,0,0,1,4,10,9,1,0,0,0,5,5,0,0
+19,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.45,0.85,57,43,1,0,12,12,6,6,698,470,620,404,8,7,5,13,0,0,1,0,13,5,0,1,0,0,5,5,0,0
+20,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.71,1.2,53,47,2,1,12,12,5,3,619,466,546,404,2,2,5,18,1,0,1,1,18,6,3,0,0,0,5,5,0,0
+21,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.61,3.22,55,45,0,3,10,15,6,10,671,479,598,411,4,11,6,9,0,0,3,1,9,6,2,1,0,0,5,5,0,0
+22,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,0.96,1.98,58,42,0,1,13,12,3,9,742,474,650,411,4,6,10,8,0,0,2,4,8,10,1,0,0,0,5,5,0,2
+23,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.92,0.72,57,43,1,1,9,3,2,3,767,493,683,413,4,0,9,12,0,0,1,0,12,9,0,0,0,0,5,5,1,0
+24,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,1.24,2.07,56,44,0,3,12,8,6,6,718,476,643,389,6,5,7,10,0,1,2,2,11,7,1,0,0,0,5,5,0,0
+25,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.36,1.04,58,42,2,0,7,12,4,3,706,412,628,351,1,13,11,9,0,0,0,1,9,11,1,0,0,0,5,5,0,0
+26,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,2.36,1.42,60,40,1,2,21,8,10,5,718,401,645,339,10,3,11,5,0,0,1,4,6,11,1,0,0,0,5,5,0,0
+27,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,0,2.31,0.77,59,41,2,0,13,12,6,8,775,456,686,387,3,5,6,9,0,0,1,1,9,6,0,0,0,0,5,5,0,0
+28,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.56,1.82,56,44,1,1,12,14,5,7,671,429,594,363,5,9,8,19,0,0,3,1,20,8,2,0,0,0,5,5,0,0
+29,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,0,2.23,1.07,63,37,2,0,13,8,5,1,857,418,783,349,5,6,6,11,0,0,1,1,11,6,0,1,0,0,5,5,1,0
+30,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,0.35,0.42,63,37,0,0,9,8,3,3,877,410,795,345,4,5,14,7,0,0,1,6,7,14,1,0,0,0,5,5,0,0
+31,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,0.25,2.22,69,31,0,2,5,14,4,8,1085,389,1019,335,1,6,9,7,0,0,2,2,7,9,0,1,1,0,5,5,0,0
+32,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.6,1.1,66,34,0,2,18,6,6,4,860,391,771,321,4,2,12,8,0,0,0,1,8,12,1,0,0,0,5,5,0,0
+33,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.09,1.5,54,46,1,1,16,9,8,5,698,489,620,427,8,4,10,7,0,1,2,2,8,10,1,1,0,0,5,5,0,0
+34,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.13,1.72,56,44,1,4,16,9,7,2,713,487,632,415,8,2,7,8,0,0,2,2,8,7,1,0,0,0,5,5,1,0
+35,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,1.65,1.02,53,47,2,0,14,9,5,6,635,474,557,421,6,7,6,9,0,0,1,1,9,6,1,0,0,0,5,5,0,2
+36,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,2.21,1.44,61,39,1,2,21,6,14,5,739,428,676,368,6,6,6,14,0,1,0,2,15,6,2,0,0,0,5,5,0,0
+37,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.34,1.26,55,45,0,1,15,11,7,7,657,472,583,402,4,5,10,13,0,0,3,2,13,10,0,0,0,0,5,5,0,0
+38,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.58,1.31,60,40,1,2,17,5,8,2,778,422,698,362,8,4,6,9,0,1,3,2,12,6,2,0,0,0,5,5,0,2
+39,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.92,1.16,57,43,0,2,15,8,7,6,726,469,656,408,6,4,14,14,0,0,5,3,14,14,1,1,0,0,5,5,0,0
+40,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.92,1.03,57,43,1,1,9,6,7,2,729,444,652,374,3,2,8,15,0,1,4,1,16,8,1,1,0,0,5,5,1,0
+41,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,1.65,1.14,59,41,1,1,17,9,7,5,704,410,627,342,8,4,11,13,0,0,1,2,13,11,1,2,0,0,5,5,0,0
+42,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,2.57,1.94,59,41,3,2,20,12,6,4,730,410,657,348,8,5,10,9,0,0,2,3,10,10,1,0,0,0,5,5,0,0
+43,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,2.32,0.91,55,45,2,1,19,7,7,4,706,515,641,431,7,4,12,8,0,0,0,0,8,12,1,0,0,0,5,5,0,0
+44,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.92,1.27,56,44,2,1,13,8,3,4,701,479,624,401,4,5,10,11,0,0,2,5,11,10,0,0,0,0,5,5,0,0
+45,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,0.62,1.16,53,47,0,1,12,9,5,6,651,487,575,412,4,9,7,15,0,1,3,2,18,7,1,1,0,0,5,5,0,0
+46,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.24,0.65,61,39,1,1,11,7,1,3,818,449,748,369,1,3,7,9,0,0,3,2,10,7,2,0,0,0,5,5,1,0
+47,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.34,2.32,60,40,1,4,16,12,7,6,718,405,638,341,6,4,10,7,0,0,0,3,7,10,3,1,0,0,5,5,1,0
+48,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.25,0.72,63,37,0,2,15,5,6,4,829,413,761,346,9,4,8,12,0,0,2,3,12,9,0,2,0,0,5,5,0,2
+49,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.06,1.35,57,43,0,2,13,7,6,3,709,465,632,395,4,4,8,14,0,0,2,1,14,8,0,0,0,0,5,5,0,0
+50,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,0,2.17,0.72,60,40,2,0,18,6,9,4,764,444,687,383,6,3,6,5,0,0,1,0,5,6,1,1,0,0,5,5,0,1
+51,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.73,0.33,61,39,0,1,10,4,3,4,821,444,741,368,4,4,8,7,0,0,3,3,7,8,1,2,0,0,5,5,0,1
+52,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.55,1.85,55,45,1,1,7,14,2,10,695,524,622,463,2,6,13,7,0,0,0,4,7,13,1,1,0,0,5,5,1,0
+53,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,0.7,2.19,56,44,0,2,5,9,4,5,642,488,562,421,2,7,8,16,0,0,2,0,16,9,0,1,0,0,5,5,1,0
+54,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.56,0.7,60,40,0,0,11,7,7,4,794,444,712,385,6,5,6,11,0,0,2,1,12,7,2,0,0,0,5,5,0,0
+55,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.75,0.05,60,40,0,0,15,4,5,2,699,444,626,372,7,3,9,7,0,0,2,2,7,10,1,0,0,0,5,5,0,1
+56,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.21,0.41,60,40,0,2,13,5,3,3,751,439,661,364,6,1,11,10,0,0,0,3,11,11,2,0,0,0,5,5,1,0
+57,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.97,0.59,61,39,0,0,12,7,8,2,767,422,683,346,4,2,10,6,0,0,1,0,6,10,1,2,0,0,5,5,0,0
+58,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.51,2.23,57,43,1,2,11,14,4,7,724,500,662,442,1,4,12,12,1,0,2,5,12,14,0,1,0,0,5,5,0,0
+59,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,0.81,1.17,55,45,0,2,9,10,6,3,704,476,626,415,1,8,9,7,0,0,1,2,8,9,0,1,0,0,5,5,0,0
+60,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.39,1.42,58,42,1,2,17,7,10,5,765,436,687,369,6,3,7,7,0,0,2,1,7,7,0,0,0,0,5,5,0,0
+61,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.47,1.14,58,42,0,1,9,7,1,2,696,441,624,373,4,2,7,19,0,1,2,1,21,7,1,1,0,0,5,5,1,1
+62,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,2,2.29,2.4,52,48,3,3,11,11,5,8,615,521,546,459,4,6,13,14,0,0,1,6,14,13,1,0,0,0,5,5,0,0
+63,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,2.11,0.9,57,43,2,2,18,4,11,2,706,474,639,413,8,3,10,17,0,0,2,2,17,10,2,2,0,0,5,5,0,0
+64,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,2.66,0.84,61,39,3,2,14,5,6,2,809,423,735,366,8,4,9,8,1,0,0,1,9,10,1,0,0,0,5,5,0,1
+65,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.33,0.54,61,39,0,0,13,7,4,2,761,410,676,353,8,6,8,9,0,0,3,0,9,8,1,1,0,0,5,5,0,0
+66,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.54,1.97,52,48,0,2,10,11,4,7,604,487,516,419,7,9,10,10,0,0,1,1,10,10,1,2,0,0,5,5,0,0
+67,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.6,1.49,55,45,1,2,9,8,3,3,726,510,663,453,5,4,3,14,0,0,2,1,14,3,0,0,0,0,5,5,0,1
+68,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.18,0.2,55,45,0,0,14,5,8,3,672,472,580,396,6,5,11,9,0,0,2,2,10,11,2,2,0,0,5,5,1,0
+69,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.65,0.29,52,48,0,0,11,5,6,2,639,552,561,481,6,2,5,12,0,0,4,2,12,5,1,0,0,0,5,5,0,0
+70,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.94,1.14,60,40,1,4,12,8,7,4,782,464,693,399,9,2,11,6,0,0,2,5,7,11,2,0,0,0,5,5,0,0
+71,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.02,1.23,58,42,0,1,12,11,6,4,704,420,635,358,6,8,9,10,0,0,2,0,11,9,1,1,0,0,5,5,0,2
+72,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.25,0.3,61,39,1,1,17,7,6,2,768,378,704,317,8,4,9,12,0,0,4,1,13,9,1,1,0,0,5,5,0,0
+73,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.25,0.67,57,43,0,0,13,7,4,3,693,466,612,396,8,4,8,12,0,0,2,1,12,8,2,1,0,0,5,5,0,0
+74,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,5,1,1.85,1.24,58,42,1,0,22,10,10,4,676,418,602,363,7,8,13,8,0,0,1,2,8,13,1,0,0,0,5,5,0,0
+75,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,1.67,0.86,59,41,2,2,17,4,4,2,806,476,722,417,7,3,6,6,0,0,1,1,7,6,0,1,0,0,5,5,0,0
+76,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.2,0.8,60,40,1,0,17,7,5,5,757,404,684,330,6,5,10,13,0,0,3,1,14,10,0,2,0,0,5,5,0,0
+77,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.49,0.52,60,40,0,0,12,10,5,2,825,434,735,369,5,9,7,12,0,0,1,4,12,7,3,0,0,0,5,5,0,0
+78,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.88,0.66,55,45,0,0,11,8,4,3,754,510,674,431,4,6,4,13,0,0,2,2,13,4,1,1,0,0,5,5,0,0
+79,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.17,0.75,62,38,0,1,12,6,4,4,813,397,744,328,4,3,10,12,0,0,3,0,12,10,0,1,0,0,5,5,0,0
+80,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.3,1.12,56,44,0,1,6,10,1,5,640,447,554,387,3,3,7,19,0,0,3,1,19,7,1,0,0,0,5,5,0,0
+81,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,0.96,1.37,68,32,1,2,10,11,7,4,908,346,834,296,7,5,13,9,0,0,2,4,9,13,0,0,1,1,5,5,0,0
+82,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.96,1.54,57,43,0,2,12,10,5,8,732,455,658,400,4,6,5,10,0,0,2,2,10,5,0,1,0,0,5,5,0,0
+83,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.25,1.2,57,43,1,3,14,10,5,4,661,399,588,346,6,9,9,16,0,0,3,4,16,9,2,0,0,0,5,5,0,0
+84,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,2,1.47,2.63,54,46,1,1,16,20,7,9,691,487,635,424,3,8,7,11,0,0,1,1,11,7,0,0,0,0,5,5,0,0
+85,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.04,1.01,60,40,0,0,13,13,4,7,779,397,707,336,3,6,9,10,0,0,2,3,10,9,0,0,0,0,5,5,0,0
+86,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,4,1.5,1.2,63,37,1,2,13,6,7,4,905,391,829,332,7,1,10,7,0,0,1,0,7,10,0,3,0,0,5,5,0,0
+87,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,1.86,0.68,60,40,5,1,13,4,5,3,699,367,636,314,7,5,12,13,0,0,1,0,13,12,1,1,0,0,5,5,0,0
+88,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.16,0.65,59,41,2,0,10,10,6,2,744,456,660,392,6,8,7,13,0,0,4,2,13,7,0,0,0,0,5,5,0,0
+89,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.37,0.41,61,39,1,2,9,4,5,2,726,387,646,318,3,6,13,7,0,0,0,4,7,13,1,0,0,0,5,5,0,0
+90,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.81,0.41,61,39,0,1,17,6,10,3,758,412,672,341,8,2,12,8,0,0,1,2,9,12,1,1,0,0,5,5,0,2
+91,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,1.22,1.88,54,46,1,3,18,12,10,7,731,515,650,455,8,8,9,7,0,0,1,2,7,9,1,0,0,0,5,5,0,0
+92,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.98,3.16,57,43,2,4,13,16,4,5,651,412,587,355,3,9,9,15,0,1,4,1,16,9,1,2,0,0,5,5,0,0
+93,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,2,1.03,1.7,61,39,0,2,15,11,6,6,756,429,676,350,4,6,6,17,0,0,1,0,17,6,0,0,0,0,5,5,1,0
+94,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.41,1.95,59,41,0,3,12,15,4,8,663,365,595,316,3,11,11,10,0,0,1,3,10,11,1,2,0,0,5,5,0,0
+95,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.58,1.19,56,44,0,1,7,12,4,4,643,410,568,346,5,7,12,11,0,0,1,2,11,12,0,0,0,0,5,5,4,0
+96,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.03,0.72,54,46,1,0,14,9,7,3,771,493,701,429,4,8,5,8,0,0,2,1,8,5,0,1,0,0,5,5,0,0
+97,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.71,2.04,51,49,0,2,13,12,5,3,656,522,584,462,6,8,5,11,0,0,4,0,11,5,1,0,0,0,5,5,0,0
+98,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.26,1.41,55,45,1,2,14,6,6,5,690,491,606,419,5,2,10,9,0,0,1,2,10,10,2,0,0,0,5,5,0,0
+99,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,0.93,1.84,48,52,0,1,13,10,5,5,639,561,562,489,4,4,6,7,0,1,0,1,8,6,0,1,0,0,5,5,0,2
+100,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,1.08,1.44,53,47,0,2,9,15,5,8,696,519,615,453,8,11,4,12,0,0,1,0,12,4,2,0,0,0,5,5,0,0
+101,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.97,0.34,60,40,1,0,8,8,3,2,776,397,696,343,1,7,10,8,0,0,1,2,8,10,0,0,0,0,5,5,0,0
+102,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,0.55,1.67,60,40,0,2,9,12,4,5,830,447,764,384,5,5,9,9,0,0,5,0,9,9,0,0,0,0,5,5,0,0
+103,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.76,1.29,56,44,0,1,8,9,3,6,697,466,625,402,4,6,12,12,0,0,5,4,13,12,1,0,0,0,5,5,0,0
+104,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,0.41,0.92,60,40,0,2,8,6,1,3,701,422,623,355,3,5,10,9,0,0,3,2,10,10,3,1,0,0,5,5,1,0
+105,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.75,0.53,62,38,1,1,17,5,8,2,879,413,799,350,4,4,8,9,0,0,1,3,9,8,2,1,0,0,5,5,0,0
+106,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,3,1.36,2.66,59,41,1,3,14,11,9,6,741,401,661,342,3,3,12,14,0,1,0,0,16,12,1,2,0,0,5,5,0,0
+107,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.9,1.42,59,41,0,1,15,7,5,6,687,415,622,354,4,4,8,14,0,0,4,3,15,8,1,1,0,0,5,5,0,0
+108,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.6,1.73,53,47,2,1,10,15,5,7,639,489,562,424,8,7,12,12,0,0,2,5,12,12,0,0,0,0,5,5,0,1
+109,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,4,0.41,1.68,59,41,0,2,9,11,4,7,695,393,621,337,4,6,11,7,0,0,0,2,7,11,1,2,0,0,5,5,0,0
+110,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.13,1.37,56,44,0,1,15,14,4,6,641,431,570,372,7,11,15,12,0,0,1,3,12,15,1,0,0,0,5,5,0,0
+111,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,0.55,0.64,64,36,0,0,8,6,3,3,787,359,695,304,4,6,10,9,0,0,4,4,9,10,1,0,0,0,5,5,0,2
+112,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.58,0.52,50,50,0,0,9,7,3,5,636,558,558,489,4,5,5,16,0,0,4,2,16,5,2,0,0,0,5,5,0,0
+113,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,0.39,1.41,55,45,0,2,6,13,2,5,801,496,723,436,2,11,5,8,0,0,2,1,8,5,0,0,0,0,5,5,0,0
+114,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.66,2.53,52,48,1,1,10,16,6,9,534,444,477,388,8,7,6,16,0,0,2,2,16,6,2,0,0,0,5,5,0,2
+115,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.7,0.62,61,39,0,1,10,5,2,4,748,401,678,342,4,4,12,12,0,0,1,5,12,12,3,1,0,0,5,5,0,0
+116,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,0.65,1.28,55,45,0,1,10,9,6,3,702,452,622,390,6,3,6,10,0,0,1,0,10,6,2,0,0,0,5,5,2,0
+117,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,2.44,1.29,64,36,3,1,11,12,2,5,785,367,705,303,4,1,10,15,0,0,1,1,15,10,2,0,0,0,5,5,0,0
+118,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.13,1.32,58,42,0,2,17,10,6,4,760,491,689,427,9,3,7,7,0,0,1,1,7,7,1,1,0,0,5,5,0,0
+119,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,2,1.12,1.53,60,40,1,3,17,11,7,5,799,428,718,367,6,3,13,7,0,0,0,7,7,13,0,0,0,0,5,5,1,0
+120,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.4,1.84,62,38,1,2,18,11,10,6,768,384,702,310,10,5,10,17,0,0,5,2,17,10,1,0,0,0,5,5,0,0
+121,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.56,0.44,58,42,2,1,10,4,2,1,762,474,681,409,8,1,7,12,0,0,3,1,13,7,1,1,0,0,5,5,0,0
+122,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.54,0.77,51,49,0,0,9,12,2,5,647,520,577,461,3,8,7,12,0,0,2,0,12,7,0,1,0,0,5,5,0,0
+123,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.64,0.56,56,44,1,1,13,6,5,5,649,447,564,386,4,4,11,16,0,0,3,4,16,11,0,0,0,0,4,5,2,0
+124,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,2.4,0.67,64,36,3,0,18,5,6,3,874,425,799,360,4,5,10,10,0,0,3,2,10,11,0,0,0,0,5,5,0,0
+125,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.41,1.75,52,48,1,1,15,13,8,6,671,515,585,449,11,5,4,6,0,0,1,1,6,4,1,1,0,0,5,5,0,0
+126,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,2.31,0.57,57,43,1,0,21,9,7,4,656,442,581,366,4,3,14,16,0,0,4,4,16,14,3,1,0,0,5,5,0,0
+127,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,5,0.94,3.17,57,43,1,4,14,18,6,9,653,412,577,345,4,12,8,10,0,0,1,1,10,8,0,0,0,0,5,5,0,2
+128,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.86,0.91,57,43,1,0,8,7,3,5,709,438,636,384,2,6,9,10,0,0,1,1,10,9,1,0,0,0,5,5,2,0
+129,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.76,0.59,59,41,0,0,18,5,4,3,710,412,638,357,13,6,11,13,0,0,4,1,14,11,1,0,0,0,5,5,0,0
+130,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.12,0.77,56,44,1,1,15,14,7,2,652,406,588,356,5,6,14,13,0,0,2,1,13,15,0,1,0,0,5,5,0,0
+131,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.76,2.16,56,44,2,2,11,16,7,8,629,440,566,377,4,9,12,15,0,0,2,3,16,12,1,1,0,0,5,5,0,0
+132,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.02,0.52,58,42,2,0,12,9,3,4,679,461,600,387,5,3,3,18,0,0,2,1,21,3,2,0,0,0,5,5,0,0
+133,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.46,1.01,58,42,1,1,9,9,4,6,777,495,695,421,1,6,8,9,0,0,2,0,9,8,0,1,0,0,5,5,0,0
+134,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.71,0.82,62,38,0,1,13,6,6,2,723,408,645,344,7,5,8,15,0,0,5,0,16,8,2,0,0,0,5,5,2,1
+135,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.51,1.69,60,40,1,1,18,13,8,9,768,408,692,338,9,7,5,16,0,0,5,1,16,5,0,1,0,0,5,5,0,0
+136,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,0.97,0.65,58,42,0,0,14,12,6,4,759,420,685,376,7,6,9,9,0,0,1,2,9,9,1,0,0,0,5,5,0,0
+137,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.95,0.83,58,42,1,2,24,6,12,6,665,396,600,337,12,7,13,10,0,0,4,3,11,13,1,0,0,0,5,5,0,0
+138,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,0.47,2.34,56,44,1,2,7,18,4,8,652,405,584,344,4,13,8,11,0,0,1,1,11,8,1,2,0,0,5,5,0,0
+139,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,0.63,1.76,59,41,0,3,6,10,3,6,809,427,718,372,6,5,8,11,0,0,1,1,11,8,0,1,0,0,5,5,0,0
+140,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.97,0.97,56,44,2,1,15,10,5,3,706,471,638,404,3,2,7,15,1,0,4,0,16,8,1,0,0,0,5,5,0,0
+141,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.98,1.05,52,48,1,1,12,10,8,4,645,506,563,434,4,5,5,8,0,0,2,1,8,6,1,1,0,0,5,5,0,2
+142,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.04,0.64,57,43,0,1,11,13,8,5,701,443,622,388,8,10,7,13,0,0,3,4,13,7,1,0,0,0,5,5,0,0
+143,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.18,1.2,53,47,0,1,3,16,0,7,690,479,593,409,2,8,10,14,0,0,4,1,14,10,1,2,0,0,5,5,0,0
+144,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.07,0.72,59,41,1,1,14,5,5,4,648,423,578,368,6,2,8,22,0,0,3,1,22,8,1,1,0,0,5,5,0,0
+145,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.67,0.42,57,43,0,0,13,7,3,6,701,414,625,355,5,4,8,12,0,0,3,1,12,9,1,2,0,0,5,5,0,0
+146,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.12,0.47,60,40,0,1,15,5,5,1,740,409,673,356,6,4,12,9,0,0,4,4,9,12,1,1,0,0,5,5,0,0
+147,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.75,0.94,59,41,2,0,15,9,6,3,744,439,686,369,6,6,4,14,0,0,2,1,15,4,0,0,0,0,5,5,0,0
+148,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.48,0.58,59,41,1,0,12,10,6,5,798,467,707,410,4,6,4,7,1,0,2,2,8,6,0,0,0,0,5,5,0,0
+149,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,3,1.0,2.25,54,46,1,4,13,11,4,7,680,518,611,457,4,3,7,9,0,1,3,0,10,8,1,0,0,0,5,5,0,0
+150,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,1.22,0.99,59,41,0,3,13,4,10,2,785,422,709,369,5,3,12,8,0,0,0,2,8,12,0,0,0,0,5,5,0,0
+151,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.75,0.61,55,45,1,0,11,14,3,3,656,502,586,440,5,9,6,13,0,0,4,3,13,6,3,1,0,0,5,5,0,0
+152,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,1.72,0.77,59,41,0,0,20,8,11,4,670,422,597,351,11,4,8,11,0,0,2,1,12,9,2,0,0,0,5,5,0,0
+153,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,1.0,1.78,57,43,0,1,16,16,8,8,615,342,547,291,9,11,11,13,0,0,0,0,13,11,1,0,0,0,5,5,0,0
+154,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,3,3,2.28,1.65,56,44,3,2,10,13,3,9,753,514,666,457,2,6,8,6,0,0,0,3,6,8,3,2,0,0,5,5,0,0
+155,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,1,1.57,2.18,60,40,2,1,10,10,7,5,768,418,687,355,7,7,15,4,0,0,1,1,4,15,1,0,0,0,5,5,0,1
+156,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,1,3.09,1.28,61,39,4,1,17,9,8,3,850,450,785,390,7,5,5,4,0,0,0,0,4,5,0,0,0,0,5,5,0,0
+157,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.61,0.81,59,41,1,1,18,11,6,5,628,393,572,334,9,10,13,9,0,0,0,5,9,13,1,3,0,0,5,5,0,0
+158,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,1.03,0.7,56,44,2,0,8,11,4,8,673,466,598,411,3,5,10,14,0,0,3,1,14,10,2,0,0,0,5,5,0,0
+159,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.68,1.32,59,41,1,1,7,11,5,6,753,451,678,393,6,6,6,13,0,0,2,1,15,6,2,2,0,0,5,5,0,0
+160,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.59,1.39,55,45,0,2,9,7,3,2,688,467,613,401,9,4,8,14,0,0,2,2,15,8,0,0,0,0,5,5,0,0
+161,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.96,0.49,60,40,0,0,9,8,5,5,755,446,671,377,3,7,4,17,0,0,5,1,18,4,2,2,0,0,5,5,0,0
+162,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,2.15,1.16,57,43,1,1,20,7,8,4,678,416,605,352,7,1,5,15,0,1,2,1,17,5,2,0,0,0,5,5,0,0
+163,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,0,2.36,0.75,59,41,2,2,17,7,8,2,763,436,688,370,8,9,13,8,0,0,1,4,8,13,0,0,0,0,5,5,0,0
+164,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.42,1.42,55,45,1,1,13,13,9,7,621,430,545,360,8,6,13,8,0,0,1,1,8,13,0,2,0,0,5,5,0,0
+165,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,0.91,0.44,60,40,1,0,18,8,6,3,741,436,664,364,9,2,12,10,0,0,2,3,10,13,0,1,0,0,5,5,0,1
+166,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.57,0.86,55,45,0,2,8,10,2,7,686,484,604,405,3,7,9,8,0,0,1,2,8,9,0,2,0,0,5,5,0,0
+167,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,1.74,0.72,59,41,2,0,11,12,5,6,652,397,592,344,6,8,15,11,0,0,3,1,12,15,1,0,0,0,5,5,0,0
+168,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,0.67,0.84,57,43,0,1,9,10,5,6,788,455,704,391,2,8,7,7,0,0,0,0,7,7,0,0,0,0,5,5,0,2
+169,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.93,1.1,57,43,1,1,11,6,7,5,665,427,590,358,8,5,10,4,0,0,1,2,4,10,1,0,0,0,5,5,0,0
+170,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,3,2,0.91,0.46,57,43,0,1,9,6,3,4,618,445,547,390,6,8,12,14,0,0,1,4,14,13,2,0,0,0,5,5,0,2
+171,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,0.98,0.78,60,40,1,0,12,7,6,4,763,395,688,347,3,7,10,8,0,0,1,1,9,10,1,0,0,0,5,5,0,0
+172,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.74,0.78,62,38,2,1,10,7,6,3,832,461,751,394,3,5,9,7,1,0,2,1,7,10,0,1,0,0,5,5,0,0
+173,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.04,1.31,54,46,0,1,18,10,5,5,622,419,551,357,6,6,9,12,0,0,1,1,13,9,1,0,0,0,5,5,0,0
+174,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,0,0,0.24,1.18,59,41,0,1,7,10,2,7,711,402,628,342,3,10,8,16,0,0,2,2,16,8,0,2,0,0,5,5,0,0
+175,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.04,0.79,63,37,1,0,13,10,4,3,777,378,696,322,9,8,9,12,0,0,3,2,12,9,0,1,0,0,5,5,0,0
+176,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,1.3,1.86,64,36,1,2,12,14,7,8,838,419,753,349,6,7,10,8,0,0,1,3,8,10,1,1,0,0,5,5,0,0
+177,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.76,2.05,59,41,1,3,17,8,6,5,688,383,616,326,6,2,17,13,0,1,2,4,14,17,2,0,0,0,5,5,0,0
+178,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.12,0.82,62,38,1,1,12,9,4,5,847,395,758,330,7,2,5,14,0,0,3,0,14,5,1,0,0,0,5,5,0,0
+179,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,1,0,1.21,1.69,64,36,1,2,13,16,5,7,778,383,714,330,7,11,12,11,0,0,2,3,12,12,1,0,0,0,5,5,0,0
+180,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,3,3,1.79,1.97,56,44,2,2,18,14,8,7,661,454,598,401,3,11,11,11,0,0,5,3,11,11,1,0,1,0,5,5,0,0
+181,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.75,0.97,58,42,0,1,8,10,2,4,778,457,702,398,6,2,11,7,0,0,0,2,8,12,0,2,0,0,5,5,0,0
+182,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.28,0.19,63,37,1,1,12,6,2,4,735,373,668,314,10,1,7,8,0,0,1,2,9,7,1,1,0,0,5,5,1,0
+183,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,0.8,1.1,55,45,0,2,13,7,8,5,614,401,546,341,7,9,8,11,0,0,3,1,11,8,1,1,0,0,5,5,0,2
+184,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.3,0.82,57,43,0,0,17,6,7,1,797,507,706,440,4,4,10,7,0,0,1,2,7,10,0,0,0,0,5,5,0,0
+185,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.1,0.95,58,42,1,1,11,9,2,5,682,420,600,360,5,3,8,14,0,0,2,2,14,8,0,1,0,0,5,5,0,0
+186,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,2,2,2.01,2.22,53,47,1,2,19,13,8,9,672,478,593,405,9,5,9,11,0,1,1,4,13,9,1,0,0,0,5,5,0,0
+187,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,4,0.51,2.09,55,45,0,3,7,15,4,6,744,531,673,469,2,8,8,9,0,0,0,0,9,8,1,0,0,0,5,5,0,0
+188,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,3,1.33,1.97,59,41,1,3,13,8,4,4,756,385,678,327,10,2,5,12,0,0,0,1,12,5,1,1,0,0,5,5,0,0
+189,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,1.3,0.92,65,35,1,1,14,4,7,2,919,410,841,344,9,0,12,10,0,0,2,2,10,12,0,0,0,0,5,5,0,0
+190,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,3,1.32,1.58,57,43,1,2,11,9,3,5,789,468,703,395,3,6,4,11,0,0,3,0,12,4,0,0,0,0,5,5,0,0
+191,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,0.74,1.73,58,42,0,1,14,12,7,7,716,453,645,389,6,9,8,10,0,0,2,4,10,9,1,0,0,0,5,5,0,0
+192,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,3,0.81,2.3,62,38,0,4,13,15,5,10,796,411,736,365,6,7,5,8,0,0,3,2,8,5,0,0,0,0,5,5,0,1
+193,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,2.02,0.43,56,44,1,0,16,3,6,3,716,511,645,438,6,4,5,15,0,0,2,3,15,5,2,0,0,0,5,5,0,0
+194,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,1.07,0.71,57,43,0,0,13,10,8,4,758,446,690,379,6,7,9,10,0,0,1,1,10,9,0,0,0,0,5,5,0,0
+195,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,3,0.86,3.13,59,41,0,4,9,12,5,6,757,423,680,366,5,8,6,7,0,0,2,0,7,6,2,0,0,0,5,5,0,1
+196,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,2,3,0.69,1.89,56,44,1,2,10,14,3,9,668,476,603,412,2,5,11,11,0,0,3,3,11,11,1,1,0,0,5,5,0,0
+197,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura win,2,0,1.47,2.24,57,43,1,2,18,15,8,5,646,408,575,340,9,9,6,5,0,0,1,3,5,6,0,1,0,0,5,5,0,0
+198,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,0,1,0.44,0.63,59,41,0,1,8,6,4,3,799,451,727,394,9,0,7,13,0,0,3,2,13,7,0,2,0,0,5,5,0,2
+199,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Draw,1,1,2.01,0.83,57,43,3,1,14,9,3,4,728,461,651,386,5,4,9,15,0,0,4,1,16,9,0,0,0,0,5,5,0,0
+200,Kuopion Palloseura,Seinäjoen Jalkapallokerho,Kuopion Palloseura loss,1,2,2.07,1.38,55,45,1,2,21,7,7,3,750,507,678,427,13,3,3,10,0,0,5,0,10,3,1,0,0,0,5,5,0,0

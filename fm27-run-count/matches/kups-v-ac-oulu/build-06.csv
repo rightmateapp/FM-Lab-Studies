@@ -1,0 +1,201 @@
+Run,Home,Away,Result,Home Goals,Away Goals,Home xG,Away xG,Home Possession (%),Away Possession (%),Home Clear-cut chances,Away Clear-cut chances,Home Shots,Away Shots,Home On target,Away On target,Home Passes,Away Passes,Home Passes completed,Away Passes completed,Home Corners,Away Corners,Home Free kicks,Away Free kicks,Home Penalties,Away Penalties,Home Offsides,Away Offsides,Home Fouls,Away Fouls,Home Yellow cards,Away Yellow cards,Home Red cards,Away Red cards,Home Substitutions,Away Substitutions,Home Injuries,Away Injuries
+1,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,1.62,1.9,51,49,1,2,12,13,10,8,545,548,469,480,6,9,12,10,0,0,2,8,10,13,2,2,0,0,5,5,2,0
+2,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.34,0.96,54,46,2,0,12,13,6,9,567,480,502,417,5,4,14,10,0,0,3,5,11,14,3,2,0,0,5,5,0,0
+3,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,1.08,1.23,54,46,1,1,9,11,3,5,630,515,560,461,9,6,11,6,0,0,1,4,6,11,2,3,0,0,5,5,0,0
+4,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,1,1.95,0.38,62,38,3,0,20,7,9,3,703,477,643,405,9,6,9,8,0,0,0,5,8,9,1,2,0,0,5,5,0,0
+5,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.88,1.43,52,48,1,2,8,12,4,7,642,563,557,493,3,9,7,12,0,0,3,1,13,7,2,2,0,0,5,5,0,0
+6,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.99,2.54,51,49,0,2,10,15,5,7,571,530,504,472,4,6,8,16,0,1,3,2,17,8,4,1,0,0,5,5,0,0
+7,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.78,1.95,59,41,2,2,15,13,7,8,625,461,550,395,7,8,10,10,0,0,2,3,10,10,2,3,0,0,5,5,1,0
+8,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.79,1.64,50,50,1,2,17,11,7,6,577,592,508,526,12,6,6,6,0,0,3,1,6,6,1,2,0,0,5,5,0,0
+9,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,4,0.63,2.55,54,46,0,2,10,14,7,9,634,495,565,424,3,5,7,16,0,1,7,2,17,7,4,2,0,0,5,5,0,0
+10,Kuopion Palloseura,AC Oulu,Draw,1,1,0.7,1.27,50,50,1,3,12,13,6,6,557,519,492,463,6,8,7,12,0,0,1,4,12,9,5,1,0,0,5,5,3,0
+11,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.77,0.59,53,47,0,0,11,10,7,3,563,507,490,440,8,8,4,13,0,0,4,1,13,4,3,0,0,0,5,5,0,0
+12,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,4,1.25,1.31,59,41,1,1,17,11,5,8,677,466,613,405,3,6,6,11,0,0,2,1,11,6,4,3,0,0,5,5,0,0
+13,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.75,1.12,53,47,0,2,9,8,3,5,672,590,588,522,5,6,6,11,0,0,4,2,11,6,2,3,0,0,5,5,0,0
+14,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.41,0.75,48,52,0,0,10,10,5,4,571,574,496,497,3,8,9,11,0,0,3,3,11,9,3,3,0,0,5,5,3,0
+15,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.3,0.5,53,47,1,0,12,7,5,4,598,525,532,459,7,5,9,16,0,0,2,3,16,9,2,3,0,0,5,5,0,1
+16,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.99,1.66,57,43,0,2,13,15,8,5,689,500,615,423,4,8,4,14,0,0,1,1,14,4,3,1,0,0,5,5,0,0
+17,Kuopion Palloseura,AC Oulu,Draw,0,0,0.77,0.44,53,47,0,0,11,7,5,4,563,549,486,470,10,6,12,12,0,0,3,3,12,12,2,3,0,0,5,5,0,0
+18,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.5,1.66,55,45,0,2,12,12,4,5,695,550,610,473,6,5,10,12,0,0,2,3,12,10,3,1,0,0,5,5,0,0
+19,Kuopion Palloseura,AC Oulu,Draw,0,0,1.15,0.62,52,48,1,0,11,9,6,4,595,588,522,506,5,6,9,9,0,0,0,4,9,10,2,3,1,0,5,5,1,0
+20,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,1.5,0.86,59,41,1,1,15,6,11,3,629,421,543,346,9,4,9,5,0,0,1,4,5,9,2,1,0,0,5,5,2,0
+21,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.53,0.95,55,45,0,1,19,8,9,2,638,548,570,470,9,5,10,7,0,0,1,3,7,10,2,3,0,0,5,5,0,0
+22,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.26,1.03,54,46,2,1,5,8,2,2,639,571,569,493,1,3,8,15,0,0,2,2,16,8,3,1,0,0,5,5,0,0
+23,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.58,2.1,51,49,2,2,15,14,5,9,581,566,512,496,5,4,9,13,0,1,3,3,14,9,3,3,0,0,5,5,0,0
+24,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.7,2.64,52,48,2,3,6,20,0,12,569,539,509,470,2,9,8,13,0,1,1,2,14,8,8,3,1,0,5,5,0,0
+25,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,0.76,1.56,56,44,0,3,11,6,3,4,685,582,599,499,7,4,6,7,0,0,1,1,7,6,2,3,0,0,5,5,0,0
+26,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.16,1.0,50,50,0,0,6,8,1,5,560,653,491,565,2,5,7,13,0,0,0,1,13,7,2,3,0,0,5,5,0,1
+27,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,0.67,2.18,57,43,0,2,8,14,1,8,673,519,594,450,3,6,6,8,0,1,2,0,9,6,3,3,0,0,5,5,0,0
+28,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,0.7,0.92,56,44,0,0,13,15,8,6,602,456,522,386,7,8,15,10,0,0,2,4,10,15,4,3,0,0,5,5,0,0
+29,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,4,1.1,2.1,51,49,1,2,12,15,9,7,509,535,449,467,10,9,6,12,0,0,2,0,13,6,1,3,0,0,5,5,0,1
+30,Kuopion Palloseura,AC Oulu,Draw,1,1,0.5,1.25,47,53,0,2,4,12,1,3,545,637,458,566,1,5,5,11,0,0,3,1,11,5,2,2,0,0,5,5,0,2
+31,Kuopion Palloseura,AC Oulu,Draw,0,0,0.61,0.66,53,47,0,0,13,6,5,0,613,566,530,504,9,1,6,8,0,0,1,4,9,7,2,1,0,0,5,5,0,1
+32,Kuopion Palloseura,AC Oulu,Draw,1,1,2.69,1.34,54,46,2,1,22,11,8,4,573,527,505,458,9,3,12,8,0,0,2,3,8,12,1,3,0,0,5,5,0,0
+33,Kuopion Palloseura,AC Oulu,Draw,0,0,0.64,0.51,48,52,0,0,10,7,6,3,559,631,486,550,2,4,9,12,0,0,1,1,12,9,2,3,0,0,5,5,0,0
+34,Kuopion Palloseura,AC Oulu,Draw,1,1,1.59,1.64,52,48,1,2,12,8,6,4,619,595,547,520,6,4,6,12,0,0,4,1,12,6,1,1,0,0,5,5,0,0
+35,Kuopion Palloseura,AC Oulu,Draw,0,0,0.95,0.69,52,48,1,0,13,12,4,4,550,472,474,401,9,9,9,10,0,0,2,4,12,9,3,2,0,0,5,5,0,0
+36,Kuopion Palloseura,AC Oulu,Draw,2,2,0.76,1.88,49,51,1,1,9,13,5,7,525,549,446,464,5,10,11,10,0,0,1,4,10,11,0,3,0,0,5,5,0,0
+37,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,3,0.83,1.65,55,45,1,1,10,11,4,7,694,539,616,457,7,4,10,9,0,0,4,1,9,10,1,5,0,0,5,5,0,0
+38,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,1.33,0.58,54,46,2,0,13,13,4,7,551,521,483,445,9,7,11,8,0,0,3,6,8,11,1,2,0,0,5,5,0,0
+39,Kuopion Palloseura,AC Oulu,Draw,1,1,0.64,1.02,52,48,0,0,10,10,4,8,613,541,549,477,5,6,7,10,0,0,1,1,10,7,0,2,0,0,5,5,0,0
+40,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.88,1.19,55,45,0,1,11,18,6,9,638,510,562,436,3,9,7,7,0,0,3,2,7,7,1,4,0,0,5,5,0,0
+41,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.62,0.58,55,45,0,0,9,11,3,8,595,503,528,437,0,8,15,13,0,0,1,8,13,15,7,1,1,0,5,5,0,0
+42,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,4,1.23,2.16,58,42,1,4,10,8,1,5,653,524,585,444,7,4,6,12,0,1,4,2,13,6,5,2,0,0,5,5,0,0
+43,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.33,1.09,52,48,0,1,6,8,0,4,628,537,558,461,3,3,7,14,0,0,1,2,15,7,3,2,0,0,5,5,0,0
+44,Kuopion Palloseura,AC Oulu,Draw,1,1,0.96,1.03,51,49,0,1,6,8,3,3,597,531,534,451,2,6,10,14,0,0,5,3,14,10,3,2,0,0,5,5,0,0
+45,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,3,1.37,2.5,46,54,2,2,9,16,6,8,454,621,392,550,5,9,6,10,0,1,3,2,12,6,2,2,0,0,5,5,0,0
+46,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.8,1.44,55,45,0,2,7,12,3,3,686,525,606,443,3,10,13,8,0,1,1,2,9,13,2,2,0,0,5,5,0,0
+47,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.72,1.2,56,44,3,0,8,13,3,5,688,496,608,423,1,5,11,15,0,0,6,2,15,11,3,5,0,0,5,5,0,0
+48,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,1.4,1.49,64,36,3,0,8,13,2,8,765,389,691,330,4,6,7,9,0,0,1,1,9,7,3,2,0,0,5,5,1,0
+49,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,1.49,1.87,60,40,1,2,15,11,6,5,697,417,628,362,10,4,2,10,0,0,2,0,10,2,1,0,0,0,5,5,0,0
+50,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,1.0,1.4,53,47,0,0,10,15,8,9,611,551,525,482,5,8,8,12,0,0,0,4,12,8,3,3,0,0,4,5,2,0
+51,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.79,0.74,56,44,0,0,8,7,2,3,654,504,577,429,4,6,5,8,0,0,1,1,8,5,2,1,0,0,5,5,0,0
+52,Kuopion Palloseura,AC Oulu,Draw,0,0,0.54,0.56,48,52,0,1,8,4,1,2,523,598,451,512,4,3,10,20,0,0,8,2,21,11,5,5,0,0,5,5,0,0
+53,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,0.79,1.69,55,45,0,2,10,10,4,1,555,507,487,435,5,7,5,11,0,0,3,1,11,5,4,4,0,0,5,5,0,0
+54,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.95,2.14,51,49,0,3,12,10,5,4,604,581,533,513,7,6,8,10,0,1,0,1,12,8,0,2,0,0,5,5,0,0
+55,Kuopion Palloseura,AC Oulu,Draw,2,2,2.35,1.35,50,50,3,1,14,16,5,5,487,536,423,478,5,12,9,11,0,0,3,3,11,9,3,3,0,0,5,5,0,0
+56,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,5,1.35,2.72,58,42,1,3,15,14,5,11,697,474,630,419,5,6,6,12,0,0,4,1,13,6,2,1,0,0,5,5,0,0
+57,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,1.66,0.46,55,45,2,0,15,7,8,3,608,526,537,449,8,7,11,11,0,0,2,2,11,11,5,3,0,0,5,5,0,0
+58,Kuopion Palloseura,AC Oulu,Draw,0,0,0.67,0.66,53,47,0,1,9,11,5,5,660,533,580,471,3,4,7,13,0,0,2,3,13,7,2,1,0,0,5,5,0,0
+59,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,1.89,0.8,59,41,2,1,14,6,4,3,716,527,634,437,8,3,8,6,0,0,0,3,6,8,0,4,0,0,5,5,0,0
+60,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.79,0.81,54,46,0,1,10,4,6,2,614,546,539,480,3,2,13,9,0,0,4,4,10,13,4,3,0,0,5,5,0,0
+61,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.61,0.82,51,49,0,0,8,12,6,7,621,576,553,508,3,8,9,11,0,0,0,2,12,9,3,2,0,0,5,5,0,0
+62,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.45,1.14,55,45,0,0,7,11,3,4,605,520,529,446,5,5,8,14,0,0,1,1,14,8,6,3,1,0,5,5,0,0
+63,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.97,1.53,58,42,1,2,7,11,1,8,639,488,566,426,4,4,9,12,0,0,1,2,12,9,5,3,1,0,5,5,0,0
+64,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,0.93,0.64,53,47,1,0,8,10,5,3,573,528,495,450,3,8,8,11,0,0,1,2,11,9,5,3,0,0,5,5,0,0
+65,Kuopion Palloseura,AC Oulu,Draw,0,0,1.33,2.45,50,50,0,2,15,19,8,10,585,633,505,561,6,6,9,10,0,1,2,2,11,10,5,4,0,0,5,5,0,0
+66,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.63,1.33,46,54,0,1,10,14,6,8,501,609,421,541,7,6,9,14,0,0,2,2,14,9,3,1,0,0,5,5,1,0
+67,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,0.66,1.45,49,51,0,1,10,14,1,9,542,565,469,499,4,15,9,8,0,0,1,2,8,9,1,3,0,0,5,5,0,0
+68,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.96,1.94,54,46,0,2,14,16,4,9,639,515,562,443,5,10,9,8,0,0,1,3,8,9,1,3,0,0,5,5,0,0
+69,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,2.25,1.02,58,42,1,2,20,7,7,2,629,474,561,409,7,4,8,7,0,0,1,3,7,8,3,2,0,0,5,5,0,0
+70,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,4,0.96,2.37,60,40,0,0,18,17,3,10,735,516,653,443,8,6,7,7,0,0,3,1,7,8,1,1,0,0,5,5,0,0
+71,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.58,0.84,56,44,0,0,10,13,3,7,583,470,518,399,4,4,7,12,0,0,3,3,12,8,2,3,0,0,5,5,0,0
+72,Kuopion Palloseura,AC Oulu,Draw,1,1,1.02,1.04,56,44,1,1,13,12,3,5,659,500,582,424,4,4,9,12,0,0,2,5,12,10,4,2,0,0,5,5,0,0
+73,Kuopion Palloseura,AC Oulu,Draw,1,1,0.59,0.98,55,45,0,1,9,14,6,3,586,485,530,422,5,7,14,15,0,0,3,6,15,14,5,1,1,0,5,5,0,0
+74,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.99,2.14,49,51,1,2,15,10,3,5,622,628,557,560,6,2,7,10,0,1,2,2,11,7,2,2,0,0,5,5,0,0
+75,Kuopion Palloseura,AC Oulu,Draw,1,1,0.6,2.46,53,47,0,3,9,17,5,7,610,529,532,448,7,12,5,5,0,1,1,1,6,5,1,3,0,0,5,5,0,0
+76,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,1,1.32,0.78,61,39,1,1,18,9,9,5,675,439,595,365,8,3,5,12,0,0,4,1,12,5,2,3,0,0,5,5,2,0
+77,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.36,1.86,51,49,0,1,9,11,2,5,535,510,466,433,6,6,15,6,0,1,1,2,7,15,2,5,0,0,5,5,0,0
+78,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,0,1.43,1.21,53,47,1,2,15,12,10,8,556,495,477,423,6,16,9,7,0,0,1,3,7,9,3,3,0,0,5,5,0,0
+79,Kuopion Palloseura,AC Oulu,Draw,1,1,1.3,1.02,51,49,1,0,17,13,5,7,527,539,456,468,6,7,11,17,0,0,3,5,17,11,5,3,0,0,5,5,0,0
+80,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.07,1.13,55,45,0,0,16,13,2,6,583,493,521,436,7,7,8,8,0,0,4,2,9,8,2,3,0,0,5,5,2,0
+81,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,3,1.9,1.98,50,50,2,2,13,16,5,8,527,559,465,483,7,5,8,13,0,0,3,1,13,8,1,4,0,0,5,5,0,1
+82,Kuopion Palloseura,AC Oulu,Draw,1,1,0.43,1.07,56,44,0,0,10,11,6,5,705,523,611,445,5,9,10,8,0,0,4,4,8,10,1,3,0,0,5,5,0,0
+83,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.68,1.03,57,43,0,1,9,10,1,6,734,532,659,464,3,7,4,8,0,0,1,1,8,4,1,2,0,0,5,5,1,0
+84,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.17,1.27,58,42,0,2,6,9,3,3,744,504,656,434,2,1,9,10,0,0,3,3,10,9,2,3,0,0,5,5,0,0
+85,Kuopion Palloseura,AC Oulu,Draw,2,2,0.73,1.42,53,47,1,1,5,13,4,6,622,574,543,501,1,4,6,13,0,0,4,2,13,6,4,2,0,0,5,5,1,0
+86,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,0,1.1,0.65,52,48,1,0,14,11,6,5,509,484,447,413,6,7,9,9,0,0,1,5,10,9,4,3,0,0,5,5,0,0
+87,Kuopion Palloseura,AC Oulu,Draw,2,2,1.82,1.64,56,44,1,3,17,10,9,3,626,465,545,395,10,3,7,13,0,0,1,4,13,7,4,1,0,0,5,5,0,0
+88,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.89,1.89,55,45,1,1,13,11,7,6,709,532,617,452,7,4,6,13,0,0,4,0,13,6,3,1,0,0,5,5,0,0
+89,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,1.3,0.23,58,42,1,3,13,6,5,1,736,490,656,415,6,3,7,10,0,0,1,3,10,7,4,3,0,0,5,5,0,1
+90,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.72,0.88,53,47,0,1,10,13,3,4,618,536,536,464,4,3,10,11,0,0,3,4,11,10,2,1,0,0,5,5,0,0
+91,Kuopion Palloseura,AC Oulu,Draw,0,0,1.06,1.79,54,46,1,3,14,7,6,1,659,547,594,484,5,6,6,8,0,0,0,3,8,7,4,1,0,0,5,5,0,0
+92,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,0.59,3.05,58,42,0,3,7,14,5,9,710,516,633,442,3,8,6,9,0,0,1,1,9,6,2,3,0,0,5,5,0,0
+93,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.55,1.07,51,49,0,1,10,8,2,5,589,534,533,469,5,4,5,17,0,0,2,1,17,5,5,2,0,0,5,5,0,0
+94,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.75,0.53,58,42,0,1,14,5,3,3,678,508,590,421,6,4,9,11,0,0,3,1,11,9,3,4,0,0,5,5,0,0
+95,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.53,0.56,54,46,0,1,8,6,4,2,587,449,494,377,6,2,5,10,0,0,0,0,11,5,3,3,0,0,5,5,0,1
+96,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.24,1.05,48,52,0,0,7,13,3,3,601,652,524,573,5,6,8,11,0,0,3,2,11,8,1,3,0,0,5,5,0,0
+97,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.71,0.99,56,44,1,2,12,10,8,5,621,469,552,396,4,5,10,13,0,0,2,2,13,10,4,4,0,0,5,5,0,1
+98,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.68,1.67,48,52,0,0,13,18,5,8,554,582,489,508,7,7,4,7,0,0,0,1,7,4,4,3,0,0,5,5,2,0
+99,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.25,0.2,52,48,0,0,4,7,1,3,587,583,515,518,3,4,8,16,0,0,5,1,17,8,4,3,0,0,5,5,0,0
+100,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.67,1.04,52,48,0,0,8,12,4,6,535,506,466,440,6,5,8,11,0,0,2,0,11,8,4,4,0,0,5,5,0,0
+101,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,1.45,1.03,58,42,2,0,12,11,7,7,630,399,555,341,6,11,12,8,0,0,4,3,8,12,0,3,0,0,4,5,2,0
+102,Kuopion Palloseura,AC Oulu,Draw,1,1,1.17,2.32,57,43,3,2,13,14,7,4,671,466,603,413,9,8,7,10,0,1,5,1,11,8,2,4,0,0,5,5,0,0
+103,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.99,0.8,60,40,1,1,9,9,7,4,717,432,645,369,6,7,9,12,0,0,6,2,12,9,3,4,0,1,5,5,0,0
+104,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,5,1,2.76,2.37,54,46,2,3,17,17,11,5,532,445,464,386,6,7,12,16,1,0,6,1,16,13,5,6,0,0,5,5,0,0
+105,Kuopion Palloseura,AC Oulu,Draw,1,1,1.1,2.0,53,47,1,1,10,16,6,7,594,503,511,445,5,11,8,10,0,0,3,4,10,8,2,1,0,0,5,5,0,0
+106,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.15,1.88,56,44,1,1,10,12,4,5,681,511,606,438,7,9,6,9,0,1,4,1,10,6,2,2,0,0,5,5,0,0
+107,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,3,1.56,1.29,47,53,1,1,10,11,5,7,527,636,463,560,9,6,5,13,0,1,1,0,14,5,5,0,2,0,5,5,0,0
+108,Kuopion Palloseura,AC Oulu,Draw,1,1,0.93,1.96,51,49,0,2,10,13,6,6,553,501,471,442,3,5,8,17,0,0,1,3,17,8,3,3,0,0,5,5,0,0
+109,Kuopion Palloseura,AC Oulu,Draw,2,2,1.42,1.62,52,48,1,2,11,10,7,6,547,479,489,418,6,11,15,12,1,0,1,6,12,16,2,2,0,0,5,5,0,0
+110,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.2,1.27,54,46,0,2,13,9,3,4,649,497,574,430,7,7,7,8,0,0,1,2,8,7,4,4,0,0,5,5,0,0
+111,Kuopion Palloseura,AC Oulu,Draw,1,1,0.64,1.11,54,46,0,1,6,9,4,4,663,580,588,504,5,5,9,13,0,0,3,1,14,9,2,2,0,0,5,5,0,0
+112,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,0,2.12,1.28,51,49,2,2,18,10,10,3,553,559,484,483,8,5,5,12,0,0,1,1,12,6,3,0,0,0,5,5,1,0
+113,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.27,1.12,52,48,0,1,6,5,4,2,650,516,571,450,5,5,7,8,0,1,3,3,9,7,4,1,0,0,5,5,0,2
+114,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,1,1.67,2.06,50,50,1,3,16,15,10,5,510,519,439,439,6,7,8,14,0,0,3,3,14,8,5,2,0,0,5,5,0,0
+115,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.56,1.73,50,50,2,3,12,12,4,8,557,565,483,492,5,7,10,8,0,0,0,2,8,10,1,3,1,0,5,5,0,0
+116,Kuopion Palloseura,AC Oulu,Draw,1,1,0.73,0.79,52,48,0,1,10,6,5,2,638,566,571,490,7,5,13,9,0,0,2,6,10,13,2,3,0,0,5,5,0,0
+117,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,4,0.5,2.15,52,48,0,2,9,9,5,6,617,521,544,455,3,5,9,11,0,1,3,3,12,9,2,3,0,0,5,5,0,0
+118,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.45,2.11,55,45,1,3,13,14,7,8,614,445,534,378,4,4,16,10,0,0,0,7,10,16,4,5,0,0,5,5,1,0
+119,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.16,0.46,50,50,0,0,5,10,2,3,575,556,498,487,3,6,7,12,0,0,1,0,12,7,5,6,0,0,5,5,0,0
+120,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,0.81,1.61,54,46,2,2,9,14,3,6,588,525,513,451,5,7,11,8,0,0,5,2,8,11,0,2,0,0,5,5,0,0
+121,Kuopion Palloseura,AC Oulu,Draw,1,1,1.69,1.54,55,45,2,1,16,9,7,4,700,546,625,473,8,1,8,9,0,0,1,2,9,8,2,2,0,0,5,5,0,0
+122,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.7,2.06,54,46,0,2,11,14,5,10,556,463,488,403,5,6,10,11,0,0,2,1,11,11,5,6,0,0,5,5,0,0
+123,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.78,1.26,61,39,0,2,10,10,6,4,717,403,647,335,8,7,9,9,0,0,4,0,9,9,0,4,0,0,5,5,0,0
+124,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,1.68,1.31,56,44,1,1,12,16,3,6,604,512,531,436,5,12,10,10,0,0,2,2,10,10,5,3,0,0,5,5,0,0
+125,Kuopion Palloseura,AC Oulu,Draw,1,1,1.21,1.01,48,52,1,0,17,11,6,6,542,593,471,521,4,5,11,14,0,0,1,2,14,12,5,5,0,0,5,5,0,0
+126,Kuopion Palloseura,AC Oulu,Draw,1,1,0.53,1.39,53,47,0,0,7,8,5,4,611,500,560,448,4,6,12,14,0,0,6,5,14,13,5,6,0,0,5,5,0,0
+127,Kuopion Palloseura,AC Oulu,Draw,0,0,1.27,0.47,57,43,1,0,15,7,6,2,624,479,570,412,11,3,11,16,0,0,4,1,16,11,2,5,0,0,5,5,0,0
+128,Kuopion Palloseura,AC Oulu,Draw,0,0,1.2,1.43,58,42,0,3,16,13,10,5,665,455,580,387,10,7,9,9,0,0,3,3,9,9,0,3,0,0,5,5,0,0
+129,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.08,1.95,59,41,0,2,16,11,8,7,637,449,574,393,7,5,7,11,0,0,3,0,12,7,4,2,0,0,5,5,0,0
+130,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,4,2,1.55,2.25,51,49,2,2,10,11,8,5,580,550,503,460,3,4,9,12,0,0,3,3,12,9,3,4,0,0,5,5,0,0
+131,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.62,1.02,46,54,0,1,6,10,4,5,530,591,464,519,7,8,8,14,0,0,1,4,14,8,3,2,0,0,5,5,0,0
+132,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.49,0.47,54,46,2,0,11,6,7,3,618,484,536,408,7,6,6,10,0,0,3,1,10,6,2,3,0,0,5,5,0,0
+133,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.62,1.71,47,53,0,3,10,10,5,5,572,557,501,490,6,6,10,15,0,1,1,2,16,10,6,1,1,0,5,5,0,0
+134,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.73,1.32,58,42,0,1,13,8,4,3,611,431,538,366,10,3,8,17,0,0,4,1,18,9,3,3,0,0,5,5,0,0
+135,Kuopion Palloseura,AC Oulu,Draw,1,1,1.4,2.22,55,45,1,2,8,13,4,5,616,470,526,397,6,8,11,6,1,1,1,6,7,12,4,2,1,0,5,5,0,0
+136,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.38,1.38,55,45,3,2,10,9,4,4,675,564,608,497,5,0,7,14,0,0,4,2,14,7,3,2,0,0,5,5,0,0
+137,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.78,0.62,59,41,2,1,11,6,2,3,670,442,587,380,6,4,9,9,0,0,2,2,9,9,3,5,0,0,5,5,0,0
+138,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.66,0.67,55,45,0,0,11,6,3,2,679,537,609,453,8,5,7,14,0,0,4,4,15,8,2,1,0,0,5,5,0,0
+139,Kuopion Palloseura,AC Oulu,Draw,1,1,0.84,1.0,51,49,0,1,9,10,3,5,557,551,475,472,6,10,10,10,0,0,1,0,10,10,2,3,0,0,5,5,0,0
+140,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.21,0.72,53,47,2,1,15,4,4,3,671,578,599,509,7,7,6,10,0,0,3,1,10,6,2,2,0,0,5,5,0,1
+141,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.66,1.99,52,48,0,1,8,16,2,8,563,573,493,499,4,8,8,10,0,0,1,0,10,8,3,4,0,0,5,5,0,0
+142,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,0.87,2.53,54,46,1,1,10,19,4,7,549,418,463,355,3,14,11,12,0,1,0,4,13,12,4,3,0,0,5,5,0,1
+143,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,1.04,1.4,51,49,2,3,9,7,5,4,602,581,542,516,5,8,7,10,0,1,1,3,11,7,2,1,0,0,5,5,2,0
+144,Kuopion Palloseura,AC Oulu,Draw,0,0,0.45,0.79,51,49,0,0,6,11,5,1,504,540,431,476,4,10,10,17,0,0,3,0,17,10,4,4,0,0,5,5,0,0
+145,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.93,2.14,48,52,0,1,15,17,5,7,504,580,433,502,6,9,8,14,0,0,0,1,14,8,4,0,0,0,5,5,0,0
+146,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,1.07,1.09,52,48,2,2,5,10,4,6,610,590,550,519,2,4,9,12,0,0,1,3,13,10,5,1,1,0,5,5,0,0
+147,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,4,1.17,2.88,62,38,0,5,10,10,5,5,753,438,690,383,4,3,5,12,0,1,2,2,13,5,3,2,0,0,5,5,0,0
+148,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.96,3.08,52,48,2,5,12,10,3,5,559,551,502,479,7,9,6,15,0,1,3,3,16,6,4,2,0,0,5,5,0,0
+149,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,4,1.04,1.84,55,45,1,2,13,7,5,5,571,446,507,379,4,4,7,12,0,1,2,1,13,7,1,2,0,0,5,5,0,0
+150,Kuopion Palloseura,AC Oulu,Draw,1,1,0.98,1.12,54,46,1,1,10,8,6,3,612,471,540,404,4,6,11,11,0,0,3,5,11,11,3,2,0,0,5,4,0,2
+151,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,2.31,0.8,55,45,3,1,13,9,8,7,619,503,542,440,11,2,4,8,0,0,0,0,8,4,0,2,0,0,5,5,2,2
+152,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,0.62,1.19,53,47,0,1,9,15,5,5,621,587,531,503,4,8,11,7,0,0,3,4,9,11,1,3,0,0,5,5,0,0
+153,Kuopion Palloseura,AC Oulu,Draw,1,1,1.08,0.84,54,46,0,0,18,13,12,8,563,497,491,423,8,7,10,8,0,0,0,1,8,10,3,4,0,0,5,5,3,0
+154,Kuopion Palloseura,AC Oulu,Draw,1,1,1.2,0.96,53,47,1,0,9,9,6,6,657,577,573,492,3,7,10,9,0,0,3,1,9,10,2,3,0,0,5,5,0,0
+155,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.52,1.05,53,47,1,1,11,12,5,6,543,476,468,406,5,6,10,13,0,0,2,2,13,10,4,6,0,0,5,5,0,0
+156,Kuopion Palloseura,AC Oulu,Draw,0,0,0.47,0.62,53,47,0,1,9,7,3,5,593,538,517,464,5,2,7,16,0,0,4,2,16,7,4,4,0,0,5,5,0,3
+157,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,2,0.33,2.41,53,47,0,3,6,12,3,4,676,546,591,460,4,2,10,14,0,0,5,1,14,10,3,6,0,0,5,5,0,0
+158,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.9,0.9,56,44,1,2,20,12,9,8,639,488,577,424,6,8,16,10,0,0,0,3,10,16,4,6,0,0,5,5,0,2
+159,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.3,1.35,57,43,1,1,12,14,5,7,618,476,551,417,8,9,3,16,0,0,7,0,16,3,2,2,0,0,5,5,0,0
+160,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.85,1.46,53,47,0,2,12,9,7,6,699,557,615,488,6,3,9,9,0,0,2,0,9,9,2,3,0,0,5,5,0,0
+161,Kuopion Palloseura,AC Oulu,Draw,1,1,1.65,1.5,58,42,1,0,13,17,5,10,712,511,637,449,6,9,7,8,0,0,0,4,8,8,3,2,1,0,5,5,0,2
+162,Kuopion Palloseura,AC Oulu,Draw,0,0,1.43,1.42,56,44,3,1,16,8,3,4,668,484,596,409,7,7,7,15,0,0,8,1,15,7,1,2,0,0,5,5,0,0
+163,Kuopion Palloseura,AC Oulu,Draw,2,2,1.15,0.93,50,50,2,0,11,10,5,6,584,598,515,521,4,4,7,9,0,0,1,1,9,7,2,3,0,0,5,5,0,1
+164,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,1,0.67,1.69,54,46,0,2,7,12,6,2,628,506,555,422,2,6,18,11,0,0,0,5,11,18,2,4,0,0,5,5,2,0
+165,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.52,1.23,53,47,1,1,13,8,4,4,606,532,534,447,6,6,6,15,0,0,4,2,15,6,3,0,0,0,5,5,0,0
+166,Kuopion Palloseura,AC Oulu,Draw,0,0,0.89,0.43,48,52,0,0,16,11,5,4,586,640,499,546,5,8,5,12,0,0,2,4,12,5,3,0,0,0,5,5,0,0
+167,Kuopion Palloseura,AC Oulu,Draw,1,1,1.16,1.52,52,48,1,2,10,12,6,5,591,552,508,472,5,8,9,7,1,0,1,4,8,10,2,3,1,0,5,5,0,0
+168,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,2,3,2.87,1.28,55,45,3,1,10,13,3,7,648,567,567,478,4,6,5,10,0,0,4,2,10,6,0,3,0,0,5,5,1,0
+169,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.89,0.95,50,50,0,1,15,9,7,7,621,537,543,478,6,4,8,13,0,0,2,0,13,8,5,3,2,0,5,5,1,0
+170,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,3,1.66,3.79,50,50,2,4,11,15,6,8,502,576,439,506,4,12,7,15,0,1,5,2,16,7,3,0,0,0,5,5,0,0
+171,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.42,0.84,57,43,0,0,6,9,2,6,680,504,606,433,8,4,5,11,0,0,3,2,11,5,3,3,0,0,5,5,0,0
+172,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.47,2.16,49,51,0,2,9,14,2,8,536,606,477,534,4,6,8,14,0,0,6,1,14,8,2,3,0,0,5,5,0,0
+173,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.41,1.99,52,48,2,2,14,14,2,9,568,513,487,453,1,9,9,12,0,1,3,1,13,9,3,6,1,0,5,5,0,0
+174,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.47,1.46,58,42,0,1,17,9,7,6,700,486,628,408,12,6,7,10,0,0,2,1,10,7,3,1,0,0,5,5,0,0
+175,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.26,0.97,59,41,0,1,15,6,7,2,663,458,595,395,10,5,9,15,0,0,5,2,15,9,5,2,0,0,5,5,0,0
+176,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.14,1.13,56,44,0,1,16,10,7,6,700,529,619,451,7,6,8,7,0,0,1,1,8,8,2,3,0,0,5,5,0,0
+177,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,1.5,1.12,55,45,0,1,14,5,4,3,678,486,595,414,6,2,10,10,0,1,3,4,11,10,4,0,0,0,5,5,0,0
+178,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,3,4,1.09,2.45,53,47,1,1,8,14,5,8,670,544,599,469,3,8,8,11,0,0,3,3,11,8,2,2,0,0,5,5,0,0
+179,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,3,0.92,1.35,52,48,1,0,11,13,3,8,576,521,504,456,5,6,9,10,0,0,3,2,10,9,2,3,0,0,5,5,0,0
+180,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.32,2.33,53,47,0,4,4,11,3,6,571,522,504,445,3,9,13,15,0,0,3,5,15,13,4,3,1,0,5,5,0,0
+181,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.21,1.46,55,45,0,2,5,8,3,4,648,516,572,437,2,8,8,13,0,0,2,3,13,9,4,3,0,0,5,5,0,0
+182,Kuopion Palloseura,AC Oulu,Draw,2,2,1.18,2.36,55,45,1,3,11,14,7,10,660,554,572,479,1,8,8,12,0,0,3,1,12,8,1,2,0,0,5,5,0,0
+183,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.5,1.23,52,48,0,1,8,11,3,4,645,605,578,539,4,7,9,12,0,0,2,2,12,9,5,5,1,0,5,5,0,0
+184,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,3,1.06,2.06,48,52,1,3,10,14,7,8,590,657,508,583,4,6,5,8,0,0,3,2,8,5,1,3,0,0,5,5,0,0
+185,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,2,1.13,2.16,53,47,1,3,12,11,5,7,606,547,520,469,3,9,5,13,0,1,4,1,15,5,4,0,0,0,5,5,0,0
+186,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,2.57,0.38,63,37,2,0,21,9,8,5,762,461,694,400,10,4,10,4,0,0,2,1,4,10,1,5,0,1,5,5,0,1
+187,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,0.8,1.99,54,46,0,3,10,11,6,5,608,528,535,465,5,10,9,10,0,1,1,3,11,9,4,3,0,0,5,5,0,0
+188,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.19,0.37,52,48,0,0,5,6,3,2,595,519,519,459,2,7,15,6,0,0,0,5,7,15,4,2,0,0,5,5,0,0
+189,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,3,0.44,0.99,58,42,0,1,11,9,3,4,679,485,605,410,7,2,9,11,0,0,1,1,11,9,2,3,0,0,5,5,0,0
+190,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,0,1,1.32,1.81,49,51,2,2,13,14,3,9,517,577,445,502,8,5,10,15,0,0,1,4,15,11,3,4,0,0,5,5,0,0
+191,Kuopion Palloseura,AC Oulu,Draw,2,2,1.41,1.0,57,43,1,0,11,16,7,6,567,467,509,398,5,8,9,15,0,0,5,1,15,9,5,5,0,0,5,5,0,0
+192,Kuopion Palloseura,AC Oulu,Kuopion Palloseura loss,1,2,0.98,1.18,53,47,1,1,10,5,6,4,561,449,496,378,5,2,11,11,0,0,1,3,12,11,2,4,0,0,5,5,1,2
+193,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,3,1,1.89,2.08,57,43,2,3,9,12,6,7,621,471,558,402,8,10,11,13,0,1,3,5,14,12,2,2,0,0,4,5,2,0
+194,Kuopion Palloseura,AC Oulu,Draw,1,1,0.93,2.43,50,50,1,2,12,13,5,9,572,590,489,521,8,7,4,14,0,1,5,2,15,6,1,0,0,0,5,5,0,0
+195,Kuopion Palloseura,AC Oulu,Draw,1,1,1.37,1.48,52,48,1,0,13,13,6,5,617,531,547,460,6,6,7,13,0,0,2,2,14,7,3,4,0,0,5,5,0,0
+196,Kuopion Palloseura,AC Oulu,Draw,1,1,0.4,1.85,49,51,0,2,9,11,3,3,526,557,451,476,1,4,12,13,0,0,3,2,13,12,4,5,0,0,5,5,0,0
+197,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,2,0,0.83,0.57,56,44,0,0,12,6,7,2,736,580,653,492,7,2,7,7,0,0,0,1,7,7,0,3,0,0,5,5,0,0
+198,Kuopion Palloseura,AC Oulu,Draw,0,0,0.72,1.58,55,45,0,1,10,12,4,5,554,511,487,447,7,3,8,16,0,0,4,0,16,8,3,2,0,0,5,5,0,2
+199,Kuopion Palloseura,AC Oulu,Draw,2,2,1.6,2.76,56,44,1,3,9,11,4,6,685,548,607,466,3,8,7,11,0,0,3,3,11,9,1,3,0,0,5,5,0,0
+200,Kuopion Palloseura,AC Oulu,Kuopion Palloseura win,1,0,0.79,0.72,57,43,1,2,9,12,3,4,584,436,503,363,5,11,16,10,0,0,2,4,10,16,3,6,0,0,5,5,0,0

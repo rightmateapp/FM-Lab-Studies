@@ -1,0 +1,4 @@
+fixture,build,home,away,game,matches,win_pct,draw_pct,loss_pct,points_per_match,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against
+leicester-v-walsall,"single build, 1000 matches",Leicester City,Walsall,FM 27.1.0,1000,80.8,12.9,6.3,2.553,2.49,0.63,2.26,0.66,18.45,7.66
+leicester-v-walsall,"single build, 1500 matches",Leicester City,Walsall,FM 27.1.0,1500,85.7,11.5,2.8,2.687,2.7,0.54,2.4,0.64,19.48,7.11
+leicester-v-walsall,"single build, 2000 matches",Leicester City,Walsall,FM 27.1.0,2000,74.2,17.8,8.1,2.402,2.26,0.58,2.11,0.69,16.68,7.95
